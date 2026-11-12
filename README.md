@@ -5,14 +5,24 @@
 
 A free GTA V guessing game where you're given a random voiceline from the game and need to identify who said it and which mission it was spoken on.
 
-<div>
-  <img src="assets/images/main_menu_screenshot.png" width="500">
-  <img src="assets/images/gameplay1_screenshot.png" width="500">
-</div>
-<div>
-  <img src="assets/images/gameplay2_screenshot.png" width="500">
-  <img src="assets/images/results_screenshot.png" width="500">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/main_menu_screenshot.png" width="500">
+    </td>
+    <td align="center">
+      <img src="assets/images/gameplay1_screenshot.png" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/images/gameplay2_screenshot.png" width="500">
+    </td>
+    <td align="center">
+      <img src="assets/images/results_screenshot.png" width="500">
+    </td>
+  </tr>
+</table>
 
 ## 🎮 Game Rules
 
