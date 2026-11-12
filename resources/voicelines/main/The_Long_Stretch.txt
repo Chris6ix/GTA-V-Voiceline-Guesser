@@ -1,0 +1,174 @@
+Franklin arrives at his house
+[Hard][Magenta]:    Oooh, all our prayers have been answered...Weeeeeell... hello.
+[Extreme][Franklin]:    I don't wanna know.
+[Normal][Franklin]:    What the fuck? I mean what the hell going on here?
+[Normal][Denise]:    Wait a minute, Franklin. What are you doing here?
+[Easy][Franklin]:    I live here. This half my house, too.
+[Easy][Denise]:    So you say. Anyway, Magenta is reinvigorating my femininity. So make yourself scarce, boy. Go. Go.
+
+Franklin leaves his house
+[Normal][Denise]:    And stay out of trouble!
+[Extreme][Magenta]:    Vulva. Vulva. Vulva.
+[Hard][Lamar]:    I'm like, "Bitch, you ain't no more of a man than me."
+[Easy][Lamar]:    Gangsta shit, nigga. Look who's biz-ack!
+[Hard][Lamar]:    What's happenin' with it, man?
+
+The conversation between the 3
+[Normal][Stretch]:    Oh, no, no, show some respect here, nigga. The man they couldn't hold down is back. Come on now.
+[Normal][Franklin]:    Damn, man, I gotta spend my day with another middle-aged fool trying to recapture his youth?
+[Hard][Stretch]:    What this fool just say?
+[Normal][Franklin]:    I missed you, dog.
+[Normal][Stretch]:    Oh, oh, you miss me, huh?
+  One line split into 2:
+[Normal][Franklin]:    Nah, I ain't missed you. Your ass could have stayed gone for good. 
+[Easy][Franklin]:    So I fucked your girl, mugged your moms, and better yet, I ain't thought about your ass in years.
+[Normal][Stretch]:    Haha, you got jokes now, huh? Hey, but I see you doing well for yourself, check that on out.
+[Hard][Franklin]:    Shit, I'm doing just fine.
+[Normal][Stretch]:    That's what I hear. But I know some sweet boys up in the pen that got bigger balls than you.
+[Normal][Franklin]:    Oh, you been doing your time looking at sweet boy balls?
+[Hard][Franklin]:    Yeah, it's good to have confirmation.
+[Normal][Stretch]:    This funny fuck... Why you keep hanging around this clown, L? Shake this fool, man.
+[Easy][Lamar]:    We from the same set, Stretch. Why, why y'all niggas can't get along? You all been doing this shit for years, man.
+[Normal][Franklin]:    You know what, dog, it's good you back home. Glad you here. Missed you, boy. Man... you definitely got hit up inside.
+[Extreme][Stretch]:    Hit up?!
+  One line split into 2:
+[Hard][Stretch]:    Yo, motherfucker. I know little niggas like you been turned out on the daily. 
+[Normal][Stretch]:    Talking about being hit up, nigga, I swear, man. You ain't got no motherfucking respect.
+[Normal][Franklin]:    Motherfucker, I got respect for reality.
+[Normal][Stretch]:    Reality? Alright, alright, you keep thinking that. Just keep thinking that, nigga. Shit, you gon' er get yours.
+[Normal][Lamar]:    Striz-etch, come on, cool out, chill, man.
+[Normal][Stretch]:    Whoa, whoa, whoa... What the fuck, man? This motherfucker get on my Goddamn nerves.
+[Normal][Lamar]:    The nigga get on my nerves too, man. P... Part of the nigga charm, man. F, come on, man, let's just bust a move, man. You gonna drive or what, pimp?
+[Extreme][Franklin]:    Drive where?
+[Normal][Lamar]:    Pick up this heat, nigga.
+[Easy][Lamar]:    Business, nigga.
+[Easy][Lamar]:    Business. Come on, y'all niggas act like girls.
+
+The 3 get into the car
+[Hard][Stretch]:    Let's go to the gun store.
+[Hard][Stretch]:    Ammu-Nation. Come on. Let's go.
+
+They drive to Ammu-Nation
+-If Franklin retains his default hairstyle
+[Hard][Lamar]:    Shit, homie. You gonna drop all that bread on that gear, you might as well get a haircut too.
+[Extreme][Stretch]:    Fuckin' crazy haired microphone motherfucker.
+[Hard][Franklin]:    I got a microphone I can shove right in your prison pocket. Nigga, you walk like you keistering shit anyway.
+
+-If Franklin changes his hairstyle and clothes
+[Normal][Lamar]:    Man, look at this fly ass motherfucker for a minute. Check him out!
+[Hard][Stretch]:    Haha. He got his swag on, right? I hope he don't think he gonna fuck us. 'Cause he looking pretty, but I ain't goin' the distance, homie.
+[Hard][Franklin]:    Stretch, you got your fucking nerves given your history. You the creepiest motherfucker around here, nigga.
+  One line split into 2:
+[Hard][Stretch]:    You know, when I went away, you punks was little homies, and I was a big homie. 
+[Hard][Stretch]:    Now I'm out, and you little homies is big homies, but you still got to respect.
+[Hard][Franklin]:    Man, what the fuck this nigga talking about?
+[Hard][Lamar]:    We all big homies, but he bigger, right?
+[Hard][Franklin]:    Man, that's some fucking pyramid scheme bullshit.
+[Easy][Lamar]:    Pyramids is good, man! Illuminati pharaoh shit.
+
+They arrive at Ammu-Nation
+[Normal][Lamar]:    Soon as we get this shit, soon as we get paid, homie.
+[Hard][Franklin]:    Soon as we incarcerated is more likely.
+[Normal][Lamar]:    Oh, hell yeah. You could trick your blam-blam out up in here.
+[Hard][Stretch]:    Quit all that, just straight up artillery man. Alright?
+[Normal][Franklin]:    Man, would y'all shut the fuck up? I got this, you clowns.
+
+-If Franklin doesn't own a shotgun
+[Easy][Lamar]:    Ooh, homie. Get the shotty with the flashlight on it.
+
+-If Franklin owns a shotgun
+[Easy][Lamar]:    Alright, homie. Get your shotgun with the flashlight modification.
+
+-If Franklin already has a flashlight on the shotgun
+[Normal][Lamar]:    Alright homie, get some heat.
+
+[Hard][Franklin]:    Why the fuck am I the only one buying this?
+[Hard][Stretch]:    'Cause we got sheets, homie. Now shut the fuck up and come on.
+
+  Dialogue 1
+[Normal][Stretch]:    Hey, listen up. I want to be crystal fucking clear, nothing he buying got anything to do with us.
+[Normal][Lamar]:    Yeah you know, uh, we got felonies, and we ain't touchin' shit.
+  Dialogue 2
+[Hard][Stretch]:    Whoo, it's hot as hell up in here, homie.
+[Hard][Stretch]:    We could buy this shit, go to Mexico. Take that sit to the bank.
+[Normal][Lamar]:    Hell no, nigga we... We got felonies, nigga, ain't nobody doin' that shit. We legit as a motherfucker on this right now man, just chill.
+  Dialogue 3
+[Hard][Stretch]:    Now, how the hell you work in a shop like this all day long, without feeling the need to grab a gun, just walk out the door and shoot somebody?
+[Hard][Franklin]:    I think they do a psych test to make sure people working here don't do shit like that.
+[Hard][Lamar]:    Man, you see this nigga right here, he look every bit of fifty-one fifty.
+
+-If Franklin doesn't have enough cash
+[Hard][Lamar]:    Oh you flat, homie? I would think you was flendin', but ain't no fiends that fat. Take this cheese, you old broke ass bitch.
+
+-If Franklin purchased shotgun without flashlight
+  One line split into 2:
+[Normal][Stretch]:    You supposed to get a flashlight before you book.
+[Normal][Stretch]:    Hey, get back in here and get the flashlight.
+
+Franklin purchases the shotgun with the flashlight
+[Hard][Lamar]:    Man, we got some recycling to do. Come on, man. Center off Fringe in La Puerta.
+[Hard][Lamar]:    Take us down to that one spot where the base heads be takin' their cans at. You know, on Fringe in La Puerta.
+
+They drive to the recycling plant
+[Hard][Franklin]:    You got some cans or some shit I don't know about?
+[Normal][Lamar]:    Nah, homie. We got ourselves a drug deal.
+[Normal][Franklin]:    Why do I get the feeling this gonna be one of them deals gone wrong type situations?
+[Normal][Stretch]:    Now, see, that's that negative attitude Lamar was telling me about, nigga. You ain't gettin' nowhere thinking like that.
+[Normal][Franklin]:    The power of positive bullshit. You oughta be clenching your motherfucking vagina muscles with my aunt, nigga.
+[Extreme][Lamar]:    After his bit, it probably need tightening up.
+[Hard][Stretch]:    This ain't new age shit, it's fact. You get what you give, fool.
+[Hard][Franklin]:    You've been getting dick, but you aint giving it, huh?
+[Normal][Stretch]:    Some mark talk like that to an OG? Huh, CGF has changed, man. No wonder the hood is so lame right now.
+[Hard][Franklin]:    Speaking of change. Lamar's been meaning to talk to you, homie.
+[Hard][Lamar]:    It's nothing, my nigga, nothing. You know, just some ideas, that's all.
+[Hard][Stretch]:    Man, ideas ain't your strong suit. So put it on me.
+[Hard][Lamar]:    It's nothing real, homie. When it's something real, we'll talk.
+[Hard][Franklin]:    Bullshit, man. It's realer than this crap.
+
+They arrive at the recycling plant and enter it
+[Hard][Lamar]:    Alright homie, we meeting in here.
+[Normal][Franklin]:    Man, how'd you find this place?
+[Hard][Lamar]:    Homie set it up.
+[Hard][Stretch]:    This the kind of spot where we ain't goin' be disturbed.
+[Extreme][Franklin]:    That's what the fuck worries me. I'm more of a hide in plain sight type of nigga.
+[Hard][Stretch]:    No. You more of a punk bitch type nigga.
+
+The scene with D
+[Normal][Lamar]:    We got that shit, nigga! Where the paper at, nigga? I'm talkin' about beaucoup bills, boy.
+[Normal][D]:    Lamar Davis, wassup, boy? Everything cool?
+[Easy][Franklin]:    Hold on, man. What the fuck, man? You was just kidnappin' this nigga!
+[Normal][Lamar]:    Oh, come on! You know real recognize real.
+[Easy][Stretch]:    D, my nigga! Just got out. Crossing lines. Did some time with some of your folk.
+[Normal][D]:    Uh... Hey, hey, hey. Look, look, look. This ain't about you, man.
+[Hard][D]:    You know these niggas done fucked up!
+[Normal][Stretch]:    What the fuck this trick talkin' about man?
+[Extreme][D]:    Yeah, yeah, yeah, yeah! Ah ha.
+[Normal][D]:    See, see, they puttin' a nigga on TV, man!
+[Hard][Stretch]:    Somebody creepin' on us?!
+[Normal][D]:    About some gang intervention shit.
+[Easy][Franklin]:    Hey, this ain't the police, dog! This some Ballas bullshit!
+[Normal][Franklin]:    Hey, we were set up, nigga!
+[Normal][Stretch]:    Ol' bitch-ass Ballas!
+
+They fight the Ballas
+[Normal][Lamar]:    Fuckin' D! He set us up!
+[Hard][Franklin]:    Fuck! I said lay low after you got clocked.
+[Hard][Lamar]:    You lay low, motherfucker. That ain't me.
+[Hard][Lamar]:    You handled that fool!
+[Hard][Stretch]:    Yeah, and I'd handle him again! Many times as it takes! Shit!
+[Hard][Franklin]:    Shit nigga, then we all be dead.
+[Normal][Stretch]:    Snitch-ass fool thought we was marks!
+[Hard][Lamar]:    Now he ain't thinking shit!
+
+The fire starts
+[Hard][Stretch]:    The place on fire! Shit's burning!
+[Hard][Stretch]:    You see that shit!? It's on fire, man!
+[Hard][Stretch]:    Fire, dog! Fire! You see that shit!?
+[Hard][Franklin]:    Well, move! Shit, we gotta go before this shit spreads!
+
+They arrive at Franklin's house
+[Easy][Lamar]:    Here we are, man. You go hang with your auntie while the men break it off.
+[Easy][Lamar]:    Hell nah, nigga. You sounding more and more like a sni-i-itch every day.
+[Normal][Franklin]:    Nah, nigga. I sound like somebody trying to make some paper and not get killed.
+[Normal][Stretch]:    He's a hook ass nigga. I told you.
+[Easy][Franklin]:    Nigga, go toss a salad! Stretch mark-ass bitch!

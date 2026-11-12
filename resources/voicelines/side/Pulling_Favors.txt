@@ -1,0 +1,60 @@
+Franklin approaches Tonya
+[Easy][Franklin]:    What the fuck is wrong with you, Tonya?
+[Easy][Tonya]:    Ain't nothing wrong with me, nigga. Shit!
+[Normal][Franklin]:    Well, your ass don't look too good. Where the fuck is JB?
+[Extreme][Tonya]:    Smoking.
+[Normal][Tonya]:    Well, y'know, I quit. Y'know what I'm sayin'? Almost...
+  One line split into 3:
+[Easy][Tonya]:    JB... look, JB gonna lose everything. 
+[Easy][Tonya]:    He gonna lose the house, y'know what I'm sayin'? The business, everything and you his cousin, nigga. 
+[Hard][Tonya]:    You said you was gonna help.
+[Hard][Franklin]:    He ain't my cousin.
+[Hard][Tonya]:    Whatever, if that's how you feel...
+[Normal][Franklin]:    What the fuck do I know about towing cars?
+[Easy][Tonya]:    Look, it's easy. If JB can do it, you can do it, for fuck's sake. Come on. I'ma show you. Come on. Shit.
+[Hard][Tonya]:    Shit... I gotta show him everything.
+[Normal][Franklin]:    Hey, look, let's make this quick. I got shit to do.
+[Easy][Tonya]:    Nigga, you need to slow it down, Tanisha was right.
+
+Franklin and Tonya enter a vehicle
+[Extreme][Franklin]:    A'ight, shit, where we goin'?
+[Normal][Tonya]:    Truck's at the Davis Sheriff impound.
+[Normal][Franklin]:    Oh, man. How did I get dragged into this?
+[Easy][Tonya]:    We both know you always been sweet on me, shit, Franklin Clinton.
+[Normal][Franklin]:    Shit, your ass must be high or something.
+  One line split into 2:
+[Normal][Tonya]:    I told you, I don't do that shit no more. 
+[Easy][Tonya]:    I mean, I baby-dose now and again, just for the taste, but I'm doin' good, boo, your eyes don't lie.
+[Normal][Franklin]:    Whatever you say, girl. Come on.
+
+They arrive at the impound and enter the truck
+[Easy][Tonya]:    There's JB's truck. Let's go bring the cha-ching, homie.
+[Easy][Tonya]:    Yo, we on that like ugly on your momma.
+[Easy][Tonya]:    It's Tonya, fool, and my boy Franklin. We fillin' in for JB.
+[Hard][Tonya]:    A bucket. This one should be easy.
+[Normal][Franklin]:    Shit. Not easy enough for JB to drag his ass outta whatever crackhouse he's laying in.
+[Normal][Tonya]:    His loss, your gain, sugar.
+[Normal][Franklin]:    Except I ain't gainin' shit. Sugar.
+[Normal][Tonya]:    Move that seat back and you know I'll make it right for you.
+[Easy][Franklin]:    That ain't what I'm sayin'. Damn, Tonya, what the fuck happened to you?
+
+They reach the abandoned car and hook it up
+  One line split into 3:
+[Normal][Tonya]:    Okay, I seen JB do this a hundred times. 
+[Easy][Tonya]:    Back up close, make sure the hook is down, and it should slide right in. 
+[Normal][Tonya]:    A'ight, baby, back it up nice and steady.
+[Normal][Tonya]:    Okay, we are in, baby. Let's get this back to the lot.
+[Hard][Franklin]:    Man, this was not how I saw my day going.
+[Normal][Tonya]:    So I ain't seen you around the hood much?
+[Normal][Franklin]:    I been tryin' to branch out, can't stay in Chamberlain Hills forever.
+[Normal][Tonya]:    Ooh, nigga got airs now. I remember you before you was a wannabe, when you just was.
+[Normal][Franklin]:    And I remember you and JB before y'all was dopeheads. Shit changes.
+[Normal][Tonya]:    You the one all turfed up. JB smokin', but he ain't smokin' homies. He out here grindin', towin' cars, payin' bills.
+[Easy][Franklin]:    For real? ‘Cause I could have sworn it was me out here towin' cars for him.
+[Normal][Tonya]:    And lookin' damn fine doin' it too, baby.
+
+They pull into the impound and drop the car off
+  One line split into 2:
+[Normal][Tonya]:    Okay, we make the drop where they got the areas marked. 
+[Normal][Tonya]:    They get real finicky when we don't leave it in the right place.
+[Easy][Tonya]:    I'll see you on the block. Anything you need, you holler at me. Now, where is that fool?

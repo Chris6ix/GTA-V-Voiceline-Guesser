@@ -1,0 +1,153 @@
+The scene at Lester's home
+[Easy][Michael]:    Fuck you, Lester. You gotta let me in or what?
+[Extreme][Lester]:    Gimme a minute.
+[Hard][Lester]:    I was wondering when you'd show up.
+[Normal][Michael]:    I was dead.
+[Normal][Lester]:    Praise be! I guess you weren't very dead. You... need my help.
+[Extreme][Michael]:    How do you know?
+[Hard][Lester]:    'Cause you came here. Why else would you?
+[Normal][Michael]:    I haven't been a good friend for you, Lester. I know that.
+  One line split into 2:
+[Hard][Lester]:    And you're gonna make it up to me by doing whatever I ask. 
+[Normal][Lester]:    Or rather, I-I mean... I need something done, you need to know something, so, why not help each other?
+[Normal][Michael]:    I gotta make some dough.
+[Easy][Lester]:    So you're back in the game?
+[Normal][Michael]:    I guess. Look, Lester, about what happened before...
+  One line split into 3:
+[Normal][Lester]:    I know you never mentioned my name. 
+[Normal][Lester]:    I know I'm not on any lists anywhere, I know you never betrayed me. 
+[Easy][Lester]:    As for you, you gotta figure that I never told anyone, that instead of gently decomposing in North Yankton, you're angrily decomposing in Los Santos with a shrink... and a wife who don't love you no more.
+[Hard][Michael]:    Yeah... yeah, well. Since you put it like that...
+[Normal][Lester]:    Hey, shut up a minute, I'm getting an EyeFind alert. That little college boy, sack of shit, phony fuck!
+[Normal][Michael]:    Who? Jay_Norris?
+[Normal][Lester]:    Yes. That fuck is a lying bastard, I've read his fucking emails, he's a fucking cheat.
+[Normal][Michael]:    I-I-I heard him say that he saved America...
+  One line split into 2:
+[Normal][Lester]:    What, by outsourcing all the jobs?! By selling us little bits of plastic, restricted-access shit? 
+[Hard][Lester]:    Well now it's payback time, you lying turd.
+[Easy][Lester]:    You are about to get that white-collar gig that you've always dreamed of, Mikey.
+  One line split into 2:
+[Easy][Lester]:    Here, take this err, fashionably retro, "weird-for-a-45-year-old-man-but-I-cannot-let-go-of-the-1980s" bag, and dress yourself up like a billionaire math genius with low-level Asperger's. 
+[Hard][Lester]:    You better be ready for the minor glitch of your repulsive pseudo-messianic life.
+[Normal][Lester]:    Get out of here! Call me when you're ready. We're about to put the Darwinism back in social Darwinism, and brother, it's gonna be fun.
+[Easy][Michael]:    You fuckin' kiddin' me? I'm a bank robber, not a web designer.
+[Easy][Lester]:    So, we'll go robbing... soon. I'll find something. Just like the old days.
+
+-If the player doesnt immediatly leave Lester's house
+[Hard][Lester]:    I'd offer you something, but you were just leaving.
+[Hard][Lester]:    Was there something else?
+[Hard][Lester]:    As much as I love "catching up"...
+[Normal][Lester]:    Please excuse me, I've got something shameful to do.
+
+Michael enters the clothing store
+[Easy][Michael]:    Ah, excuse me. I got this interview with this tech company. I'm thinking I need something, I don't know... geeky, youthful.
+[Normal][Michael]:    I didn't lose my job.
+
+Michael calls Lester
+[Hard][Michael]:    I'm all dressed up. Now, you wanna run me through this thing?
+[Easy][Lester]:    The prototype is somewhere in the Lifeinvader office. Find it, and fit it with the device in your bag.
+[Extreme][Michael]:    They just gonna let me in?
+[Hard][Lester]:    Why wouldn't they, if you look the part? Hang around till someone opens the door and act entitled.
+
+Michael meets Rickie at the Lifeinvader entrance
+  One line split into 2:
+[Easy][Rickie]:    Oh, great. PM's pushing for more functionality, but we are maxed. 
+[Easy][Rickie]:    I mean, if anything, we have to strip features, especially if we're planning on releasing a fully-priced update a year later. Oh, my... you know, it's all this...
+[Hard][Michael]:    Yeah, well, you know, you gotta do what you gotta do. You know?
+[Easy][Rickie]:    Err, I mean, we're talking beta in Q4, maybe Q3. Look, milestones are one thing, but when design is changing its mind seemingly overnight, there's not much you can do about it... you know what I'm saying?
+[Normal][Michael]:    Look, my Union-allocated smoke break's about up, so...
+[Extreme][Rickie]:    Wait a minute, do I know you?
+[Hard][Rickie]:    I-I-IT temp, right?
+[Hard][Rickie]:    You know, you gotta do something for me.
+[Normal][Michael]:    Ah, you gotta put it in a ticket.
+[Normal][Rickie]:    Err, no. I'd like to keep this one out of the database, if you know what I mean?
+
+Both enter the building and walk to Rickie's desk
+[Hard][Rickie]:    I'm turning consultant when we release - consulting consulters.
+[Normal][Rickie]:    Here you go. If you guys let me use the OS I requested, this wouldn't be a problem.
+[Easy][Michael]:    Ah, you've been at it on this PC. This is a filthy hard drive, bro. Uh, got any antivirus software?
+[Easy][Rickie]:    I think so. Behind this junk, on the left. Clicked an NSFW link, bro, bit me on the ass.
+[Normal][Michael]:    Yeah, not safe for work, huh? You know, my son's computer runs into the same kind of problems. I'll close the pop-ups, see what I can do.
+  One line split into 2:
+[Hard][Rickie]:    Your son codes? Start 'em early, bro. You write your best stuff in your tweens. After that, it's just a hack job. 
+[Extreme][Rickie]:    Might I tempt you with some organic chow or a fair-trade java?
+[Extreme][Michael]:    Give me a second, will you?
+[Hard][Rickie]:    Rocking out might get you in the right head space.
+[Extreme][Michael]:    Bear with me, alright?
+[Hard][Rickie]:    My glitch fixing is gonna be way down today.
+[Hard][Rickie]:    You want to take a break for some air guitar, gimme a wink, bro.
+[Extreme][Michael]:    Almost cracked it.
+[Hard][Rickie]:    You wannna massage? 'Cause my hands are free.
+[Hard][Michael]:    See, I don't have the manual on me.
+[Hard][Rickie]:    I need to write some product, broheim. I'm feeling the itch.
+[Hard][Michael]:    My son probably wrote this, the little shit bag.
+[Hard][Rickie]:    This place is fueled by java, bro.
+[Hard][Michael]:    These hacker kids. Always coming up with a new way to screw the network in the ass.
+[Hard][Rickie]:    Might be why I get all these migraines. Seriously, it - it might be why.
+[Hard][Rickie]:    Wow. Your job is actually kinda stressful too, ain't it?
+[Hard][Michael]:    They gotta send me on another one of those seminars.
+[Extreme][Michael]:    Scanning...
+
+Michael removed the malware and leaves
+[Normal][Michael]:    And that should do it. Why don't you try and keep things strictly "safe for work" from now on?
+[Easy][Rickie]:    Hey, have you seen the prototype in the demo room? When Norris unveils it at the keynote, minds are gonna blow!
+[Extreme][Michael]:    Yes, they are.
+[Normal][Rickie]:    Dude, when it blue screens again, you're my guy.
+[Hard][Rickie]:    Making history, dude. Hey, and we couldn't do it without the little guys!
+
+Michael calls Lester
+[Normal][Lester]:    Hey, Michael, hold on, hold on... domed! I domed ya!
+[Easy][Michael]:    Lester? The thing's in the prototype, I'm going home to watch the keynote.
+[Hard][Lester]:    Teabag time, my friend!
+[Easy][Michael]:    Lester, did you hear me? Are you playing that game?
+[Normal][Lester]:    Yeah, yeah, sorry, phone is rigged. What's your problem, you don't like shooters?
+[Normal][Michael]:    They're all the same. Besides, you know me, I'm a movie guy. Classic Vinewood.
+[Hard][Lester]:    Classic Vinewood ended 30 years ago. Now, it's just superheroes, romantic comedies and remakes, none of which interest me.
+  One line split into 2:
+[Hard][Michael]:    Hey, I believe this country can still make interesting movies. 
+[Extreme][Michael]:    There's no better way to define American life than a two-hour plot in which the hero looks good and defeats evil.
+[Normal][Lester]:    Ah, whatever you say...enjoy yesterday. Anyway, just call the device after he's unveiled it, and then we'll talk.
+
+Michael returns home
+[Hard][Tracey]:    Oh my God, you guys are so lame!
+[Easy][Tracey]:    No, I'm watching Fame or Shame!
+[Normal][Michael]:    Tough fucking tits! Gimme that...
+  One line split into 2:
+[Hard][Jay_Norris]:    Hey. This company has come a long way since we started it in my parents' pool house in East Carraway. 
+[Hard][Jay_Norris]:    Today, you're about to witness a new phase. Full on, weapons grade, red alert, world domination!
+  One line split into 2:
+[Hard][Jay_Norris]:    We have put a billion people's private data in the public domain, and we have milked every penny we could in the process. 
+[Hard][Jay_Norris]:    We have one of the youngest work forces in the world! An average age of only 14.4 years, that's not just impressive, it's revolutionary!
+[Hard][Jay_Norris]:    Today, right here, we're about to make the next step! Prepare to witness... the future.
+  One line split into 6:
+[Normal][Jay_Norris]:    The Lifeinvader mobile device. Yes, we have invented something no one else has ever thought of. 
+[Hard][Jay_Norris]:    A small personal computerized device. Now you're able to stay docked 24/7. 
+[Hard][Jay_Norris]:    On the bus. You can dock. On the subway. Stay docked. You can be docked in at home, and at the same time, you're docking with some kids at the public pool. 
+[Hard][Jay_Norris]:    We went to the guys at Fruit Computers and we told them we wanted to make our hardware as compatible as possible. 
+[Hard][Jay_Norris]:    But you know what? They're not interested in "sharing" their technology. So we went and made it compatible anyway. 
+[Normal][Jay_Norris]:    Now you can dock your Lifeinvader to an iFruit or any other device, and it'll take all the data off it and reformat it into Lifeinvader-friendly information.
+
+Michael calls Norris
+[Hard][Jay_Norris]:    Huh, hold on a second. I think someone's trying to dock with me.
+ 
+-If Michael fails to call Jay in time
+[Hard][Jay_Norris]:    At around this point in my presentation there was meant to be a call from my product team to introduce the device, but we're experiencing some technical difficulties.
+[Hard][Jay_Norris]:    I hate to keep you waiting any longer, but trust me, it's worth it. And don't worry, I will fire several people for this.
+ 
+Michael calls Lester
+[Normal][Michael]:    Lest, that was heavy! You watching the news?
+[Hard][Lester]:    I don't have to, I'm watching the markets. I'll be trading pure alpha 'till close.
+[Hard][Michael]:    Alright. Hey, about that other thing, you know, the score?
+  One line split into 2:
+[Normal][Lester]:    Oh, yeah, yeah, absolutely. Let's do it. Put on a suit, look somewhat professional and meet me at my warehouse off the LS Freeway. 
+[Hard][Lester]:    Oh, and I'm about to email you a link for the exchange. You can put in some trades of your own.
+[Hard][Michael]:    I'm trying to stay off the day trading, but maybe I'll take a look.
+ 
+Rickie calls Michael some time later
+[Easy][Rickie]:    It's Rickie from Lifeinvader. I know you're the bro who deactivated Jay, bro.
+[Normal][Michael]:    I have no idea what you're talking about, pal.
+  One line split into 2:
+[Hard][Rickie]:    What you do's your business, bro. Anyway, Jay really got a big head once people started calling him a god... guess you proved he wasn't one. 
+[Hard][Rickie]:    They reintegrated my team in Burundi after the design got signed off, and now, my shares ain't worth dick.
+[Normal][Rickie]:    I need work, and I thought maybe you could provide. I mean, I'm smart enough to track you down, aren't I?
+[Extreme][Michael]:    I guess you are. Hey, I'll be in touch if anything comes up.

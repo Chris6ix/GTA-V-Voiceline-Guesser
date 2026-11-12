@@ -1,0 +1,182 @@
+Michael is trying to watch TV
+[Normal][Jimmy]:    Dude, do you even have a penis? Or are you one of those hermaphro-dudes born without genitals?
+[Normal][Jimmy]:    You suck cock for fun, only secretly, and then you feel bad about it.
+
+Michael runs up to Jimmy's room
+[Normal][Michael]:    Goddamnit! Jimmy! Goddamnit!
+[Normal][Michael]:    Really? 'Cause I keep hearing, "hermaphrodite" this, "suck cock" that.
+[Normal][Jimmy]:    Go watch your linear entertainment. Go watch porn. Just go away.
+[Normal][Michael]:    Fuck, you lazy shit.
+
+Michael smashes Jimmy's TV
+[Normal][Michael]:    Disrespectful little asshole!
+[Easy][Jimmy]:    I can't believe you did that! That's my TV!
+[Normal][Michael]:    You don't talk to me like that!
+[Normal][Jimmy]:    I cant believe you... Mom was right about you. You don't know any better and you can't help it. But you're an asshole.
+[Normal][Michael]:    Yeah? Well, why don't you do something, then? Besides just stand there. Why don't you hit me?
+[Normal][Jimmy]:    Is that what you want? To be hit by your son?
+[Normal][Michael]:    Yeah... No... I just want you to do something besides sit there... eating.
+[Easy][Jimmy]:    Yeah, great. Thanks for the fucking guidance, dad. It means a lot.
+[Hard][Michael]:    Wait! I'm just trying to help ya.
+[Easy][Jimmy]:    Well nothing says 'I love you' like smashing my fucking TV. Nothing at all!
+
+Michael apologizes to Jimmy
+[Normal][Michael]:    I'm sorry. I just wish we could do things together.
+[Extreme][Jimmy]:    Yeah, what things?
+[Normal][Michael]:    I don't know. Go for walks. Play ball.
+[Hard][Jimmy]:    You know I have bad glands.
+[Normal][Michael]:    Bike ride then.
+[Easy][Jimmy]:    Bike ride? You want to go on a fucking bike ride? Fine! Fine, let's go on a fucking bike ride!
+
+Michael and Jimmy head outside
+-If Jimmy changes the radio station
+[Normal][Jimmy]:    Sure you have. No wonder I'm so fat, you feed me all this bullshit! 
+[Normal][Jimmy]:    I'm going gray listening to this crap. Station change. Fuck yeah, my jam!
+[Hard][Jimmy]:    If I'm hanging with you, I'm listening to my music. Oh hella yeah.
+[Extreme][Michael]:    Driver's choice.
+[Extreme][Michael]:    Tyrant.
+[Extreme][Michael]:    Old man despot.
+
+Michael and Jimmy drive to Vespucci Beach
+[Hard][Jimmy]:    This day was going so well until you showed up, you know that? Urgh...
+[Normal][Michael]:    Yeah, well, you're lucky to even be allowed out of the house after that boat stunt.
+  One line split into 2:
+[Hard][Jimmy]:    What's the big deal? If anything goes wrong you can just fake your death, and start all over. 
+[Hard][Jimmy]:    How am I meant to develop my own moral sensibilities when yours are so unbelievably fuck-faced?
+[Normal][Jimmy]:    Seriously, some guys borrow your boat-
+[Normal][Michael]:    Borrow?! You were hiding in the head crying kidnap!
+[Hard][Jimmy]:    They just took receipt of your property with payment pending.
+[Hard][Michael]:    If it was anything other than what you told me, then that's on you!
+  One line split into 2:
+[Hard][Jimmy]:    Alright! They fucking stole it! And who knows what they would have done if they found me! 
+[Extreme][Jimmy]:    But I didn't expect or want them to get killed!
+[Normal][Michael]:    You think I'm going to let some guys ride off with my son?!
+[Hard][Jimmy]:    Look, I knew you were a bad guy but...
+[Extreme][Michael]:    Oh, a "bad guy?"
+[Hard][Jimmy]:    A crook, a killer, a thief, a liar!
+[Hard][Michael]:    I guess I been all those things one time or another, right? It's just...
+[Hard][Michael]:    I always thought I was the good guy.
+[Hard][Jimmy]:    God help the morally bankrupt planet your generation have left us, if you're the good guy.
+[Hard][Jimmy]:    Anyway, I always knew you were the kind of person who didn't let other people get in the way. But I hadn't, like, seen that happen before.
+  One line split into 2:
+[Hard][Michael]:    Yeah, well, that's me, Jim. 
+[Hard][Michael]:    And I been trying my best to get things under control for the last ten years, but that was an extreme fucking situation, and I had to act.
+[Extreme][Jimmy]:    A normal person wouldn't have done that.
+[Extreme][Michael]:    Yeah, well, I had to. To protect you.
+[Hard][Jimmy]:    Yeah, keep telling yourself that, when you see their faces every time you close your eyes.
+  One line split into 2:
+[Easy][Jimmy]:    Why do I always have to hang out with you? What about Tracey, huh? Why don't you ruin her day for once? 
+[Hard][Jimmy]:    So, um, where are the bikes?
+[Hard][Michael]:    At the rental place.
+[Hard][Jimmy]:    You? Rent?
+[Normal][Jimmy]:    I just thought you'd cruise around till you found an old lady on her way to the shops, knock her to the road, and cycle off on her bike.
+[Hard][Michael]:    What do you take me for?
+[Hard][Jimmy]:    Are we seriously having this conversation?
+[Normal][Michael]:    Hey, I don't just rob anyone.
+  One line split into 2:
+[Hard][Jimmy]:    Yes, you do... I don't even think you know who you rob. They're anonymous to you. 
+[Hard][JImmy]:    They've got something you want, and fuck them for standing in the way.
+[Hard][Michael]:    No one complains when the guys at the hedge funds take what they can. What I do, it...
+[Normal][Jimmy]:    Actually, dad, they do complain. There are some serious complaints. Protests even.
+[Hard][Michael]:    Mister fucking morality.
+[Hard][Jimmy]:    Here's a couple of morals to live by, don't kill people, and bankers are fucking scumbags.
+  One line split into 3:
+[Hard][Michael]:    Oh, you're anti-bankers now? Now that's a bandwagon if I ever saw one.
+[Hard][Michael]:    Hey, I got an idea. Let's get mom to paint you a protest sign and we'll send you out into the street, huh?
+[Normal][Michael]:    Hell, God knows you got time for it, with no TV and no fucking job!
+[Extreme][Jimmy]:    Maybe I'll take you up on the offer.
+[Normal][Michael]:    I don't see you standing in front of a tank, son. Unless it's a digital one, and there's a homo in the cockpit.
+[Normal][Jimmy]:    What's so funny about me wanting my voice to be heard? It's my generation who've been screwed over. The debt, the job market.
+[Normal][Michael]:    Well, you ain't employed, but you ain't exactly struggling either. You know, at your age I was...
+[Normal][Jimmy]:    I know! In prison! Well, I'm in prison too! And the fucking warden wants to take me on a fucking bike ride!
+[Normal][Michael]:    You don't know hardship, you little shit.
+[Hard][Jimmy]:    Well, you don't know what an asshole you are.
+[Hard][Michael]:    Hey. I got news for you, a lazy shit like you would get eaten alive in the pen. They'd be licking their lips.
+[Normal][Jimmy]:    Well, it's a good thing I'm not the most likely one in the household to be convicted of a felony then.
+[Hard][Michael]:    Well, maybe they should bring back debtors prisons.
+[Hard][Jimmy]:    I think they've got plenty to worry about, with wanted bank robbers going on stealing and murdering sprees!
+[Normal][Michael]:    Oh, no worries there, Jim. Me and the government learned to co-exist, thank you very much.
+
+-If Michael drives recklessly
+[Normal][Jimmy]:    You're driving like a psychopath, Michael. Do you realize that? Or are you so high on your own outmoded sense of masculinity that you think this is normal?
+[Normal][Michael]:    Shut your pie hole. I think we'll both be happier if we can spend as little time in this vehicle as possible.
+  One line split into 2:
+[Hard][Jimmy]:    God, you think I've got learning difficulties, huh? 
+[Hard][Jimmy]:    Take a good long look in the mirror, pal. I'm not the one who doesn't respect my fellow human being.
+[Hard][Michael]:    No. Not unless they're a 'Spic', or a 'Jew-boy', or an 'ass-munching homo'.
+[Hard][Jimmy]:    Oh, there was me thinking there's a difference between witty banter arising from a sense of competition…
+[Extreme][Jimmy]:    And mowing someone down in the street!
+[Easy][Michael]:    Hey, I never said you had learning difficulties, Jim.
+[Hard][Jimmy]:    Well, I do, and you never cared.
+[Easy][Michael]:    I just said that Dr. Friedlander thought that maybe you had problems relating to people.
+[Normal][Jimmy]:    Relate to my asshole, old man.
+
+-If Michael gets a wanted level
+[Easy][Jimmy]:    The cops! Dad, I'm not a juvenile anymore, I'll go to grown-up prison!
+[Easy][Jimmy]:    You know what prison will be like for me, Pop? My perfect white skin - I got bitch written all over me.
+[Hard][Jimmy]:    If I go away, will you screw up my face so I'm not so pretty? Actually, not in the face.
+[Hard][Jimmy]:    Can we, like, pay them off - or give them hand jobs?
+
+After Michael loses them
+[Normal][Jimmy]:    I'd prefer not to think about what just happened - just take us to Vespucci.
+[Normal][Jimmy]:    The less that's said about that the better. Let's just go to the beach.
+
+Michael and Jimmy arrive at the bike rental shop
+[Easy][Jimmy]:    Here we are. The bike rental place. Please don't shoot the bike rental guy out of, like, force of habit.
+[Hard][Michael]:    Hey, you. Two bikes.
+
+Jimmy gets on a bike and both begin a race to Pleasure Pier
+[Easy][Jimmy]:    If I beat you to the end of the pier, you're buying me a new TV.
+[Easy][Jimmy]:    If I make it to the end of the pier first, you're going to buy me a big-ass new flatscreen.
+[Normal][Michael]:    End the pier. Fine. But if you lose, you're going to do something with your life!
+[Normal][Michael]:    End of the pier? Alright. But if I beat you, you're going to behave like a human being!
+
+-If Jimmy wins the race
+[Normal][Jimmy]:    Agh, woo! That's it. Number one, pal. You owe me a TV.
+[Extreme][Michael]:    Hey, I never agreed to that.
+[Easy][Jimmy]:    You know this is real nice, Dad. Bonding, good times.
+[Normal][Michael]:    Yeah, well, I've given it my best shot. Hey, we're having fun, right?
+
+-If Michael wins the race
+[Easy][Michael]:    Looks like you're buying your own TV.
+[Easy][Jimmy]:    You know this is real nice, Dad. Bonding, good times.
+[Normal][Michael]:    Yeah, yeah, I've given it my best shot. Come on, we're having fun, right?
+
+The dialogue remains the same regardless of the two alternative cutscenes
+[Normal][Jimmy]:    You wouldn't know fun if it sat on your face.
+[Easy][Jimmy]:    I mean, why do I have to hold your hand through this whole midlife crisis bullshit? And why don't you stick your nose up Tracey's butt sometimes?
+[Easy][Michael]:    Because Tracey doesn't buy cars she can't afford so that thugs break in our house. Tracey doesn't get kidnapped or destroy my yacht.
+[Normal][Jimmy]:    Well, that's just because she's too busy getting fucked by dudes to get on TV.
+[Easy][Michael]:    You don't talk about your sister that way!
+[Easy][Jimmy]:    Well, I'm sorry, but it's true. I mean, according to her Lifeinvader page, she's hanging out with producers and porno guys this afternoon.
+
+Jimmy points to the boat where Tracey is at
+[Normal][Jimmy]:    Actually, it's all happening right out there.
+  One line split into 2:
+[Normal][Jimmy]:    That boat that makes yours look like a refugee raft. 
+[Normal][Jimmy]:    You know the kind of boat? The one that makes a young, impressionable girl, drop her pants and spread her legs.
+[Normal][Michael]:    This is the reason you brought me here, isn't it? You fuck! Argh!
+[Hard][Jimmy]:    Dad. No. Stop.
+
+The scene on the boat
+[Hard][Tracey]:    I'm a dancer. Yeah
+[Normal][Michael]:    Come on, sweetheart. I'm taking you out of here.
+[Easy][Tracey]:    Dad, you're embarrassing me, these are my friends.
+[Extreme][Blake]:    Yeah, you're embarrassing her, dude.
+[Normal][Michael]:    They're shooting porno here.
+[Easy][Tracey]:    They shoot porno all over town. Mom rented our house to them last summer.
+[Extreme][Blake]:    If those walls could talk.
+[Extreme][Blake]:    Fuck, man! What's your problem? Asshole.
+[Hard][Tracey]:    I like him! You're such a jerk!
+[Normal][Tracey]:    Dad, you dumbass. These guys are serious.
+[Extreme][Michael]:    Yeah, well so am I.
+[Extreme][Freddy]:    Who's causing a scene on my fucking boat?! Ah, motherfuckers!
+[Extreme][Freddy]:    I'm about to skin you alive!
+
+Freddy and Blake get on the Seasharks and begin the chase
+-If Michael stays in the water
+[Extreme][Tracey]:    No, this is not an appropriate time to take a swim!
+[Extreme][Tracey]:    What the fuck are you doing in the water?! Get back up here!
+[Hard][Tracey]:    Stop fucking around in the water and get on the Seashark.
+
+[Normal][Tracey]:    Shit. They're coming after us. Go into that outlet.

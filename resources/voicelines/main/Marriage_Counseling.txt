@@ -1,0 +1,202 @@
+Michael enters his home
+[Hard][Michael]:    Hey Aman? Tracey?
+[Hard][Michael]:    Amanda! Amanda!
+[Normal][Michael]:    You better not be! Not in my house!
+[Normal][Amanda]:    Fuck you, Michael! Go Away!
+[Easy][Michael]:    I'm paying that turd a hundred and fifty bucks an hour to fuck my wife?
+[Normal][Michael]:    In my own bed?
+[Extreme][Amanda]:    Michael, go away!
+[Normal][Kyle]:    Whoa! I'm sorry bro. She said you had an arrangement.
+[Hard][Michael]:    You and I are gonna have an arrangement.
+[Hard][Michael]:    I'm gonna arrange your fuckin' funeral.
+[Normal][Kyle]:    I'm really sorry, bro. I'll comp the session, I promise.
+[Hard][Michael]:    You're a dead man!
+
+Franklin walks up to the house
+[Hard][Amanda]:    Hey, you...stop him!
+[Hard][Michael]:    Get out of my way!
+[Normal][Amanda]:    Michael, calm down!
+[Hard][Franklin]:    What the fuck is going on?
+[Normal][Amanda]:    Nothing happened, it was all a misunderstanding.
+[Normal][Michael]:    She fucked a prick in my bed.
+[Hard][Franklin]:    You bullshittin' me?
+[Extreme][Amanda]:    It wasn't like that!
+[Extreme][Michael]:    You in?
+[Normal][Franklin]:    Fuck it, I'm in. Let's roll, let's get this motherfucker.
+[Normal][Amanda]:    Just don't kill him!
+
+-If player started as Michael
+[Extremel][Franklin]:    This truck yours?
+[Hard][Michael]:    Guy's doing some work for me. He'll get it back. Might have a dead body hooked to it, but he'll get it back.
+[Extreme][Franklin]:    Oh? So we killing this dude?
+[Hard][Michael]:    He'll wish he was dead. That a problem?
+[Extreme][Franklin]:    Shit, a dog shouldn't shit in another dog's kennel.
+[Extreme][Michael]:    Exactly. People have been shitting in my kennel for too long.
+
+-If player started as Franklin
+[Extreme][Franklin]:    You okay, homie? What happened?
+[Normal][Michael]:    Guy bounced my wife is what happened.
+[Extreme][Franklin]:    Which guy?
+[Normal][Michael]:    Guy I'm paying to teach her tennis.
+  One line split into 2:
+[Normal][Franklin]:    The tennis coach? Aw that's fucked up man. 
+[Extreme][Franklin]:    You rich dudes, homie. You know, back in the hood, man, we gotta watch out for the mailman, dog.
+[Extreme][Michael]:    Yeah, I'm a cuckold, a snob, and a fucking cliché.
+
+Michael and Franklin track the coach to his house
+[Extreme][Franklin]:    Off to the left, right there.
+[Normal][Franklin]:    Fuck man, I think we lost his ass.
+[Easy][Michael]:    He lives somewhere up in the canyon, we'll find him.
+
+Michael and Franklin arrive at the house
+[Extreme][Michael]:    Okay, this is the turn.
+[Hard][Franklin]:    Hey! He in one of these fucking houses?
+[Hard][Michael]:    That's his car. Right there.
+[Hard][Michael]:    The little prick's up there. Look.
+[Normal][Franklin]:    Oh shit, coach doin' alright for hisself.
+[Normal][Michael]:    Hey, asshole! You ran off before we could settle our debts.
+[Normal][Kyle]:    Michael, bud! You got the wrong idea, man.
+
+-If player started as Michael
+[Extreme][Michael]:    If I got to go to a motel, she's got to go to a motel! Let her get crabs for a change!
+[Extreme][Franklin]:    You got crabs?
+[Extreme][Franklin]:    'Cause I like, uh, shook your hand and shit, man...
+[Hard][Michael]:    No. Not anymore. Look, we got rules. Not in the house. Not guys I got to look in the eye. Or pay for the privilege!
+[Hard][Franklin]:    Oh, this dude's your employee? Now that's a line you don't cross, man.
+[Extreme][Michael]:    For any kind of man it is.
+[Hard][Franklin]:    Oh fuck yeah, let's have some strong-ass words with this little byatch.
+[Extreme][Michael]:    Oh, we're gonna communicate nice and clear, that's for shit sure.
+
+-If player started as Franklin
+[Hard][Franklin]:    How you catch 'em?
+[Easy][Michael]:    It wasn't hard. They were in my house. In my own bed, on top of each other!
+[Normal][Franklin]:    Man, this dude got some explaining to do.
+[Easy][Michael]:    The whole thing was kinda self explanatory, Frank. And what we're about to do won't need much context either.
+[Normal][Franklin]:    Shit. Let's coach the shit out this motherfucker.
+
+The scene where they winch down the house
+[Easy][Michael]:    There's a winch in the back of the truck. Tie the cable to one of those supports up there.
+[Easy][Franklin]:    You finna pull his deck down?
+[Easy][Michael]:    Hey, that prick pulled my marriage down.
+[Normal][Franklin]:    Man, you really going to be this fucking dramatic?
+[Easy][Kyle]:    I told you I'd comp the session, bud!
+[Easy][Michael]:    Well there were a lot of freaking sessions, bud! I'm thinking you were working on more than just her backhand!
+[Easy][Kyle]:    Mandy's backhand has come a long way, bro. But sometimes it's got to get worse to get better.
+[Easy][Michael]:    Yeah, well, maybe I should come up there and practice my backhand... on your face!
+[Easy][Kyle]:    Oh, bud. Your negative energy is seriously bringing me down.
+[Normal][Michael]:    Oh, I hope it is, bud.
+[Hard][Franklin]:    We hooked up, man.
+[Easy][Michael]:    You come into my house, take my money and nail my wife, are you fucking kidding me!?
+[Normal][Kyle]:    I'm gonna stick up my hand and say that was uncool, bud.
+[Normal][Kyle]:    My bad. Seriously.
+[Easy][Michael]:    How fucking magnanimous!
+[Easy][Michael]:    May I please offer you my applause... You fucking motherfucker!
+[Easy][Michael]:    Hey, we'll see how you'll like it when someone fucks with your shit!
+[Normal][Kyle]:    Whoa, hey! Wait! You got the wrong idea, pal!
+[Hard][Michael]:    Here we go! Let's see what happens.
+[Hard][Franklin]:    Dude, you are properly crazy.
+[Hard][Franklin]:    Aw shit. You see this shit, dog?
+[Extreme][Franklin]:    Man, homie ain't grubbing outside tonight, dog.
+[Normal][Michael]:    Fuckin' A. Let's see how he liked that.
+[Hard][Michael]:    Fuck him! And fuck his deck!
+[Normal][Franklin]:    Eh, homie! I think you pulled a little more than the deck down.
+[Extreme][Michael]:    It's a foolish man who builds his house on sand, baby.
+[Extreme][Franklin]:    Hey man, I don't think my boy Matthew was thinking trucks when he wrote that shit.
+
+The phone call on the way back home
+[Easy][Kyle]:    Mr. De Santa! What the hell!? That's not my house.
+[Easy][Kyle]:    Oh bro, I couldn't afford a place like that. I'm a tennis coach, I hit balls for a living.
+[Hard][Kyle]:    I was just hiding there.
+[Normal][Michael]:    Oh I'm scared lady. Just fucking terrified.
+[Easy][Michael]:    "Green Light! Green Light! Martin Madrazo!" Fuck you.
+[Normal][Franklin]:    Whoa. Homie. Martin? Martin Madrazo?
+[Extreme][Michael]:    That's what she said.
+[Normal][Franklin]:    Damn, dude's a kingpin, homie. Man, you better hope...
+[Normal][Michael]:    I ain't hoping anything. Chick was hysterical. Chill out. The coach should be doing the Russian broad. Chick needs to chill the fuck out.
+[Hard][Franklin]:    But you did just pull her life apart, homie.
+[Hard][Michael]:    Yeah, I guess I did. All the more reason for coach to show her a good time.
+[Hard][Franklin]:    Man, yo' ass is crazy. You like a sailor on shore leave making up for lost time.
+[Hard][Michael]:    Oh, I been at sea alright. Everything they tell you that you want, kid, you don't need it.
+[Extreme][Michael]:    Fast cars, big houses, beautiful women.
+[Hard][Franklin]:    Man, you talking from the perspective of privilege, homie. To a hungry dude like me, man, all that shit look good.
+[Extreme][Michael]:    Hey, the hunger's the first thing you lose. When that goes - the hunger and the anxiety - you get sloppy and you ain't worth a shit.
+[Hard][Franklin]:    Well, what I just saw up there was a dude that's eatin' good, but he useful. Man, you could teach me a few things, dog.
+[Hard][Michael]:    Yeah, lesson number one, don't meet the mother of your children in a skin joint.
+[Hard][Franklin]:    Man, I don't know dog, strip clubs...
+[Hard][Michael]:    Lesson number two, don't expect her to fucking change. She'll be picking your pocket, and rubbing up on other men until the day you die.
+[Hard][Franklin]:    The advice I'm after's more work related, homie.
+
+The shootout with Madrazo's goons
+[Hard][Franklin]:    Shit, we got some heavies on us, homie.
+[Normal][Franklin]:    Hey man, there's some mean lookin' motherfucking eses right behind.
+[Hard][Michael]:    Are you kidding me? Kid, can you do something?
+[Hard][Michael]:    Whoa, that was quick. Alright, help me deal with this.
+[Hard][Michael]:    We can handle this, can't we? Screw 'em!
+[Extreme][Franklin]:    Yeah, my nigga! That's it.
+[Normal][Michael]:    Okay. We go back to my house, think about this.
+[Normal][Michael]:    Wow. Shit. You did good. I mean, your aim's all over the place, but you were a help.
+[Normal][Michael]:    Hey, don't get defensive. Go to a shooting range. Work on your aim. You'll do fine.
+[Normal][Michael]:    Fine as wine. I got a few knocks. You okay? I mean, you did good, kid.
+[Hard][Franklin]:    Man, I'm cool, man. I mean you - mentally.
+[Hard][Michael]:    Mentally? Oh, man, I'm fucking excellent. My heart ain't pumped like that in years. Wooo! Yes! Fuckin' A bubba!
+[Normal][Franklin]:    Man, you sound kind of manic. You just been green lit by the Mexican underworld ambassador to Los Santos.
+[Normal][Michael]:    Trust me. We handled it. Whoever the fuck Martin Madrazo is, I've known worse.
+[Hard][Franklin]:    We just handled a few low ranking clowns.
+[Hard][Michael]:    We sit on it, we see what happens. Kid, there's no use second guessing. Felt good, man. Woooo! Yeah! Doin' something for a change. Ha!
+[Hard][Franklin]:    Man, you know what? You are wasted sitting by that fuckin' pool, man.
+[Hard][Michael]:    You're right. I need to do something. Scotch and sunshine and sitting on my ass? Fuck that, I'm better than that.
+  One line split into 2:
+[Extreme][Franklin]:    Damn skippy homie. All that knowledge up there. It's witherin' and dyin', dog. 
+[Extreme][Franklin]:    You don't pass that shit on, it's gone, homie. I bet you know some shit...
+[Hard][Michael]:    You wouldn't believe the shit I know.
+[Hard][Franklin]:    Yeah? You taken some score?
+[Extreme][Michael]:    There was a time, that was all I did.
+[Hard][Franklin]:    Shit, well, you know, I can tell you some shit too.
+[Extreme][Franklin]:    About this city I was born and raised in.
+[Extreme][Franklin]:    Yeah, do that, man. This could be cool.
+
+The confrontation with Martin Madrazo
+[Easy][Michael]:    Hey, thanks for the help out there today, kid. I had no idea it was gonna get that hot.
+[Easy][Franklin]:    Shit. Pulling houses off the hillside sure has a weird way of fucking with people.
+[Normal][Michael]:    Yeah, well I thought I was through with all that shit. I don't know what the hell is going on.
+[Normal][Franklin]:    Oh shit! I think we're about to find out.
+[Normal][Martin]:    Do you know who I am?
+[Normal][Martin]:    Do you know who I am?! Do you?
+[Extreme][Martin]:    Do you, you?
+[Extreme][Franklin]:    I think so.
+[Normal][Martin]:    I know who you are. I know where you live.
+[Extreme][Martin]:    Who are you?
+[Normal][Martin]:    License.
+[Easy][Martin]:    Now, Franklin, maybe help Mr. De Santa here. Who am I?
+[Easy][Franklin]:    I think Martin Madrazo.
+[Easy][Martin]:    Good boy. Now maybe give him a little of the background.
+  One line split into 2:
+[Easy][Franklin]:    Man, Martin Madrazo... Mr. Madrazo is a legitimate businessman.
+[Easy][Franklin]:    He was wrongfully accused of...running a Mexican American gang and a narcotic ring, but the charges were dropped because of the witnesses came up... missing.
+[Normal][Martin]:    Smart kid.
+[Hard][Martin]:    Now, Michael.
+[Hard][Martin]:    I've got a question for you.
+[Easy][Martin]:    Why, did you pull a architecturally, significant, modernist wonder home down the hillside in Vinewood Hills?!
+[Easy][Michael]:    I thought the owner was banging my wife.
+[Easy][Martin]:    Well that was a strange house for a tennis coach.
+[Normal][Michael]:    I wasn't thinking straight.
+[Extreme][Martin]:    Clearly.
+[Normal][Martin]:    Well, Natalia will need a hotel, while you finance the rebuild, won't she?
+[Easy][Martin]:    Good. And I'm guessing here that, the rebuild will be somewhere in the... two point five million range?
+[Extreme][Michael]:    Never better.
+[Easy][Michael]:    Looks like I'm gonna have to postpone my retirement.
+  One line split into 2:
+[Easy][Michael]:    Fuck! Ah, man. I'm mortgaged up to my eyeballs. Look, I only know one way to make money. 
+[Easy][Michael]:    I'm gonna have to give an old friend a call. Lester. I think he's in town somewhere. Might have to track him down.
+[Hard][Michael]:    Just give me a little alone time, alright?
+
+The phone call with Lester
+[Easy][Michael]:    Hello. Is this still the number for Lester Crest?
+[Normal][Lester]:    Who's asking?
+[Normal][Michael]:    Who's asking "who's asking"?
+[Easy][Lester]:    You're awful cagey... even for a dead man, Michael.
+[Normal][Michael]:    Oh. You don't sound good, buddy.
+[Normal][Lester]:    Tactful and charming even in death. Come see me, old friend.
+[Normal][Lester]:    I'm living in Los Santos, just like you. Murrieta Heights...
+[Hard][Michael]:    Whoa, whoa... hey, how do you... hello?
+[Extreme][Michael]:    You fucker.

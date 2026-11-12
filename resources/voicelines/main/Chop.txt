@@ -1,0 +1,285 @@
+Franklin arrives at his house and hides as Denise prepares to leave
+[Normal][Denise]:    Girl, of course I saved that poor boy's life. But you know what? It's getting to be a bit much.
+[Normal][Denise]:    'Course I cope. I'm a woman.
+[Normal][Denise]:    But, girl, I done done all that I can do, but you know how boys are.
+[Normal][Denise]:    Wait a minute... Oh, girl... Oh, hey, how much further?
+
+Denise and her friend start walking down the sidewalk
+[Hard][Denise]:    We are women...
+[Easy][Denise]:    We are women, hear our pain, we are women, hear our shout, and we are women, have no doubt.
+
+Franklin walks to the front door as Lamar shows up with Chop
+[Easy][Lamar]:    Damn, F is that your auntie?
+[Easy][Franklin]:    Yeah, thank God I missed her crazy ass. She spirit walking and shit now, man... that's just her attempts to...
+[Easy][Lamar]:    Hey, hey! Don't be talking shit about your auntie, man, she got... I mean she cool as a motherfucker, man, come on.
+[Normal][Lamar]:    We gotta go pick up some shit from round the corner, man. We can walk and talk at the same time, my nigga.
+[Normal][Franklin]:    Why the fuck we can't drive?
+[Easy][Lamar]:    Around the block? With Chop? You need to walk with your fat ass.
+[Normal][Franklin]:    Yeah, okay, you tall, lanky son of a bitch.
+
+The two are walking towards the van
+[Hard][Lamar]:    Come on, homie, we ain't got all day, let's go.
+[Normal][Franklin]:    Fo' sho, but what you got up?
+[Easy][Lamar]:    Kidnapping, fool. That clown D, that OG fool from Ballas.
+[Easy][Franklin]:    Dog, I told you; no more gangbanging, retro-vengeance bullshit. I'm trying to make some fucking paper.
+[Normal][Lamar]:    You gonna make some paper, loc. And ain't nobody out here gangbanging, it just looks like that. You gotta know the difference, man.
+[Normal][Franklin]:    Fuck, man, great. My aunt will be very happy, homie. She wants me dead anyway so she can get the fucking house.
+[Normal][Lamar]:    I told you to quit talking shit about your auntie, loco. That's my bitch. I'm just fucking with ya...I'm just fucking with ya.
+
+-If Franklin doesn't follow Lamar
+[Extreme][Lamar]:    Man, there's two homies right here waiting on your ass
+[Extreme][Lamar]:    Do I need to put a leash on your ass? Come on, let's go, dog.
+[Extreme][Lamar]:    Man, you always was the easily distracted motherfucker.
+[Extreme][Lamar]:    Come on, homie. You worse than Chop.
+
+Franklin and Lamar arrive at a van parked in an alley
+[Normal][Lamar]:    You driving.
+[Normal][Lamar]:    You got the wheel, homie.
+[Easy][Lamar]:    Get in the van, Chop. Get in the van. Good dog.
+[Normal][Lamar]:    We goin' up Vinewood Boulevard.
+
+-If you completed Father/Son before
+[Easy][Franklin]:    I like your dog, homie. Me and Chop got a lot in common - your annoying ass.
+[Normal][Lamar]:    Man, I'm carrying both of y'all asses homie. Look what I set up.
+[Normal][Franklin]:    Man, fuck this, man - you seen Tanisha?
+[Hard][Lamar]:    She straight. It's me and you that ain't straight though, homie.
+  One line split into 2:
+[Easy][Franklin]:    Dog, I know, homie. But look, I met this contact, this white dude. Real serious dude, man. 
+[Hard][Franklin]:    This motherfucker knows the streets. homie. I know he'd be a good hookup for us.
+[Hard][Lamar]:    We don't need no hookup, fool. I know these streets.
+  One line split into 2:
+[Hard][Franklin]:    You? Know these streets? Man, all you know is dime bag hustling, credit card stealing. 
+[Hard][Franklin]:    Boosting gas tankers, homie, come on man. You trying to be some fucking commodity trader or something?
+[Extreme][Lamar]:    Fool, that shit went up, man.
+[Hard][Franklin]:    Look homie, I don't mind dying. You feel me? But I just want to die with something that matters, homie. That's what Forum gangsters should be really about.
+[Normal][Lamar]:    And I know this much, the motherfucking OGs ain't even giving a fuck about us, though.
+[Normal][Franklin]:    Man, fuck the OGs then. You know what I'm saying? This ain't no motherfucking pyramid scheme.
+  One line split into 2:
+[Hard][Lamar]:    Wait, hold on. Listen to your boy one time. Listen to your boy. You want some paper, my nigga?
+[Normal][Lamar]:    This is what it's about. Check it out. I'm talking about forty thousand. No problem. Cash in hand. Two days time, no killing. Nothing.
+[Normal][Franklin]:    Nah, just starting another beef with the fucking Ballas, nigga, that's class-A felony bullshit.
+[Hard][Lamar]:    We gonna keep our disguise on. Ain't nobody gotta know it was us.
+[Hard][Franklin]:    Man, what a long way we've come, homie.
+[Normal][Lamar]:    Fuck you want to go a long way for? We right here, right now, loco.
+[Hard][Franklin]:    That's cool if you want to be bending corners on coke and cough syrup all your days.
+[Extreme][Lamar]:    I seen you on that shit before.
+[Hard][Franklin]:    There you go. Maybe you have. But shit has got to get serious, man. Forum gangsters is about real shit.
+[Normal][Lamar]:    You think running repos for them Armenian fraudsters was serious? Man, please.
+[Hard][Franklin]:    Nah. That why I didn't come at your ass for fucking shit up.
+[Normal][Lamar]:    I fucked it up? Man, you the genius that crashed through the dude's window.
+[Normal][Franklin]:    Man, one - I had a gun to my fucking head. Two - You the one fucked with them eses, man.
+[Extreme][Lamar]:    When you met a man who could tell you what to do?
+[Normal][Franklin]:    Like I said, this dude is serious. Creeped on me like some stealth shit.
+[Hard][Lamar]:    Fool, you slippin'.
+[Hard][Franklin]:    You don't wanna fuck with this man, dog, even you.
+[Extreme][Lamar]:    Man, I don't give a fuck.
+[Hard][Franklin]:    Yeah, your ass keep saying that.
+[Hard][Lamar]:    Man, I don't even know what you trippin' on.
+
+-If you didn't complete Father/Son before
+[Normal][Franklin]:    Man, what the fuck Chop do to deserve a fool like you?
+[Normal][Lamar]:    Chop lucky, homie. Ain't you, Chop? Ain't you, boy?
+[Hard][Franklin]:    Poor dog, man, he don't know what the fuck you sayin'.
+[Normal][Lamar]:    Oh, you wouldn't understand that shit. Us Apache - we got a bond with the animal kingdom.
+  One line split into 2:
+[Hard][Franklin]:    Yeah, you do got a bond, nigga. I seen you bonding with plenty of animal-type bitches. 
+[Hard][Franklin]:    I'm talking big-ass, hairy, scary bitches. It's true about you Apache motherfuckers, y'all do got a bond.
+[Extreme][Lamar]:    Fuck you, homie. A little mustache ain't shit. That's just a sign of virility.
+[Extreme][Franklin]:    Maybe in the dog world, nigga. What you think, Chop? Come on boy, what you think? You like a little hair on your lips, puppy?
+[Hard][Lamar]:    Least I know what I can get. You still after the same bitch from high school. Only she ain't interested in some of your...uh...life choices.
+[Hard][Franklin]:    Nigga, you the life choices she don't like, nigga.
+[Hard][Lamar]:    Nah, nigga, we cool, man. She kick it with me more than you do. Tells me about the lawyer, nuclear physicist, humanitarian, super nigga she fucking.
+[Hard][Franklin]:    Nigga, shut the fuck up with that shit. I'm done, nigga. I moved on many a times, nigga.
+[Normal][Lamar]:    Oh, whatever nigga, that's cool. But on some other shit though, you heard the boy Stretch gettin' out, huh?
+  One line split into 2:
+[Extreme][Franklin]:    He gettin' out? Then the State is in some real motherfucking trouble, nigga. 
+[Extreme][Franklin]:    I didn't think no amount of over-crowding would put that nigga back on the streets, dog.
+[Extreme][Lamar]:    Budgetary realignment, homie. They aligning the homie right up outta Bolingbroke.
+[Extreme][Franklin]:    Damn! Well, let's just hope he don't fall back into that same downward spiral that put him in to begin with, nigga.
+[Normal][Lamar]:    You fucking with me, right?
+[Hard][Franklin]:    Yeah, I'm fuckin' with you, dog.
+[Hard][Lamar]:    Going to snatch a fool, acting all judgmental and shit. Look at you man, that shit is lame.
+[Normal][Franklin]:    Eh, why we doing this, dog?
+[Normal][Lamar]:    Man, 'cause we supplementing our income.
+[Normal][Franklin]:    More like supplementing the drama in our lives.
+[Normal][Lamar]:    Is that fool Simeon looking out for us? Or is he looking out for hisself?
+[Hard][Lamar]:    So, how a couple of gutter-ass fools like us get ahead?
+[Hard][Franklin]:    By getting serious.
+[Hard][Lamar]:    Exactly. We two highly motivated, results-driven motherfuckers with an entrepreneurial mindset.
+[Normal][Franklin]:    Oh, yeah, yeah. Highly motivated self-starters, huh? In the kidnapping sector.
+[Extreme][Lamar]:    Yeah. Starting big.
+[Hard][Franklin]:    But it always go wrong, don't it? All your schemes, for years.
+[Hard][Lamar]:    They don't go right, but I wouldn't say that they go wrong all the time, neither. Not as wrong as they could.
+[Hard][Franklin]:    I ain't dead but I ain't rich neither.
+[Normal][Lamar]:    How does forty thousand sound? 'Cause that's what happening right here.
+[Hard][Franklin]:    Man, I'll believe it when I'm holding it.
+[Easy][Lamar]:    Three way split, homie. Me, you, and Chop.
+[Normal][Franklin]:    Man, Chop don't get shit. Chop a intern.
+[Normal][Lamar]:    You hear that, Chop? Man, Frank tryin' to screw you.
+
+-If Chop barks
+[Hard][Lamar]:    Chop a free spirit. He bark all he likes.
+
+The two arrive at Vinewood Boulevard
+[Normal][Lamar]:    He down this alley up here.
+[Normal][Lamar]:    I been told he up in the alley.
+
+D is talking to a girl in the alley
+[Normal][D]:    Hey what's up, boo? Ain't you little Laita's cousin?
+[Normal][D]:    Damn, you short with it? I was just saying, I was trying to holla at you.
+[Normal][D]:    Why is it gotta be like that? I'm a OG...
+[Normal][Girl]:    An OG, so what? So the fuck what, nigga? S'million OG's around here.
+[Normal][D]:    Well shit, how about I put one of these little X pills up your ass crack? Next thing you know you gonna be begging for it, boo boo.
+
+Franklin and Lamar confront D
+[Easy][Lamar]:    What's happening now, D man? Ain't no fun if the gangsters can't have none.
+[Normal][D]:    Man, fuck you, mark. I ain't sharing no ass with the CGFs.
+[Extreme][D]:    Man, shut the hell up, bitch!
+[Normal][D]:    Man, fuck y'all. Hey, ain't there a law against you mark-ass gangstas, insignia-mask-wearing motherfuckers?
+
+Lamar pulls out a pistol
+[Normal][Lamar]:    Oh, so what's up now, nigga? You snitchin' or somethin', nigga?
+[Extreme][Lamar]:    Bitch-ass nigga.
+[Normal][D]:    Fuck you, nigga. I'm outta here!
+
+D speeds away on his bike
+[Extreme][D]:    Fuck y'all, bitch!
+[Easy][Lamar]:    Hey, come and get that nigga. Come on, let's go. Go! Go! Get in the van!
+[Easy][Franklin]:    You see what he's driving? Man, we in a van, motherfucker. We fucked!
+[Hard][Lamar]:    Oh, gangster. We got this.
+[Hard][Franklin]:    Hold on, Chop.
+
+-If D is getting away
+[Hard][Lamar]:    He leaving us behind, fool.
+
+-If the player bumps into something.
+[Hard][Franklin]:    You okay, Chop?
+
+-If D is getting away
+[Normal][Lamar]:    OG's gettin' away!
+[Normal][Franklin]:    What the fuck you say something for? We could have creeped up on this nigga.
+[Easy][Lamar]:    You seen yourself, Franklin? You is a big black motherfucker, nigga. You creepin' days is over.
+[Normal][Lamar]:    Do that weird, like, focus shit you do. That's forty Gs gettin' away right there.
+[Extreme][Lamar]:    I should have took the wheel.
+[Normal][Franklin]:    Like you coulda done better. This piece of shit ain't going no faster!
+
+-If Franklin uses his special ability
+[Hard][Lamar]:    You get all sex face when you do that, homie. That's hilarious.
+
+-If chase continues
+  One line split into 2:
+[Normal][Franklin]:    We in a van, nigga. This motherfucker is slow as hell! Next time we goin' after a motherfucker in a car, alright? 
+[Hard][Franklin]:    All these punk-ass bikes. If we snatching this dude, we snatching his ass right. Remember the homies around the block?
+[Extreme][Lamar]:    Man, the homies is lame.
+  One line split into 2:
+[Hard][Franklin]:    Yeah, so we not. Cops were on their cellphone soon as they made the ransom call. 
+[Hard][Franklin]:    Triangulated the signal. Ghetto birds all over the place. Surveillance, my nigga.
+
+D crashes on his bike
+[Easy][Lamar]:    Damn, he got fucked up! Man, take Chop, go get that fool!
+[Normal][Franklin]:    Nigga, you just sit on your ass there with your feet kicked up!
+
+Franklin lets Chop out of the van
+[Easy][Franklin]:    Come on, Chop, come on, go bite his ass, get that motherfucker, Chop!
+[Hard][Franklin]:    The ransom's still the same if you got a bite taken out your ass.
+[Normal][Franklin]:    How the fuck you end up with your dumb ass owner, man? And how the fuck did I?
+
+[Hard][Franklin]:    I don't wanna watch you get eaten by this canine, punk. Let's do this, Chop Chop.
+[Hard][Franklin]:    Least I'm getting a workout. I thought you was an original gangster. You just a motherfucking chump. This like sprint training.
+[Hard][Franklin]:    Get him, boy! Take him down, homie!
+
+D hops on a leaving train
+[Easy][Franklin]:    Aw, fuck! Come on, boy. Find that fool. Sniff him out, Chop Chop. Lead me to him.
+[Easy][Franklin]:    He hiding in that train, boy.
+
+Franklin opens the boxcars
+[Extreme][Franklin]:    Shit, this motherfucker empty.
+[Hard][Franklin]:    Yo' ass caught! Lay down, bitch!
+[Normal][Franklin]:    Where is he, boy? Come on, where is he?
+[Easy][Franklin]:    You got a whiff of him, Chop?
+[Normal][Franklin]:    We in this together, Chop. Let's go.
+
+Chop senses another nearby dog
+[Normal][Franklin]:    Hey, where you going, boy? That don't look like no Ballas OG to me. Chop! No! Down, boy!
+[Easy][Franklin]:    Shit, Chop. Man, that's a dude, dog. Your little nasty ass ain't picky, is you? 
+[Easy][Franklin]:    Come on, Chop. Get off there, man. We got shit to do. Man, that's a dude, Chop. You'll fuck anything. Get out that thing, Chop, you filthy motherfucker.
+[Normal][Franklin]:    Not the time, Chop. We got to go. 
+[Easy][Franklin]:    This ain't time for humpin', Chop. Come on, man.
+[Hard][Franklin]:    Come on, you horny little motherfucker. You need boot camp or some shit.
+[Easy][Franklin]:    Get back on that fat motherfucker, Chop! Eh, Chop. That smell like a Balla? You smell that motherfucker, boy? 
+[Hard][Franklin]:    Go boy! Where that OG at?
+
+Chop singles out one boxcar, which Franklin opens
+[Normal][Franklin]:    Come on, Chop. Come on boy. You a mean motherfucker, man. Let's go.
+[Hard][Franklin]:    Stop running, dog!
+[Easy][Franklin]:    You scared of dogs, nigga?
+[Easy][D]:    Oh, shit! Screw that dog, man.
+[Easy][D]:    Fuck you and your stupid dog.
+[Easy][Franklin]:    Don't hump him, bite his ass, Chop. Get his ass.
+
+Chop catches up to D and takes him down
+[Hard][D]:    Get off me! Fuck you, son of a bitch!
+[Extreme][Franklin]:    Good boy, good boy.
+[Normal][D]:    That bitch just fucking bit me, man!
+
+Lamar arrives with the van
+[Easy][D]:    Oh, shit, what the fuck, man, I ain't got no beef with the CGF.
+[Normal][Franklin]:    'Cause maybe we doing our own thing.
+[Normal][Lamar]:    Get the fuck in the van, punk!
+[Easy][D]:    Shit! Hey, Lamar, is that you, nigga?
+[Hard][Lamar]:    Nigga, shut the fuck up, just get in.
+[Hard][D]:    Yeah that's you, nigga...
+[Hard][D]:    I said I had no beef, man.
+[Extreme][Franklin]:    Watch him, boy.
+[Normal][D]:    Keep this fucking dog away from me!
+
+They drive away from the railyard
+[Hard][Franklin]:    Hey, if you don't train Chop, he goin' be a lost cause like you.
+[Normal][Lamar]:    We gonna stash this dude at my spot.
+[Normal][D]:    We going back to your crib? I been there when you was in diapers.
+[Normal][Lamar]:    Shut up, man. You ain't recognize me.
+[Easy][D]:    I knew it was you before you took that flag off. You always been dumb, Lamar.
+[Normal][Lamar]:    Really? Well, I guess that mean we gonna have to shoot yo' ass when we pick up our forty stacks.
+[Normal][D]:    You ain't gonna pick up shit. Feds gonna be on you before you can even move, nigga.
+[Normal][Lamar]:    Be quiet. I gotta make a call.
+[Normal][Lamar]:    We got your boy.
+[Hard][Franklin]:    You calling them on a cellphone, you dumb motherfucker? They going to trace this shit in a sec!
+[Hard][Lamar]:    We want forty thousand. It's pay me or pay the funeral director, motherfucker.
+[Normal][Franklin]:    What the fuck you gone done? You just gave them our location. Now we gotta let this motherfucker outta here.
+
+-Alternative dialogue
+[Hard][Franklin]:    Why the fuck you pull your flag down?
+[Extreme][Lamar]:    Man, needed to breathe.
+[Easy][D]:    Lamar motherfucking Davis. This just the kind of lame-ass shit marks like you try to pull.
+[Normal][Lamar]:    Man, fuck you. And who the fuck is this Lamar nigga?
+  One line split into 2:
+[Hard][Lamar]:    We gonna see who lame when they got my two in the back of the head and little Chop Chop chewing on their shit. 
+[Normal][Lamar]:    I'ma make some bills off this fool. Just shut up while I make the call.
+[Normal][Lamar]:    Yeah, we got your homeboy, and we ain't trippin'. We goin' smoke his ass if you don't come with that bread.
+[Normal][Franklin]:    This shit dumb. They going to be all over your fuckin' cellphone.
+[Normal][Lamar]:    Forty thousand, motherfuckers. Or this nigga goin' be in forty little pieces.
+[Normal][Franklin]:    What the fuck, homie? Half the city going to be mobilized on this shit! We got to drop his ass!
+
+Franklin stops and lets D out
+[Normal][Franklin]:    Get the fuck outta here. And, gimme that damn phone.
+[Normal][D]:    Fuck y'all. I be seein' y'all soon...
+[Normal][Franklin]:    Nigga, the only reason you been seein' shit 'cause we went easy on your ass. Remember that, dog!
+[Normal][D]:    And you owe me a bike too, you motherfuckers!
+[Hard][Lamar]:    This some bullshit. Take me down the cut.
+
+Franklin drives to the recreational center
+[Hard][Franklin]:    Man, what the fuck is wrong with you, nigga?
+[Normal][Lamar]:    I was getting us paid. What the fuck is wrong with you, nigga? That was a good phone.
+[Hard][Franklin]:    A good phone? The cops was all over, nigga.
+[Hard][Lamar]:    I coulda swallowed my card. Try to triangule that.
+[Extreme][Franklin]:    It's too late. Shit's done. Least I saved you the indignity of pullin' apart your shit.
+[Extreme][Lamar]:    Nigga, I ain't afraid to get my hands dirty. Ol' precious motherfucker.
+[Hard][Franklin]:    This is what I mean, homie. We need to get serious. Get paid. This shit ain't working.
+[Hard][Lamar]:    So your old white dude's gonna fix us. Where's my first class?
+[Hard][Franklin]:    Look, I'ma learn some skills, man. Pass 'em on. There's a whole city out there. It's waiting to be taken, nigga.
+[Hard][Lamar]:    You just give me the heads up when you over that shit, nigga. Ready to wipe old due nut off your face. Ol' lame-ass mark!
+
+They arrive at the recreational center
+[Normal][Franklin]:    You the motherfucker. You'd better watch out for them Ballas, they gonna be on you now. Them cops gonna be on your ass too.
+[Easy][Lamar]:    Yeah, I ain't worried about it. I'm a motherfucking gangster, you know how I do. I can take care of my sizelf.
+[Easy][Franklin]:    No the fuck you cizain't.

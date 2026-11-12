@@ -1,0 +1,246 @@
+Tracey and Amanda are arguing in the kitchen
+[Easy][Tracey]:    You're such a fucking dictator!
+[Hard][Tracey]:    Why the fuck not?
+[Normal][Amanda]:    He's not staying the night! He's a bum! I don't even know why you are with him!
+[Extreme][Tracey]:    Oh my God! I don't give a shit!
+[Hard][Amanda]:    He's a bum! He is homeless!
+[Hard][Tracey]:    Are you kidding me?! He doesn't have anywhere to go!
+[Hard][Amanda]:    I do, you hear me? I don't care!
+[Extreme][Tracey]:    Oh my God! You have no say...
+[Hard][Amanda]:    Keep your mouth shut! What I do is none of your business!
+[Easy][Amanda]:    And you watch your language! I'm gonna call your father and you're gonna get your ass kicked!
+[Hard][Tracey]:    It's not fair! I hope someone cuts your brake cables!
+[Hard][Amanda]:    I swear to God, you kill me!
+[Extreme][Tracey]:    You kill me!
+[Hard][Amanda]:    You know, it's not that I wish I...
+[Extreme][Tracey]:    Stupid bitch...
+
+Franklin arrives at the pool
+[Extreme][Michael]:    What do you want?
+[Easy][Franklin]:    Man, I come by for that drink you offered. That's all.
+[Normal][Michael]:    I wasn't really serious about that.
+[Hard][Michael]:    You're here, whatever. Sit.
+[Easy][Michael]:    You're not gonna rob me again?
+[Easy][Franklin]:    Man, I never robbed you. That was just a repossession.
+[Easy][Michael]:    Okay... you call it whatever you wanna call it. I really don't care. What can I do for ya?
+[Easy][Franklin]:    Shit, I just came by to see if there's somethin' I can help you with. I see you doin' well for yourself.
+[Normal][Michael]:    Look... I'm retired.
+[Easy][Franklin]:    Ain't you a bit young for the pipe, slippers, and starin' at a fuckin' sunset?
+  One line split into 4:
+[Easy][Michael]:    You know, I've been in this game for a lot of years, and I got out alive. That makes me the right age. 
+[Easy][Michael]:    You look like a good kid. If you want my advice, you give this shit up. 
+[Easy][Michael]:    You work hard, screw over everybody that you love, hurt, rob, kill indiscriminately and maybe...just maybe, if you're lucky...you become a three-bit gangster. 
+[Easy][Michael]:    It's bullshit. Go to college. Then you can rip people off and get paid for it. It's called capitalism.
+[Normal][Franklin]:    Hmm, so what I saw the other day was like... when a corpse briefly reanimates itself and terrorizes everyone, right?
+[Normal][Michael]:    What you saw the other day was a guy dealing with pests.
+[Normal][Franklin]:    I guess I never saw myself as just a fuckin' pest.
+[Normal][Michael]:    Well, then today's lesson's all about humility. Tomorrow we'll try a training montage.
+[Hard][Franklin]:    A training what?
+[Normal][Michael]:    Nothin'. I was just lost in an eighties movie fantasy.
+[Hard][Franklin]:    Yeah, I can see you spend a lot of time there.
+[Hard][Michael]:    Yeah, as much as I can.
+[Normal][Franklin]:    So that's why you here in Vinewood, then, right?
+[Normal][Michael]:    Maybe I'm here because I'm just an idiot who thinks that imported palm trees are a good substitute for not really knowing what the fuck you're doing on this earth.
+[Normal][Franklin]:    Jesus, man. You a good time, you know that?
+
+Michael gets up
+  One line split into 2:
+[Normal][Michael]:    I'll tell you what, least I can do is buy you that beer. 
+[Normal][Michael]:    There's a little bar I like, it's not too far from here. Let's go.
+[Hard][Franklin]:    Alright, man. I'm following you.
+[Normal][Michael]:    We're taking my wife's car.
+[Normal][Michael]:    Let's take Amanda's car.
+
+Michael gets a call from Jimmy
+[Normal][Michael]:    Hey Jim, I'm going for a drink w...
+[Easy][Jimmy]:    Dad, shit! I'm in our boat going down the Western Highway! It's... it's been stolen!
+[Easy][Michael]:    What? The yacht's been stolen?
+[Easy][Jimmy]:    I was trying to sell it. I know you didn't want it sold, but I need money, and... they don't want to buy it, they just want to take it! I'm hiding in the head!
+[Easy][Michael]:    You're insane! Alright, I'm coming...for my boat!
+[Easy][Michael]:    Alrighty, then. Change of plans. My darling boy is in trouble.
+[Hard][Franklin]:    I'll do what I can to help with that, man.
+
+They start driving
+[Normal][Michael]:    Lesson number one: don't ever have kids.
+  One line split into 2:
+[Normal][Franklin]:    Hey, man, look, if I had kids, I don't think no parenting issues would arise over who had boat privileges and who don't. 
+[Hard][Franklin]:     Shit, motherfuckers be lucky to sit in a bathtub.
+[Hard][Michael]:    Shit, things that desperate, huh?
+[Extreme][Franklin]:    Nah, but, you know, shit, I was making a point.
+[Hard][Michael]:    Mythologizing self-deprecation. I know it well
+[Normal][Franklin]:    Yeah man, but shit, where the boat at?
+[Easy][Michael]:    Little shit's been hijacked. They're somewhere on the Western Highway.
+[Hard][Franklin]:    Man, ain't you worried?
+[Normal][Michael]:    About my boat? Yeah, I am.
+[Easy][Franklin]:    But you can always buy another boat.
+[Normal][Michael]:    Yeah, tell my accountant that.
+[Normal][Franklin]:    Man, you can always get credit for one.
+[Easy][Michael]:    And have you come and repo it? No thank you.
+[Normal][Michael]:    I ain't your homie. I'm someone you wanna impress.
+[Easy][Franklin]:    Really? Man, I thought you was retired. Why the fuck do I want to impress some slipper-wearing motherfucker?
+[Easy][Michael]:    Because I can still teach you a thing or two. Maybe help you open the door to all the joys that boat-related parenting issues entail.
+[Normal][Franklin]:    So I'ma help you get this boat back, right?
+[Extreme][Michael]:    That you are, my friend.
+
+They reach the boat
+[Easy][Michael]:    Oh! There! There! There it is! That's my boat!
+[Easy][Franklin]:    Your boat's in a fuckin' hurry, man.
+[Hard][Michael]:    Yeah, well, we'll catch 'em.
+[Extreme][Franklin]:    We got a plan?
+[Hard][Michael]:    Sure. Once I get us up close, you're the boarding party.
+[Hard][Franklin]:    More like the falling-in-traffic party.
+[Normal][Michael]:    You'll be fine. Anything happens, I got a piece in the glovebox. I'll cover you.
+[Hard][Franklin]:    Oh yeah, man. Fine. Just fucking fine. So you thought of everything, right?
+[Hard][Michael]:    Well, you said you wanted to learn the old way of doing things. This is the old way.
+
+Franklin jumps onto the yacht
+[Hard][Michael]:    Hey, aren't they stealing this to sell it? Come on! Ah, too close!
+[Extreme][Franklin]:    Get yo' ass out of here.
+[Normal][Michael]:    Not the engine! Shit! The fucking engine!
+[Normal][Michael]:    Oh, they didn't! They fucking shot the engine! Fuck!
+[Hard][Michael]:    Throw him overboard!
+[Hard][Michael]:    Hey, stop throwing assholes at me!
+[Extreme][Michael]:    Knock it off, you thieving pricks.
+[Hard][Michael]:    You got four lanes to throw guys at.
+[Hard][Michael]:    Be cool, Frank. Be cool.
+[Extreme][Michael]:    You're pirates, you know that?
+[Normal][Michael]:    Okay! Now, go find Jimmy!
+[Easy][Jimmy]:    Dad? Wait! You're the guy from the dealership?
+[Hard][Franklin]:    Yup. And it's a long story, bro.
+
+Jimmy gets snagged by the yacht's boom
+[Easy][Michael]:    Jimmy! Kid, watch out for the boom! Fuck, hold on.
+[Hard][Jimmy]:    Arrghh! Dad! Help! Help! Help!
+[Normal][Michael]:    The fuck is wrong with you, kid?
+[Easy][Michael]:    Don't "Dad" me, you little shit. You better hope she's still seaworthy!
+
+One of the thieves falls off
+[Hard][Michael]:    Yeeeeesh! Nah...shit. Come on, kid. Come on, kid.
+[Hard][Franklin]:    Hey! Get me off of this damn thing!
+
+-If Michael fails to catch Franklin
+[Hard][Jimmy]:    Dad, don't be all butt-hurt. At least you got me out of there.
+[Normal][Michael]:    You listen to me, you little shit! That kid just jumped off the hood of a moving car to save your ass, and now he's gone! And so is my boat!
+
+Michael catches Franklin as he lands on the car's bonnet
+[Normal][Franklin]:    Remind me not to come to you for parenting advice.
+[Normal][Michael]:    All a-fuckin'-board? Let's stop this ship from sailing.
+[Normal][Michael]:    That everyone? Alright, time to get the boat back.
+[Hard][Jimmy]:    This is getting really weird, pop.
+
+The car's engine starts to die
+[Easy][Jimmy]:    Ooooh, now that doesn't sound good.
+[Easy][Franklin]:    Damn, that's the engine, man. We ain't chasing shit in this thing.
+[Normal][Michael]:    Don't break down. Not yet.
+[Hard][Michael]:    Come on, stay with me. Stay with me...
+[Extreme][Michael]:    Hold it together.
+[Hard][Michael]:    Don't you die on me yet.
+
+The truck manages to escape
+[Easy][Michael]:    My fucking boat!
+[Easy][Jimmy]:    Hey, it's just a thing! At least you've still got a son...
+[Normal][Franklin]:    Eh. There's a chop shop back there, dog. You drive us there, we can get the ride fixed.
+
+They drive to Los Santos Customs
+[Easy][Michael]:    My boat!
+[Hard][Jimmy]:    It's just a thing.
+[Easy][Michael]:    My boat.
+  One line split into 2:
+[Normal][Jimmy]:    Please stop doing that... Listen... I fucked up, okay? I'm not going to lie.
+[Easy][Jimmy]:    That was a really bad judgment call, but... shit, Dad, I nearly died, and all you give a shit about is this fucking boat?!
+  One line split into 2:
+[Normal][Jimmy]:    All we do is scream at each other. No wonder I can't get a job...it's all your fucking fault.
+[Normal][Jimmy]:    Or, it's not... but it's partly your fault. I... I mean, I just want to impress you.
+[Easy][Michael]:    By selling my boat to some gangbangers?
+[Normal][Jimmy]:    I know it sounds dumb when you put it like that, but all you do is daydream or get angry...
+  One line split into 4:
+[Normal][Michael]:    Look, I love you, Jimmy, but you're an asshole. 
+[Easy][Michael]:    And right now, with my boat disappearing over the horizon, that's all I can see. 
+[Easy][Michael]:    Franklin, would you do me a favor and give this kid a ride home after they've fixed this thing? 
+[Hard][Michael]:    I want to headbutt the road in peace.
+[Normal][Jimmy]:    Oh, great...leave me with the home invader!
+[Hard][Franklin]:    I'll get it done, dog, no problem.
+[Normal][Michael]:    Enough, alright? Enough. Franklin, do me a favor, call me a taxi, will you?
+[Normal][Franklin]:    Hey, I need a cab as soon as you can send one. Los Santos Customs, by the airport. Aight, thanks.
+[Normal][Franklin]:    Eh, man, we might be able to find the boat, you know.
+[Hard][Michael]:    We ain't gonna find it, it's gone.
+[Extreme][Franklin]:    Man, I can ask around...
+[Normal][Michael]:    Don't worry about it, it's gone. I'll call the insurance company.
+[Hard][Franklin]:    You covered for fire and theft, right?
+[Hard][Michael]:    I'm guessing they don't get too many piracy claims on the Great Ocean Freeway, you know. Fuck, I hate paperwork.
+[Hard][Franklin]:    Eh, so you, ehh, do much yachting?
+[Extreme][Michael]:    Not anymore, no. I don't.
+[Extreme][Franklin]:    Before, I mean, man.
+[Hard][Michael]:    Nah, nah, not really. This little shit stays in his room all day, and I don't have many other people to go with, you know. I liked looking at it.
+  One line split into 2:
+[Hard][Michael]:    Yeah, you know, I'd come down to the marina, sit on the dock, pour myself a drink and look at her...Jacqueline.
+[Exteme][Michael]:    It'd clear my head, you know, let me dream.
+[Hard][Franklin]:    Jacqueline, huh? Well, maybe you need to do some other shit to fill your time. Dream other dreams, man.
+
+They approach Los Santos Customs
+[Normal][Franklin]:    Hey, this the place up here. I know this dude, man, his name Hao. He goin' look after.
+[Easy][Michael]:    Take what's in my pocket...a couple of thousand bucks. That'll cover it, right?
+[Extreme][Michael]:    So, you sure you're good?
+
+Michael gets out of the car and jimmy moves to the front
+[Hard][Jimmy]:    Ooo, and I'm gonna come up front.
+[Hard][Michael]:    Get out and walk around.
+[Hard][Jimmy]:    It's okay, I can just climb over.
+  One line split into 2:
+[Normal][Franklin]:    Look, I'm gonna get the ride fixed, man, and drop it back off at your house along with this dude. 
+[Extreme][Franklni]:    It's all good though, man. You go and get your head right, alright?
+[Normal][Michael]:    Alright. Listen, thanks for today. Appreciate it. You stop back out to the house, we'll talk.
+[Normal][Franklin]:    Fo' sho', man. Hey, sorry we didn't get your boat, man.
+
+Michael hails a taxi and gets into it
+[Normal][Jimmy]:    Come on, man. Let's trick this whip, homie.
+
+-If Franklin has not completed a street race
+[Normal][Hao]:    Still need to get you out for one of the races, Franklin. See if you drive as fast as you talk.
+-If Franklin has lost a street race
+[Hard][Hao]:    Surprised you're not still licking your wounds after losing that race, Franklin.
+-If Franklin has won a street race
+[Hard][Hao]:    For a second, I thought you'd just come here to talk smack about that race you won.
+
+Franklin gets Amanda's car fixed up
+[Hard][Jimmy]:    Alright. Good as new.
+[Extreme][Jimmy]:    Reconditioned, sweet.
+
+Franklin leaves Los Santos Customs and drives Jimmy back home
+[Hard][Franklin]:    I'ma take you home now.
+[Normal][Jimmy]:    It's Franklin, right?
+[Easy][Franklin]:    Yeah, Franklin. Or the credit fraud guy, the home invader, you know what, call me what you like, man.
+[Normal][Franklin]:    Jimmy, ain't it? Or James?
+[Normal][Jimmy]:    Jimmy. Or, just, like... Jizzle?
+[Normal][Franklin]:    No man, I'll just stick with Jimmy, homie.
+[Extreme][Jimmy]:    So, ahh, what's the deal, man?
+  One line split into 2:
+[Normal][Jimmy]:    You and my old man? I see you at the dealership. Then someone steals my whip. 
+[Hard][Jimmy]:    And Pop is all like, he's been down there to talk to you guys.
+[Hard][Franklin]:    Your pops did more than talk.
+  One line split into 2:
+[Hard][Franklin]:    Look, man, if he ain't tell you, I ain't gonna tell you. 
+[Normal][Franklin]:    But I lost my fuckin' job and I thought maybe he could help me find a new one.
+[Normal][Jimmy]:    Dude, my dad is retired. Like, fully. Like, his only marketable skills are watching TV and daytime drinking.
+[Normal][Franklin]:    Man, look, I dunno, homie, he seems okay to me. Shit, he saved your ass.
+[Extreme][Jimmy]:    You saved my ass.
+[Normal][Franklin]:    Nah, nah, man. Well, well, maybe we good together, you know? Like, maybe we can get shit done we couldn't do separately.
+[Hard][Jimmy]:    If it keeps him out of the house, that's cool by me.
+  One line split into 2:
+[Normal][Jimmy]:    Look, I'm sorry my dad lost you your job. It's hard out there. Tough. 
+[Hard][Jimmy]:    I mean, I'm employmentally challenged at the moment.
+[Normal][Franklin]:    Oh, you got fired, dude? Damn, that's rough.
+[Normal][Jimmy]:    Not fired, as such, I didn't get a job.
+[Hard][Franklin]:    I've been there, homie. You been putting them resumes out there, but no one's hiring, huh?
+  One line split into 2:
+[Normal][Jimmy]:    No, I, uhh, I didn't get a job. I've never had a job. It feels like hard work, life. 
+[Hard][Jimmy]:    The days just kind of disappear. Hey, you play Righteous Slaughter?
+[Extreme][Franklin]:    Nah. Not since the first couple.
+
+Franklin and Jimmy arrive back at Michael's home
+[Normal][Jimmy]:    Yo! So, like, since we're both unemployed, like, we could run together, you know?
+[Extreme][Franklin]:    Yeah, I'll think about it, homie.
+[Normal][Jimmy]:    Or, or, we could just, like, chop it, y'know? Play darts or get our drink on? Strip clubs? Come on, dude, I get real crazy.
+[Easy][Franklin]:    Yeah, I got your number should I need it, man. But, uh...hey-hey, you know what? Man, go easy on your pops, dog. Alright?
+[Hard][Jimmy]:    Alright. Church.
+[Normal][Jimmy]:    My brother from another mother. I mean... I-I hope so 'cause my mom was kind of a skank back in the day. See ya!

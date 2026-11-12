@@ -1,0 +1,183 @@
+Introduction - Breaking into Depot
+[Hard][Brad]:    Get down there!
+[Easy][Michael]:    Alright, everybody pays attention, no one gets hurt.
+[Easy][Trevor]:    Aarrgh! Open the door, or they'll get worse than hurt! Hey, hey, ah! Come on!
+[Hard][Trevor]:    Argh, finally, you prick!
+[Hard][Trevor]:    Let's go, shut up! Shut the fuck up!
+[Hard][Trevor]:    Come on. In the back. Come on. Come on.
+[Hard][Trevor]:    In the back. Come on. Let's go. Come on.
+[Normal][Trevor]:    Get in here and deal with the guard!
+
+-If Michael kills the hostage
+[Hard][Brad]:    Hey! Prick! Behave yourself!
+[Extreme][Brad]:    Hey! They're collateral!
+[Extreme][Brad]:    If anyone's killing hostages, it's me.
+[Extreme][Brad]:    No more of that, asshole. Come on.
+[Extreme][Brad]:    So, you're not getting none from that ex-stripper.
+[Extreme][Brad]:    This wasn't meant to get messy!
+[Hard][Brad]:    We need'em alive, dick.
+
+-If Michael is not getting into the room
+[Extreme][Trevor]:    Where the fuck is your head, man?
+
+Taking Hostages
+[Easy][Michael]:    Hands behind your back.
+[Extreme][Michael]:    Don't even think about it.
+[Extreme][Brad]:    Get in there!
+[Easy][Trevor]:    Sit tight. I'll handle the plastic.
+[Easy][Michael]:    Don't blow yourself up!
+
+-If Michael is standing still
+[Extreme][Brad]:    M! Get these assholes in the closet!
+[Extreme][Brad]:    I said the closet! Get 'em in there! Come on!
+[Extreme][Trevor]:    What is the problem? Why are they still out here? You were meant to lock 'em down.
+
+-If Michael kills a hostage
+[Extreme][Brad]:    We need'em alive, dick!
+
+Moving Hostages
+[Hard][Brad]:    In the back! Come on!
+[Easy][Trevor]:    All set. Phone it in.
+
+Making the call
+[Normal][Michael]:    I'm calling it.
+[Normal][Michael]:    I'm making the call.
+
+-If Michael doesn't call immediately
+[Hard][Brad]:    Blow the door!
+[Hard][Trevor]:    Blow the fucking door!
+[Hard][Trevor]:    Call already.
+[Hard][Trevor]:    Come on. Call it in!
+[Extreme][Trevor]:    Detonate!
+[Hard][Trevor]:    Get your cell out and dial.
+
+Detonating Vault Door
+[Easy][Trevor]:    Show me the money!
+[Easy][Michael]:    Slow and steady, T. Slow and steady.
+
+-If Michael stands still
+
+-If Michael is not entering the vault
+[Extreme][Trevor]:    Come on, man. The vault.
+[Extreme][Trevor]:    The money's in here.
+[Extreme][Trevor]:    The vault. Come on!
+[Extreme][Trevor]:    The vault's back here!
+
+Stealing Money
+[Hard][Trevor]:    Oh, there it is.
+[Extreme]Trevor:    That's the score.
+[Extreme]Trevor:    We're just taking the non-sequential notes.
+[Easy][Trevor]:    Oh... there's enough here for us all to enjoy!
+[Normal][Michael]:    Depends on how you look at it.
+[Hard][Trevor]:    We're done here, let's go.
+
+-If Michael is not leaving vault
+[Hard][Trevor]:    What's the hold up?
+
+Jaspers' Last Stand
+[Normal][Trevor]:    Coming out, B.
+[Easy][Jaspers]:    Give it up! I got him! I saw your face. I'll remember you.
+[Easy][Michael]:    You forget a thousand things every day. How 'bout you make sure this is one of 'em?
+[Easy][Jaspers]:    I see it in his eyes. He's crazy.
+
+-If Trevor is waiting
+[Hard][Michael]:    No one's crazy. Alright, think. Be cool.
+[Hard][Trevor]:    That's right, pal. I'm fucking crazy.
+[Hard][Michael]:    Alright, look, you wanna live? Tell me you wanna live. Work this out.
+[Hard][Jaspers]:    For sure I want to live! Tell him to put the gun down.
+[Hard][Trevor]:    Ain't gonna happen, pal. Make a move. I got all day.
+[Hard][Trevor]:    It looks like the cavalry ain't gonna show, pal!
+[Hard][Trevor]:    I'll try to make this painless.
+
+Crew Moving towards Garage
+[Easy][Michael]:    Fuck! You didn't have to do that!
+[Easy][Trevor]:    Let's get going. There'll be time for grieving later.
+[Normal][Michael]:    Yeah, you got that right.
+
+-If Trevor does not take cover
+[Hard][Brad]:    Get your fucking head down, the doors are about to blow!
+[Extreme][Brad]:    I'm ready to do this. Now, get in cover!
+[Extreme][Brad]:    What are you doing? Find some cover!
+[Hard][Michael]:    Get in cover, T.
+[Extreme][Michael]:    Quit fucking around and get down!
+[Hard][Michael]:    Wait until T's in cover, then set the charge.
+
+Blowing up the Garage Door
+[Easy][Brad]:    I'm setting the charges. They're on a timer, so brace yourselves!
+[Normal][Brad]:    Just fucking perfect!
+[Normal][Michael]:    Oh, fuck. You hear that? Sirens.
+[Easy][Brad]:    Fuck the cops. T, hit the shutter switch.
+[Easy][Trevor]:    What's this? Local resistance?
+
+Engaging with Police
+[Easy][Michael]:    It ain't supposed to go down like this.
+[Easy][Trevor]:    It never is. Come on. Go.
+
+Crew Walking towards Getaway Car
+[Hard][Michael]:    Let's get out of here!
+[Hard][Michael]:    We got a window. Let's go!
+[Easy][Trevor]:    Can't be many more cops in this town.
+[Easy][Michael]:    This is fucked, man. The thing is blown.
+[Easy][Trevor]:    I got my share. It's still wide open!
+[Normal][Brad]:    Car's up here! Let's go!
+[Easy][Michael]:    Kid mighta bailed. This wasn't in the job description.
+[Hard][Trevor]:    He better be there!
+
+-If the Crew moves quickly
+[Hard][Local Yokel]:    What took ya so long?
+[Hard][Trevor]:    Shut the fuck up and drive.
+
+Escaping with Getaway Car
+[Easy][Brad]:    Did you see that shit? I fuckin' put that bitch's face against the glass. Did you see that?
+[Easy][Michael]:    Yeah, you're a real stallion.
+[Easy][Trevor]:    Bahbahbahbahbahbahbahbahbah!
+[Normal][Local Yokel]:    Aww, fuck! How'd that happen?
+[Hard][Local Yokel]:    Jeez, I think they're gonna...
+[Easy][Michael]:    Aw, fuck! Local yokel's bought it!
+[Normal][Brad]:    That guy's a dick...
+[Hard][Michael]:    Fuck you too.
+[Easy][Trevor]:    Come on! Let's get to the chopper! We move quick, we can beat the train.
+[Hard][Michael]:    We're getting there!
+[Easy][Brad]:    Man, I'll believe in this bird when I get eyes on it.
+
+-If Michael drives slowly
+[Hard][Michael]:    I say there's a chopper, there's a chopper. We stick to the plan, we're home free.
+[Extreme][Brad]:    Alright! Yeah! Fuck 'em, man! Fuck 'em!
+[Hard][Brad]:    Man, I thought this score was supposed to be an easy take? It's all gone crazy.
+[Hard][Michael]:    Yeah. I hear you. We gotta follow the plan - everything'll work out.
+[Hard][Brad]:    Pair of neurotic idiots.
+
+Crash into the Train and Aftermath
+[Normal][Brad]:    Cops. Coming our way.
+[Easy][Trevor]:    Be cool... They ain't made this car yet.
+[Easy][Brad]:    Shit! Shit! Shit! Road block!
+[Easy][Trevor]:    Go right! Beat the train, man!
+[Normal][Trevor]:    Arrgghh! Arrgghh! Jesus!
+[Hard][Michael]:    You guys alright?
+[Easy][Trevor]:    Fuck! Come on! Ditch the car, alright? We can go this way to the chopper.
+[Easy][Michael]:    No, hey! Stick to the plan.
+[Easy][Michael]:    Stick to the fucking plan! Come on.
+[Easy][Brad]:    Where the fuck's the chopper? Fuck me, fuck, fuck!
+[Hard][Brad]:    I'm gonna check around back.
+[Easy][Trevor]:    Run! It's the fucking Feds! Someone must have fucking talked!
+[Easy][Michael]:    Alright. Brad's gonna be fine, but we gotta get the fuck out of here.
+[Easy][Michael]:    Aw, fuck! I'm hit! Ah, Jesus. T, you gotta get out of here.
+[Easy][Trevor]:    Ain't gonna leave you Mikey!
+[Easy][Michael]:    Go! God, I'm not gonna make it. Fucking gonna bleed out. Aw, go, go...
+
+Trevor's gunfight
+[Hard][Trevor]:    Die, you cocksuckers!
+[Hard][Trevor]:    Fucking die, all of you!
+[Hard][Trevor]:    Fuck you! Fuck you! Fuck you! Fuck you!
+[Hard][Trevor]:    I'm standing here! Finish me!
+[Hard][Trevor]:    Kill me, you pricks!
+
+Trevor's escape and Michael's funeral
+[Normal][Trevor]:    Where's the chopper?
+[Normal][Trevor]:    Fucking stay back! You come near me, she's fuckin' dead! Stay back!
+  One line split into 2:
+[Easy][Priest]:    Michael was not always a good husband. Not always a good citizen. He did not die a hero's death. But he was a man. 
+[Normal][Priest]:    Our Lord was crucified with two thieves, so perhaps... we should not judge.
+  One line split into 2:
+[Easy][Priest]:    We are born of sin, and we die in sin... and in this, Michael... was like anybody else. 
+[Normal][Priest]:    Father... we do not know your infinite mysteries. But we know... that you will show mercy to our friend.

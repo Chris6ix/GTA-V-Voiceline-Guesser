@@ -1,0 +1,187 @@
+Franklin arrives at the showroom
+[Easy][Simeon]:    You're a racist.
+[Easy][Simeon]:    You don't like me because you think that I am an Arab.
+[Hard][Mr._Kenneth]:    What? No! What are you talking about? It's nothing like that, wait!
+[Easy][Simeon]:    Excuse me. That boy, I am his mentor. I am so proud of you.
+[Normal][Franklin]:    What do you mean, a mentor?
+[Hard][Simeon]:    Don't worry about that.
+[Hard][Franklin]:    Okay, so what you got for me?
+  One line split into 4:
+[Easy][Simeon]:    James De Santa. Some kid, he is already late on his payments and I have this bad feeling that he will do more damage to the car than we can get back from him in the exorbitant interest rate payments. 
+[Easy][Simeon]:    Just go and get it. The house is on... Hampstead, off Eclipse. It's an SUV. 
+[Normal][Simeon]:    Some Rockford Hills daddy's boy nonsense. 
+[Easy][Simeon]:    Don't worry about it, try to bring the car back in good condition, huh?
+[Extreme][Franklin]:    I gotcha, don't worry about it.
+[Normal][Simeon]:    It's so good to see you, my boy! Good luck in... law school!
+[Normal][Simeon]:    So, Mr. Kenneth, were we at financing?
+
+-If Franklin stays to listen to Simeon and Mr Kenneth
+[Hard][Mr._Kenneth]:    The financing - it... it seems like a shitty deal.
+[Hard][Simeon]:    Because of the color of my skin, you think I am a scammer?
+[Hard][Mr._Kenneth]:    No, no... skin color's got nothing to do with it. My credit's okay, and this is all like high-risk financing...
+[Hard][Simeon]:    Yes. You are a risk. I will not give my stock away just because you are a white man.
+[Hard][Mr._Kenneth]:    No, I want a fair deal because I'm a responsible borrower in long term employment... Can you let me think about it?
+[Hard][Simeon]:    What's to think about? You're either a man or you're a vagina.
+[Extreme][Mr._Kenneth]:    It just doesn't feel right.
+[Hard][Simeon]:    You do not feel right. Perhaps a rich idiot like you can waste the day, but I have children to feed. Decide.
+[Hard][Mr._Kenneth]:    I've got to be sure this is the right decision.
+[Extreme][Simeon]:    You're wasting my time.
+[Extreme][Mr._Kenneth]:    Gimme a minute.
+[Hard][Simeon]:    All this time, I could be mentoring the disadvantaged.
+[Extreme][Mr._Kenneth]:    Look, I'm thinking.
+[Hard][Simeon]:    Buy the car, or get off the floor.
+[Hard][Mr._Kenneth]:    Can't you speak to another customer and come back to me?
+
+-If Franklin doesn't leave Simeon
+[Hard][Simeon]:    Rockford Hills. The yellow four-by-four.
+[Hard][Simeon]:    This is under control. Get the car, okay?
+[Hard][Simeon]:    I've got this covered. Go and get the car.
+
+Franklin leaves and soon receives a call from Simeon
+[Hard][Franklin]:    Eh, did you change your mind?
+  One line split into 2:
+[Normal][Simeon]:    When I discover that you betray me, perhaps. 
+[Easy][Simeon]:    I hear you took the bike for yourself, my Employee of the Month!
+[Easy][Franklin]:    Listen, man, me and Lamar was gonna get that back to you, dog.
+  One line split into 2:
+[Easy][Simeon]:    Oh, I am sure! You will get this car off the daddy's boy, and then we talk. 
+[Easy][Simeon]:    Insurance papers say they have a locked garage, so you'll need to gain access from inside the house.
+[Easy][Franklin]:    Man, it's never easy with you, is it, Simeon?
+[Easy][Simeon]:    Do not talk to me about easy, you thief!
+
+Franklin sneaks into the michaels house
+[Easy][Jimmy]:    Just 'cause you got a massive gaper, bitch.
+[Easy][Tracey]:    You fucking homo. You're dead! Dad, he said I had a massive... Jimmy called me a bitch!
+
+-Optional dialogue from Tracey
+  One line split into 7:
+[Easy][Tracey]:    Oh my god, seriously, my brother is such a homo. 
+[Hard][Tracey]:    I think he has a medical problem. Like, more medical problems than the ones he's already been diagnosed with. Mental ones. 
+[Hard][Tracey]:    Seriously, penises are not meant to be that small. I'd fucking know, right? I've seen enough of them. 
+[Hard][Tracey]:    It's probably 'cause he's so fat. I still love him though. Sort of. 
+[Hard][Tracey]:    Well, the other day, I walked in on him, and he was jerking off over pictures of my friends. 
+[Hard][Tracey]:    No, not you! The hot ones - Lauren and Lisa. No, I didn't mean it like that. You're beautiful! And interesting! 
+[Hard][Tracey]:    It's just that, you know, guys don't... they just don't get you. Hello? Hello?! Fuck... Whatever, bitch.
+
+[Easy][Jimmy]:    He tried to knife-attack me? No one creeps on the J-dog, my niggas!
+
+-Optional dialogue from Jimmy
+[Hard][Jimmy]:    I don't care if you're twelve, I'll still rape you.
+[Hard][Jimmy]:    Oooh, ouch. Rape-a-rino!
+[Hard][Jimmy]:    LOL, you suck fat man's dick.
+[Hard][Jimmy]:    Get off my face, you fucking homo!
+[Hard][Jimmy]:    You're a waste of semen, bitch!
+[Hard][Jimmy]:    Dead, you fucking idiot.
+[Hard][Jimmy]:    Oooh, slaughter time!
+[Hard][Jimmy]:    I'll cut your dick off if you call the administrator. Hey, you know what? I am the administrator!
+
+[Normal][Amanda]:    Thank you, coach.
+
+-Optional dialogue from Amanda and Kyle (Tennis coach)
+[Easy][Kyle]:    You're a real pro, Mrs. De Santa. A real pro. Well, you're a great student. Now just loosen up those hips.
+[Extreme]Amanda:    Okay. Like this?
+[Hard][Kyle]:    Yeah, loosen them up. There you go. And follow through. Perfect.
+[Extreme][Amanda]:    Ohh, okay. I think I'm getting it.
+[Easy][Kyle]:    Ohhh, okay, Amanda. Now, just follow through. God, you've got great hips, you know that? Follow through.
+[Extreme][Amanda]:    Yeah, I could get used to this.
+[Hard][Kyle]:    Excellent. Yes! Now slide your hips slow and sit into it right here. No, right here.
+[Hard][Amanda]:    Oh yeah... I could totally get used to this!
+
+-If Franklin is spotted
+[Hard][Jimmy]:    Holy fucking shit, bro! Dad! Dad, there's a dude! Dad, help! Dad!
+[Hard][Tracey]:    Who the fuck are you? Dad! Ahhhh! Dad! Ahhhhh!
+[Extreme][Amanda]:    Ahhh! Who the fuck are you?
+[Extreme][Kyle]:    Can I help you?
+[Extreme][Amanda]:    Do something! Fucking do something!
+[Hard][Kyle]:    Help! He's...he's black! Heeeelp!
+
+Franklin sneaks into the garage and calls Simeon
+[Easy][Franklin]:    Eh, Simeon. I got the ride, man, I'm coming back.
+[Easy][Simeon]:    If you actually bring the repossession to me this time, I can have it back out on the street before the day is done.
+[Easy][Michael]:    That's a nine millimeter semi-automatic pushed against your skull.
+
+-If Franklin has already left the house
+[Easy][Michael]:    Ah, don't look around. You just keep driving where you're going.
+If Franklin hasn't left the house yet
+[Normal][Michael]:    Don't look around. Take me where you're going.
+
+-If Franklin stops the car
+[Hard][Michael]:    I said drive!
+[Hard][Michael]:    What, you need some motivation? Drive!
+[Hard][Michael]:    Take me where you were going!
+
+[Easy][Franklin]:    Hey, come on, man, this was a repo job. Guy was behind on his fuckin' note.
+[Easy][Michael]:    Unlikely, considering my son just got the car. And looking at the way you're going about this, my guess, you're working a credit fraud.
+[Easy][Franklin]:    A credit fraud? Be serious, dude, I just work the fuckin' repos.
+[Easy][Michael]:    I appreciate a kid who follows orders without taking responsibility. Yeah, maybe one day we'll have a beer, and I'll explain how the world really works. Who gives you the slip?
+[Easy][Franklin]:    A car dealer, dog, by the name of Simeon Yetarian.
+[Easy][Michael]:    So this businessman, he look legit to you?
+[Easy][Franklin]:    Look, man, it's just between him and your fucking son.
+[Easy][Michael]:    Don't worry. Me and Mr. Yetarian, we'll work this out.
+
+-If Franklin doesn't take Michael to the dealership
+[Hard][Michael]:    This don't look like the way to no-credit alley to me.
+[Hard][Franklin]:    Shit, man, with traffic and all, this way is faster.
+[Hard][Michael]:    Dumb move, kid.
+[Hard][Michael]:    You just got a little bit dumber.
+
+Franklin reaches the showroom.
+[Hard][Franklin]:    Hey, man, it's just up here.
+[Normal][Michael]:    Okay. Stop the car. Pull up.
+
+Franklin stops the car
+[Hard][Michael]:    That the place?
+[Normal][Franklin]:    Yeah, that's the place, man. Whoa.
+[Easy][Michael]:    Drive into it. Right through the fucking window, and fast. Or I'll put two rounds in the back of your skull, and do it myself.
+[Hard][Franklin]:    Man, you can't be for real?
+[Normal][Michael]:    I look like a fucking joke to you?
+[Normal][Franklin]:    Man... Fuck my life, man. Fuck it.
+
+Franklin starts driving
+[Normal][Michael]:    Ram it already!
+[Hard][Michael]:    I still got this gun to your head!
+
+Franklin drives into the showroom through the window
+[Hard][Franklin]:    Shiiiiit!
+[Normal][Franklin]:    Shitty situations, dog.
+[Easy][Simeon]:    Franklin! What the fuck are you doing?
+[Easy][Franklin]:    Mr. Simeon, it's not exactly how it looks.
+[Normal][Michael]:    I always trump big for a job well done. Now get out of here, kid.
+
+Michael fights Simeon
+[Extreme][Simeon]:    You motherfucker!
+[Easy][Simeon]:    Simeon Yetarian doesn't back down from anybody!
+[Hard][Simeon]:    See, now, you've pissed me off!
+[Normal][Simeon]:    I won't be treated like this!
+[Easy][Michael]:    You recognize this car? Huh? Does it look like it's worth five grand a month to you?
+[Hard][Simeon]:    You fucking racist...
+[Easy][Michael]:    I'll tell ya something, this thing's gonna need some serious bodywork before it's worth five grand a month!
+[Normal][Simeon]:    He agreed to financing, I have his signature.
+[Easy][Michael]:    Yeah? Did he agree to have some punk break into my fucking house?
+[Extreme][Simeon]:    I- I don't know...
+[Easy][Michael]:    That kid might be a fucking idiot, but you are a fraudulent scumbag piece of shit.
+[Easy][Michael]:    Don't make me have to come back here.
+
+-Optional post-mission phone calls
+-Michael calls Dave Norton
+[Hard][Dave]:    Michael.
+[Hard][Michael]:    Dave.
+[Extreme][Dave]:    To what do I owe you this pleasure?
+[Extreme][Michael]:    Just want to talk.
+[Extreme][Dave]:    You behaving yourself?
+[Extreme][Dave]:    And how are the kids?
+[Hard][Michael]:    Great. Amanda, too. Wonderful. She sends her love. So how's the job?
+[Hard][Dave]:    Good, thanks, yeah. New supervisor, Steve Haines. He's on that TV show.
+[Extreme][Michael]:    Really? Good guy?
+[Extreme][Dave]:    He's okay. Well, it was nice to catch up.
+
+-If the player switches to Franklin, he's in a phone conversation with Lamar
+[Hard][Lamar]:    Say again! How the fuck we get fired?
+[Hard][Franklin]:    Man, it was partly all that bullshit you pulled, and partly the repo's old man making me crash the car into the dealership.
+[Hard][Lamar]:    You're the crazy-ass motherfucker in this partnership. You better spend 'em while you got 'em.
+
+Later Franklin gets a phone call from Simeon
+[Extreme][Franklin]:    Eh, look, man...
+[Normal][Simeon]:    Look?! You were like a son to me. Employee of the Month! Does that mean nothing to you?
+[Normal][Franklin]:    Man, the dude had a gun to my head.
+[Easy][Simeon]:    No loyalty! No integrity! You should have taken the bullet! My business, my totally legitimate business! You are fucked, my boy! Fucked!

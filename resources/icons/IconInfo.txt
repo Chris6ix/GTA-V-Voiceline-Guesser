@@ -1,0 +1,8 @@
+Icons for .exe should be a single, merged .ico named "GTAVVoicelineGuesser_Icon.ico" with 16x16, 24x24, 32x32, 48x48, 64x64, 96x96 and 128x128 resolutions. Source image should be 512x512. Do not use online tools, they don't get the format right. Use ImageMagick with the command below run in its root in PowerShell.
+
+./magick.exe GTAVVoicelineGuesser_Icon.png `
+    -define icon:auto-resize=256,128,96,64,48,32,24,16 `
+    GTAVVoicelineGuesser_Icon.ico
+
+Then to turn it into a .rc, run this in the resources/icons directory in PowerShell:
+'IDI_ICON1 ICON "GTAVVoicelineGuesser_Icon.ico"' | Out-File -Encoding ascii GTAVVoicelineGuesser_Icon.rc

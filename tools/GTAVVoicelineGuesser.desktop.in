@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=GTA V Voiceline Guesser
+Comment=Made by Chris6ix
+Exec=ENTER_ABSOLUTE_PATH_TO_EXTRACED_ZIP/bin/GTAVVoicelineGuesser-VERSION-Linux
+Icon=ENTER_ABSOLUTE_PATH_TO_EXTRACED_ZIP/assets/icons/GTAVVoicelineGuesser_Icon.bmp
+Categories=Game;
+Terminal=false;

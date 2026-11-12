@@ -1,0 +1,205 @@
+Franklin receives a call from Simeon
+[Hard][Simeon]:    Franklin!
+[Hard][Franklin]:    Eh, what's going down, homie?
+[Easy][Simeon]:    The market, my boy. Liquidity's a bitch. Get over here so I can give you the new repo list.
+[Hard][Franklin]:    Alright, I'll be around when I get a chance.
+
+-If the repossessed car suffered heavy damage in the previous mission
+[Normal][Franklin]:    Hey, what's going down, Simeon?
+[Easy][Simeon]:    Franklin, I must ask you: the last car you repossessed, it was in a terrible state. Was that how you found it?
+[Hard][Franklin]:    Uhh, yeah, man. The dude wrecked it.
+[Normal][Simeon]:    Ah, that's all I need to know for the insurance men. Come to the dealership, I have something to show you.
+
+Franklin walks into the showroom
+[Normal][Franklin]:    Hey, what's up, Simeon?
+[Easy][Simeon]:    My dear boy. So good to see you. So good. Hold me.
+[Easy][Franklin]:    Yeah, look, man...Look, we've been working together for about a few months now, right?
+
+Franklin and Simeon go into the office
+[Easy][Simeon]:    Which is why I am very honored to announce to you, that you are Employee of the Month.
+[Normal][Simeon]:    Anyway, congratulations! It wasn't easy picking a winner.
+  One line split into 3:
+[Easy][Franklin]:    Yeah, me, Lamar, your nephew Sacha with the twitch. 
+[Normal][Franklin]:    Look, man. It's been a real honor, homie, but I gotta move forward in my life. 
+[Easy][Franklin]:    It seem like all I do is let people tell me what to do and I do it and nothing changes.
+[Easy][Simeon]:    I tell you what, my boy, you tell me exactly what you want, and I will very carefully explain to you why it cannot be.
+  One line split into 2:
+[Easy][Simeon]:    Today is repossessing vehicles that fools have purchased at exorbitant interest rates. 
+[Easy][Simeon]:    But tomorrow - together! I never had a black son, but if I did I want him to be just like you.
+
+Lamar interrupts the conversation
+[Normal][Lamar]:    Knock-knock, niggas!
+[Normal][Simeon]:    Hello, Lamar!
+[Normal][Lamar]:    What's up, Simeon? What's up, homie? What's happening, homie?
+[Extreme][Franklin]:    Sup, dog?
+[Easy][Simeon]:    Franklin here has been awarded Employee of the Month.
+[Normal][Lamar]:    You fucking with me, right?
+[Normal][Franklin]:    Man, we both being fucked with, dog.
+[Easy][Lamar]:    Man, knock it off, man. For real? After all the motherfucking work I put in, man?
+[Easy][Franklin]:    Man, fuck this Employee of the Month shit, homie. I'm sitting up here trying to get us...
+  One line split into 4:
+[Easy][Lamar]:    What do you mean, "fuck this Employee of the Month shit", man? When there's some shit to be won, Goddamnit, I want it. 
+[Normal][Lamar]:    I don't give a fuck what it is. Y'know what I'm talkin' about? I take no prisoners. 
+[Normal][Lamar]:    I go hard doing this shit. Big dog. Big nuts. 
+[Easy][Lamar]:    When names is on a motherfuckin' board, I want to see my name at the top of that motherfucker, and next to it, it needs to say "Winner".
+[Normal][Simeon]:    Maybe next month, huh?
+[Easy][Lamar]:    Man, fuck next month, Simeon. What about today? I... I demand a retrial.
+[Easy][Simeon]:    Today is nothing, just a bike. Hasn't made a payment at all. Some kid at Vespucci Beach. His name is Esteban Jimenez.
+[Normal][Franklin]:    Is he in a gang?
+[Easy][Simeon]:    Curiously enough, I did not inquire when he bought the bike.
+[Easy][Lamar]:    We got work to do, err... Employee of the Month.
+[Extreme][Franklin]:    Man, fuck you, and come on.
+[Easy][Lamar]:    Man, you's about a "yes, master"-ass nigga.
+
+Franklin and Lamar leave the showroom
+[Normal][Lamar]:    What we waiting for? Magellan Ave, nigga. Vespucci Beach.
+[Normal][Lamar]:    Let's go to Vespucci. Magellan Ave.
+
+-If Franklin retains his default hairstyle
+[Easy][Lamar]:    So you still rollin' with that ol' raggedy-ass hair? That country bumpkin shit is enough to get us shot right there.
+[Normal][Franklin]:    I never took you to be a ol' hair stylist-type bitch, but now it's all starting to make sense.
+
+-If Franklin changed his hairstyle
+[Normal][Lamar]:    At least you had that old raggedy-ass hair restyled, I was about to have to drop your ass.
+[Hard][Franklin]:    Man, fuck you, nig, I wish I hadn't a' cut it.
+
+The conversation in the car
+[Normal][Franklin]:    Hey, wasn't that motherfucker who took the bike that ese - Vagos dude? With the tattoo on his face and shit?
+[Extreme][Lamar]:    Yeah, that was him.
+[Normal][Franklin]:    Fuck, homie, I don't want no unnecessary bullshit here, alright?
+[Normal][Lamar]:    Nigga, I don't give a shit. There's a reason Simeon pays a couple of mean-looking motherfuckers to come repo this shit. We ain't girl scouts.
+[Hard][Franklin]:    In your case, I ain't so sure about that.
+[Normal][Lamar]:    Man, step up, nigga! Of course this dude real. Who else is gonna have the required surplus of paper, and deficiency of brain cells? He just put a dub down on this bike.
+[Hard][Franklin]:    Twenty G's?
+[Hard][Lamar]:    With a three-G note!
+[Hard][Franklin]:    Damn, that motherfucker must be tricked out, dog.
+[Normal][Lamar]:    Man, this whole setup designed to take drug money.
+[Hard][Franklin]:    Alright, man, look, we go in quiet. In and out, no fuckin' drama.
+[Normal][Lamar]:    I'll try, homie. But I'm one loud, dramatic, brash, crazy, greedy, shoot-a-motherfucker-in-the-back-type motherfucker. And you love me for it, nigga.
+[Hard][Franklin]:    That's right, homie. Nothing but love, nigga.
+[Normal][Lamar]:    That Simeon a funny dude though, huh? It's gonna be a shame when we get to book his ass and jack him for all this shit.
+[Hard][Franklin]:    What the fuck you talking about? You a psychotic motherfucker.
+  One line split into 2:
+[Extreme][Lamar]:    That's how shit work, ain't it? You do some jobs for a fool, develop a little uneasy relationship, and then they ask you to do something above and beyond. 
+[Extreme][Lamar]:    You fall out, fools get capped, then you start all over again with some other fool.
+[Hard][Franklin]:    Where the fuck you get that from? That ain't my life, dummy.
+[Extreme][Lamar]:    How 'bout the boy with the eye, from around the way? Marcus, or somethin'? You was slanging for him and then he got what was comin', right?
+[Extreme][Franklin]:    That was different. That dude had it coming.
+[Normal][Lamar]:    I don't wanna clap my boy Yetarian either, I like homie. This just smacks of the inevitable.
+[Normal][Franklin]:    Look, dog, this time we legit, homie. This honest work, it's gonna end up with us coming up in the world.
+[Hard][Lamar]:    Oh, really? That's a nice change from fools comin' up on us.
+[Extreme][Franklin]:    That's trill, homie.
+[Hard][Lamar]:    You damn right that's trill, partner, but it's a shame I don't believe it. You wanna drop some notes on that shit, I'll give you the odds, homie.
+  One line split into 2:
+[Hard][Franklin]:    You Apache motherfuckers love your bets, huh? 
+[Extreme][Franklin]:    You should go work on one of them reservation casinos, only they'd kick yo' ass out for being a fradulent imposter, motherfucker.
+[Hard][Lamar]:    You and all yo' little racial stereotypes and shit? I find 'em offensive. I'm very sensitive to your intolerance, my nigga.
+
+Franklin and Lamar arrive at the complex in Vespucci Beach
+[Easy][Lamar]:    The bike should be in one of the lockups down here.
+[Easy][Franklin]:    “Should be” is the story of your life, asshole.
+
+Franklin and Lamar jump the fence of the complex, and walk down the alleyway
+[Hard][Lamar]:    I'ma make this look easy.
+[Normal][Lamar]:    I think this crazy motherfucker want something. Hey, what's up homie, you alright?
+[Normal][Lamar]:    Ungh! Yeah, you thought I was gonna hit yo' bitch-ass huh? Drunk-ass nigga.
+[Hard][Lamar]:    Shit, man. Play it cool.
+[Hard][Lamar]:    Be cool, nigga.
+[Normal][Lamar]:    Yeah, that's right. Keep it moving, bitch.
+[Normal][Franklin]:    Man, I don't like this shit one bit. Hey, look, let's keep it smooth, homie.
+[Normal][Lamar]:    Man, your pussy the only thing that's smooth up in this shit.
+[Normal][Franklin]:    Man, what exactly did I do in a past life to deserve your stupid ass?
+[Normal][Lamar]:    This a routine lick, dog. Chill.
+[Normal][Franklin]:    Do them Vagos look routine? This is Shady-Ass Alley!
+[Hard][Lamar]:    Shit, we in Vespucci Beach.
+[Hard][Franklin]:    We on the wrong side of Vespucci Beach. You should know, a block makes a difference.
+[Extreme][Lamar]:    Eh, eh, eh, hold up.
+
+Franklin and Lamar search the garages at the end of the alley
+[Hard][Lamar]:    Got to be in one of these motherfuckers.
+[Normal][Lamar]:    It's in one of these lock-ups.
+
+-If Franklin searches the two smaller garages first
+[Hard][Lamar]:    It got to be this other one. If that weren't it...
+[Hard][Lamar]:    Ain't nowhere else it could be.
+
+Franklin and Lamar open the biggest garage
+[Easy][Lamar]:    Man, ain't this 'bout a bitch? Ain't no motherfucking bike in here, man.
+[Extreme][Franklin]:    No shit, nigga.
+
+A pair of Vagos walk up to Franklin and Lamar
+[Normal][Lamar]:    Hola, ese.
+[Normal][Lamar]:    Yeah? You saw this, motherfucker?
+
+The fight between the Vagos and Franklin and Lamar
+[Normal][Franklin]:    Hey, nigga. I woulda just gotten my ass beat over a fucking gun fight.
+[Easy][Lamar]:    Man, stop being a pussy, nigga, and grab that heat.
+[Hard][Lamar]:    Get in behind that truck, homie!
+[Hard][Lamar]:    Find your bitch-ass some cover!
+[Extreme][Franklin]:    So much for legit work.
+[Hard][Franklin]:    You sure pick the right people to pick a fight with, nigga.
+[Hard][Franklin]:    You make friends wherever your ass go, nigga.
+[Normal][Lamar]:    Motherfuckers on the scaffold is on me. Shoot up that canister!
+[Hard][Lamar]:    Now look what you have gone and done. Follow me, let's get through this!
+[Hard][Lamar]:    Even this shit out, homie! Grab the shotgun!
+[Hard][Lamar]:    Some more of them niggas.
+[Hard][Lamar]:    Man, what's a few more of these motherfuckers?
+[Hard][Lamar]:    Over there! They comin' out that door!
+[Hard][Lamar]:    Check that door! They tryin' to mash on us!
+[Normal][Lamar]:    Somebody tell them niggas this a legal repossession.
+[Hard][Lamar]:    Damn, it's a gang of niggas out here. They got their whole hood with 'em!
+[Extreme][Lamar]:    Up there! To the right!
+[Hard][Lamar]:    Up there, shoot that nigga! Bust his ass!
+
+During the shootout, a group of Vagos attempt to flee in a car
+[Hard][Lamar]:    They tryin' to bail! Get that ride!
+[Hard][Lamar]:    Shoot the gas, homie!
+[Extreme][Lamar]:    Don't fuck with this pyromaniac motherfucker!
+[Normal][Lamar]:    You still breathing, homie?
+[Hard][Franklin]:    Yeah, barely, homie.
+[Hard][Lamar]:    Shit, we gotta get the fuck away from this shit.
+[Easy][Franklin]:    Man, we only came here for a bike.
+
+The two spot Esteban Jimenez on the motorcycle, fleeing the scene
+[Normal][Lamar]:    And there the motherfucker is right there. Hey, nigga, come here, we got yo' pink slip!
+[Hard][Franklin]:    We really gonna repo after all this bullshit?
+
+Franklin and Lamar hop in their car to pursue Jimenez
+  Dialogue 1
+[Hard][Franklin]:    You crazy motherfucker! Why we have to pop all them people?
+[Hard][Lamar]:    You was there too. Correct me if I'm wrong, but you shot more of them than I did.
+[Extreme][Franklin]:    Yeah, but you started this shit, stupid.
+  Dialogue 2
+[Normal][Lamar]:    Let's get him, homie! I wanna get paid!
+[Normal][Franklin]:    Paid ain't worth shit when you doin' twenty-five with a L. We massacred those motherfuckers. Shit.
+
+-If Jimenez is not in sight
+  Dialogue 1
+[Extreme][Lamar]:    Man, you lost him already!
+[Normal][Franklin]:    That's a monster fucking bike he riding, stupid.
+  Dialogue 2
+[Hard][Lamar]:    This punk get away, we goin' down, homie. He gonna pin us for all these bodies.
+[Hard][Franklin]:    And whose fault is that, Mr Eighties Action Movie Body-Countin' Motherfucker?
+[Extreme][Lamar]:    Don't play the blame game, just get on this shit.
+  Dialogue 3
+[Extreme][Lamar]:    Motherfucker's gettin' away from us.
+[Hard][Franklin]:    That's because he's sitting on a hundred and forty cubic inches right there, nigga.
+[Extreme][Lamar]:    Oh shit, professor, you're right!
+
+-If the duo catch up to Jimenez
+[Hard][Lamar]:    Pop that fool. We need him on his ass so we can get what we came for.
+[Normal][Lamar]:    We need to shoot him off the bike. Couple of scratches is better than nothin'.
+[Normal][Lamar]:    We want your bike, bitch.
+[Normal][Lamar]:    Time to give that shit up, you no-credit motherfucker!
+[Normal][Lamar]:    That's the bike we came for!
+
+Franklin and Lamar catch up to Jimenez and kill him
+[Normal][Lamar]:    Take the bike and meet me at the car wash round the way.
+[Normal][Lamar]:    Dog, we gotta lay low. Get the bike and meet me at the car wash on Innocence.
+
+Franklin arrives at the car wash
+[Easy][Franklin]:    Man, I can't hang with yo' ass for a while, bro. You a psychopath! You done finally fuckin' lost it!
+[Easy][Lamar]:    Nigga, that's that Apache blood in me, homie. You lucky I ain't do a flying tomahawk and scalp they motherfuckin' ass.
+[Easy][Franklin]:    We can't repo the assets of a dead man, “big sitting chief asshole”!
+[Easy][Lamar]:    Nigga, and we ain't going to neither, nigga. I'm gonna keep this motherfucker for myself. Tell Simeon we couldn't recover it.
+[Normal][Franklin]:    You fucking tell him, you fucking moron!

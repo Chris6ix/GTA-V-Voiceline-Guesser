@@ -1,0 +1,7 @@
+[Easy][Michael]:    Hey, Lest, I got the goodnight gas.
+ 
+-If the player also completed Bugstars Equipment
+[Normal][Lester]:    That's everything we need. I'll put out word that the score is ready to go.
+ 
+-If the player hasn't completed Bugstars Equipment yet
+[Normal][Lester]:    Ahh, good. Once we have the pest control van, we'll be ready to go.

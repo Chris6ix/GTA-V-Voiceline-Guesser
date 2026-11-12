@@ -1,0 +1,211 @@
+Michael's first discussion with Dr._Friedlander
+[Easy][Dr._Friedlander]:    Your son, James. He's a good kid?
+  One line split into 3:
+[Easy][Michael]:    He's a good kid? A good kid? Why? Does he help the fuckin' poor? 
+[Easy][Michael]:    No. He sits on his ass all day, smoking dope and jerkin' off while he plays that fucking game. 
+[Easy][Michael]:    If that's our standard for goodness, then no wonder this country's screwed.
+[Hard][Dr._Friedlander]:    And what about you?
+[Hard][Michael]:    What about me?
+  One line split into 2:
+[Easy][Michael]:    I didn't have the advantages that kid has. 
+[Easy][Michael]:    By the time I was his age, I'd already been in prison twice. I robbed banks, I ran whores, I smuggled dope.
+[Easy][Dr._Friedlander]:    And you consider them achievements?
+[Easy][Michael]:    These were the opportunities I had. At least I took 'em.
+[Easy][Dr._Friedlander]:    And where did these opportunities get you, Michael?
+  One line split into 3:
+[Easy][Michael]:    They got me right...fuckin' here! 
+[Easy][Michael]:    The end of the road! With a big house and a useless kid, and I'm stuck talking to you because no one else gives a shit. 
+[Easy][Michael]:    Oh, I'm living the dream, baby, and that dream is fucked! It is... fucking fucked!
+[Easy][Dr._Friedlander]:    Let it all out.
+[Normal][Michael]:    I think I just did.
+[Easy][Dr._Friedlander]:    Oh, well I, think that's all we have time for. Same time next week?
+[Normal][Michael]:    I gotta tell you, I ain't too sure this shit is working for me.
+[Easy][Dr._Friedlander]:    Well, a sense of overriding futility is a vital part of the process. Embrace it.
+[Hard][Michael]:    Whatever you say, Doc.
+
+Scene at the walkway besides the beach
+[Hard][Michael]:    I know just how you feel.
+[Hard][Lamar]:    Man, shit gotta be around here somewhere.
+[Easy][Franklin]:    Unless they buried it under the sand, fool. Another brilliant Lamar Davis production.
+[Easy][Lamar]:    Man, fuck you. Hey, excuse me, homie, can you tell me where Bertolt Beach House is?
+[Normal]Michael:    No, homie, I cannot.
+[Hard][Franklin]:    Man, would you come on? Fuck!
+[Easy][Michael]:    Actually, yeah. It's that house right there, with the yellow stairs.
+[Easy][Lamar]:    Yeah, good looking out, homie, appreciate it.
+  One line split into 3:
+[Easy][Franklin]:    Man, get your stupid ass on. Damn! 
+[Easy][Franklin]:    Why don't you ask him if he knows the fucking owner? 
+[Easy][Franklin]:    Or better yet, do some sky-writing that reads there's a couple of niggas here about to boost some cars in case somebody didn't realize.
+[Easy][Lamar]:    See, what you don't realize is, we ain't boosting. This shit is legit business.
+[Easy][Franklin]:    Legit? Oh yeah, I forgot, huh? 401Ks, tax returns and all. Yeah, right.
+[Easy][Lamar]:    You the one all pumped up on doing this lick, nigga. I'm getting my money in the hood, I'm straight, fool. I'm cool.
+[Easy][Franklin]:    You cool? Cool what? Slinging dope and throwing up gang signs? Yeah, right.
+[Lamar]:    Whatever, homie.
+[Easy][Lamar]:    Yeah, homie, this the spidnot right here. Your boy Simeon wasn't bullshitting.
+[Hard][Franklin]:    Man, get your ass in there.
+[Normal][Lamar]:    Bring your ass, fool. Always trying to boss somebody.
+[Normal][Lamar]:    Damn. This nigga must got the baby dick.
+[Normal][Franklin]:    Yeah, and all this shit paid for with bad credit.
+[Normal][Lamar]:    Whoohoo. Come to Daddy. Which one you want, nigga?
+
+-If Franklin doesn't decide
+[Extreme][Lamar]:    It ain't this complicated.
+[Extreme][Lamar]:    You goin' call this or what?
+[Hard][Lamar]:    Come on. Which one of these motherfuckers you want?
+[Extreme][Lamar]:    I'm about to take away your privileges.
+[Extreme][Lamar]:    Makin' decisions - it's business 101.
+
+-If Franklin enters the 9F Cabrio
+[Normal][Lamar]:    You always was an old choosy motherfucker.
+[Extreme][Franklin]:    Only child.
+[Hard][Lamar]:    Aw, you ballin' hard with the drop top, huh?
+[Extreme][Franklin]:    I might just be.
+[Normal][Lamar]:    Whatever, nigga, it ain't gonna make you go no faster. Hit me on the speakerphone, I'm movin'!
+[Normal][Franklin]:    Oh, it's like that, nigga?
+
+-If Franklin enters the Rapid GT
+[Normal][Lamar]:    Like that? Bobby big dick on the nigga, huh?
+[Hard][Franklin]:    Shit, for real, homie!
+[Easy][Franklin]:    Damn, this motherfucker got a robo-roof and everything, nigga!
+[Normal][Lamar]:    He shoulda paid the nizote!
+[Normal][Franklin]:    Man, you got to grind to keep that shit. Now it's back on us.
+[Normal][Lamar]:    Hell yeah, I wanna see what it do. Hey, hit me on the speakerphone, lo.
+[Hard][Franklin]:    Oh, it's like that? Fo' sho', homie.
+[Easy][Lamar]:    Right up here, homie. I'm 'bout to go nice and slow for yo' bitch-ass.
+
+-If Franklin gets in front of Lamar
+  Option 1
+[Hard][Lamar]:    How the fuck you get in front of me?
+[Hard][Franklin]:    Your slow ass should be askin' why I didn't get here sooner.
+  Option 2
+[Hard][Lamar]:    How the fuck did you get up front?
+[Hard][Franklin]:    I been faster than your lanky ass since kindergarten.
+  Option 3
+[Hard][Lamar]:    That you in front, you fat motherfucker?
+[Hard][Franklin]:    Who else, you lanky bitch?
+
+The drive
+[Normal][Franklin]:    Eh, remember, we got to be careful with these rides, homie. 'Cause Simeon ain't about to dock my pay again...
+[Normal][Lamar]:    Homie, man, if you need some bread, I could hook you up with JB's tow truck. It ain't got glamor but there's some money to be made.
+[Normal][Franklin]:    So him and Tonya can smoke crack in peace? Homie, I'm good.
+[Extreme][Lamar]:    Come on, Frank.
+[Extreme][Franklin]:    If you wanna chuck them thangs?
+[Normal][Lamar]:    Damn, dog, how much we gettin' for these repos? I'ma be one reluctant motherfucker givin' this up.
+[Normal][Franklin]:    Man, there's enough bad credit going around, homie. It's like there's an endless supply in this fucked-up-ass country.
+[Normal][Franklin]:    Hey, open up, homie. Gimme some room.
+[Normal][Lamar]:    You want room? Go lose some weight with your fat ass.
+[Hard][Lamar]:    This meant to be your shit.
+[Hard][Franklin]:    I'll come at you from the shoulders, homie.
+[Extreme][Franklin]:    Get out the road!
+[Easy][Franklin]:    Hey, dog, we'd be doing Simeon a disservice if we didn't test these rides out.
+[Normal][Lamar]:    He ain't even gonna know if they good if we don't push them to the brink. You feel me?
+[Normal][Lamar]:    Up here, through the studio. Let's show these movie people how we do!
+[Hard][Franklin]:    Oh, we filmin' shit here! Huh?
+[Hard][Lamar]:    Eh, eh. Down this alley here.
+[Normal][Lamar]:    Remember this is Yetarian's car.
+[Extreme][Lamar]:    Left here.
+[Extreme][Lamar]:    We hangin' a left.
+[Normal][Lamar]:    Whoo! You wanna get whips like this, you gotta stay on yo' gridnind.
+[Normal][Franklin]:    nigga, and do some time over nickels and dimes? I'll stick to repos, dog.
+[Hard][Lamar]:    Keep up, homie!
+[Extreme][Lamar]:    We goin' right.
+
+They turn onto Vespucci Boulevard, narrowly missing a bus
+  Option 1
+[Normal][Lamar]:    Left here. We going through the parking lot.
+  Option 2
+[Normal][Lamar]:    Left, through the parking lot.
+
+They enter the parking lot
+[Extreme][Lamar]:    You ain't even testin' me.
+[Extreme][Franklin]:    Screw you too, homie.
+[Extreme][Lamar]:    Keep bustin', loc!
+
+They race underneath the Arcadius Business Center, before emerging at the entrance to the Union Depository
+  Option 1
+[Normal][Lamar]:    We buzzing the Union Depository, motherfucker!
+[Normal][Franklin]:    That super-bank? Motherfucker, you a idiot.
+  Option 2
+[Hard][Lamar]:    I'ma make a withdrawal, homie.
+[Normal][Franklin]:    You dumb motherfucker. That's the Union Depository.
+
+They arrive in the parking lot
+-If Franklin Wins & the car is in good condition
+[Easy][Franklin]:    What you go and slow up the road for, dog? Move over so the traffic can flow through.
+[Easy][Lamar]:    Whatever, nigga. I'll let something flow through your ass.
+[Normal][Franklin]:    Dog, I ain't too sure that joke works, dog.
+
+-If Franklin wins & the car is damaged
+[Normal][Lamar]:    That bucket don't look like the whip we picked up.
+[Hard][Franklin]:    Existing damages, motherfucker.
+
+-If Lamar wins
+[Hard][Lamar]:    Finally, bitch! When you goin' learn how to move something?
+[Hard][Franklin]:    I'll show you how to move something, nigga!
+
+Sirens are heard in the distance
+[Normal][Lamar]:    Oh shit, the one-time!
+[Easy][Franklin]:    Be cool, fool, we got the paperwork.
+[Easy][Lamar]:    Whatever, you explain that shit. I'll see you at the dealership!
+[Normal][Franklin]:    Explain that shit my ass!
+
+Scene at Premium Deluxe Motorsport
+[Extreme][Jimmy]:    I don't get you, bro.
+  One line split into 3:
+[Easy][Simeon]:    You are a racist and I don't like you, and I will not sell you this car, I will not. 
+[Easy][Simeon]:    You make my skin crawl, you neo-Nazi. Ah, you are all the same, you are disgusting.
+[Normal][Simeon]:    This racist insulted me.
+[Easy][Lamar]:    Ay, wassup, fool? Who you callin' a nigga?
+[Easy][Jimmy]:    No, no. I'm not callin' nobody a nigga.
+[Hard][Lamar]:    Man, what the fuck?
+[Easy][Jimmy]:    I...I mean... N-word. I, I... That...that's not cool, man. I don't say that.
+[Easy][Lamar]:    You fuckin' right, and you'd better keep it right, 'cause this man right here, he's an international businessman, a multi-culturalist.
+[Easy][Simeon]:    That I could have not said better myself, ah? But seriously, maybe he's not a racist, but I don't think that he is man enough for a car like this!
+[Hard][Jimmy]:    Wai...wait a second.
+[Easy][Lamar]:    This guy right here? Him? Get him a hybrid. That's a real man's car.
+[Easy][Simeon]:    I think you are right, Lamar. You'll get a tax rebate. I understand, money is an issue, eh.
+[Easy][Jimmy]:    Money isn't an issue.
+[Easy][Lamar]:    This is the best part, watch this when he reel him in, he gonna get all this fool's money, watch this.
+[Easy][Franklin]:    Look, man, I gotta go. Hey, Simeon, I'm out! I'll holla at you, homie.
+[Normal][Lamar]:    It's the best part, man.
+[Easy][Simeon]:    So, Jimmy, are you sure you are man enough? Take the wheel, show me.
+[Normal][Lamar]:    How 'bout we fall through, homie?
+
+-If Franklin stays to watch Jimmy and Simeon
+[Hard][Simeon]:    Excellent. Now listen to the quality of the stereo.
+[Hard][Simeon]:    No, no. No, it's too much for you. You need a compact.
+[Hard][Jimmy]:    Whoa. No way, man. Compact? I'm a high-roller, SUV guy. I just need time to think.
+  One line split into 2:
+[Hard][Simeon]:    This is the problem — only the weak use their brains, the strong use their balls. 
+[Hard][Simeon]:    You're a time-waster — I should charge you for my time. How much I say per month? Double it.
+[Hard][Jimmy]:    Whoa, whoa-... hey-... I want it, okay? I just don't have much collateral.
+[Hard][Simeon]:    We take a cash deposit and your word you can meet the weekly payments.
+[Hard][Jimmy]:    Weekly? I thought it was monthly payments.
+[Hard][Simeon]:    Weekly, monthly, it doesn't matter. You are not a serious customer.
+[Hard][Jimmy]:    Whoa, whoa, whoa, I'm serious, bro. Deadly. Church, bro. Just show me where to sign.
+[Hard][Simeon]:    I am with a customer, Franklin.
+[Hard][Simeon]:    Lamar is waiting for you.
+
+Franklin and Lamar leave the dealership
+[Normal][Lamar]:    This chump change. How am I gonna knock a bad, grown and sexy bitch if I ain't got a fat pee-zocket?
+[Normal][Franklin]:    Who you trying to impress?
+[Easy][Lamar]:    Your auntie, Denise. With all that ass, nigga, she got ass.
+[Normal][Franklin]:    She grown, yeah. She grown into a fuckin' idiot.
+[Normal][Lamar]:    Nah, she's sexy.
+[Normal][Franklin]:    Sexy? She more like obsessed with sex, nigga.
+[Normal][Lamar]:    Nah, mad for the penis. That's exactly how I like my women.
+
+They arrive at Franklin's house
+[Normal][Franklin]:    Man, shit, it's good to be home.
+[Easy][Lamar]:    Wassup, can a loc come up in your crib?
+[Easy][Franklin]:    Man, fuck you. I'll see you at work.
+  One line split into 3:
+[Easy][Lamar]:    Ah, nigga, don't hate me cause I'm beautiful, nigga. 
+[Easy][Lamar]:    Maybe if you got rid of that old yee-yee-ass haircut you got, you'd get some bitches on your dick. 
+[Easy][Lamar]:    Oh, better yet, maybe Tanisha'll call your dog-ass if she ever stop fucking with that brain surgeon or lawyer she fucking with. nigga...
+[Extreme][Franklin]:    Hmph. Motherfucker.
+
+Franklin enters his house
+[Normal][Denise]:    Woo, honey. Y'all telling me. Oh, he here. We living on top of each other, and it ain't right.
+[Normal][Denise]:    Shoo, shoo! Get on out of here. Okay, baby, I'll see you at that thing, you hear?
+[Easy][Denise]:    I was on the phone, boy, don't be listening! Goddamn freeloader!

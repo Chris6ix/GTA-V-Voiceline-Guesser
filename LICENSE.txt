@@ -1,0 +1,174 @@
+GTA V Voiceline Guesser Source-Available License Version 1.0
+
+Copyright (c) 2026 Chris6ix
+
+This license applies to the original source code and other original software materials of GTA V Voiceline Guesser ("the Project") that are owned by Chris6ix.
+
+The Project is source-available. It is intentionally not distributed under an Open Source Initiative-approved open-source license.
+
+1. Definitions
+
+For the purposes of this License:
+
+"Project" means GTA V Voiceline Guesser, including its original source code and other original software materials that are owned by Chris6ix.
+
+"Project Source" means the original source code of the Project made available by Chris6ix through the official project repository.
+
+"Official Repository" means: [REPOSITORY URL]
+
+or any successor repository explicitly designated by Chris6ix as the official repository.
+
+"Official Game" means the game, executable, build, package, release, or other playable distribution of the Project that is published or authorized by Chris6ix.
+
+"Contribution" means a modification, addition, deletion, correction, or other material submitted to the Project for possible inclusion in the Official Repository.
+
+2. Permission to Use and Modify the Source
+
+Subject to the terms of this License, Chris6ix grants you a worldwide, royalty-free, non-exclusive license to:
+
+access and download the Project Source;
+
+read, study, and inspect the Project Source;
+
+copy and modify the Project Source for personal, educational, experimental, research, development, and testing purposes;
+
+compile and execute modified versions of the Project for private use;
+
+create private development branches, forks, and working copies of the Project;
+
+submit Contributions to the Official Repository;
+
+incorporate portions of the Project Source into other software projects, subject to the restrictions in Section 3; and
+
+use the Project Source as a reference for developing other software.
+
+You may make any number of private modifications to the Project.
+
+You do not need to obtain additional permission from Chris6ix to exercise the permissions expressly granted above.
+
+3. Restrictions on Distribution of the Game
+
+The permissions granted by this License do not include permission to distribute the Official Game or a modified version of the game.
+
+Without prior written permission from Chris6ix, you may not:
+
+distribute, publish, upload, mirror, or otherwise make available the Official Game;
+
+distribute, publish, upload, mirror, or otherwise make available a modified or derivative playable version of the game;
+
+distribute compiled binaries, installers, packages, archives, or other playable builds of the game;
+
+operate a download service, mirror, storefront, or other distribution channel for the game;
+
+publish a modified version of the game for others to download or play;
+
+sell, rent, license, or otherwise commercially distribute the game or a modified version of it; or
+
+authorize another person or organization to perform any of the above.
+
+This restriction applies whether the distribution is free of charge or offered for payment.
+
+Private compilation and private use are permitted. For example, you may modify the Project Source, compile your modifications, and run the resulting game on your own computer or on computers to which you have private access, provided that you do not distribute the resulting game to others.
+
+Nothing in this License requires you to submit your modifications to the Project. Contributions are encouraged, but voluntary.
+
+4. Source Code Reuse
+
+The Project Source may be used as a basis for other software, subject to the restrictions in this License.
+
+You may copy, adapt, and incorporate individual code snippets, functions, classes, modules, and other portions of the Project Source into other software projects, including commercial projects, provided that such use complies with Section 3 and the other applicable terms of this License.
+
+You may modify, adapt, or independently reimplement general programming techniques, ideas, algorithms, concepts, and functionality learned from the Project Source. This License does not restrict the use of general programming knowledge or independently developed code.
+
+However, the permissions granted by this Section do not authorize you to reproduce or redistribute the Project as a whole, or to create and distribute a renamed, rebranded, or otherwise modified version of the Project that substantially reproduces its original source code or constitutes a derivative playable version of the Project, without prior written permission from Chris6ix.
+
+Changing the Project's name, appearance, user interface, or other superficial elements does not, by itself, grant permission to distribute a version that would otherwise be prohibited under Section 3.
+
+When reusing code under this Section, retaining applicable copyright notices and providing appropriate attribution are encouraged, particularly when substantial portions of the Project Source are reused.
+
+5. Contributions
+
+Contributions to the Project are welcome.
+
+By submitting a Contribution to the Official Repository, you represent that:
+
+you have the legal right to submit the Contribution;
+
+the Contribution does not knowingly include material that you are not permitted to contribute under these terms; and
+
+you agree that the Contribution may be incorporated into the Project.
+
+You retain copyright in original material that you contribute unless you and Chris6ix separately agree otherwise.
+
+However, by submitting a Contribution, you grant Chris6ix an irrevocable, perpetual, worldwide, royalty-free, non-exclusive license to use, reproduce, modify, adapt, combine, publish, distribute, sublicense, and otherwise use the Contribution as part of the Project.
+
+This license includes the right for Chris6ix to distribute the Contribution as part of the Official Game and future versions of the Project.
+
+Contributors may receive attribution in source-code comments, documentation, a contributors list, credits, or other appropriate locations.
+
+Contributing to the Project does not give a contributor permission to distribute the Official Game or a modified version of it.
+
+6. Project Name and Branding
+
+This License does not grant permission to use the name "GTA V Voiceline Guesser", its logos, official artwork, trademarks, service marks, or other branding owned by Chris6ix in a manner that suggests that a modified or unofficial version is an official release.
+
+You may truthfully refer to the Project for purposes such as discussion, criticism, reviews, documentation, development, and Contributions.
+
+Nothing in this section prevents nominative or other uses that are independently permitted by applicable law.
+
+7. Content Creation
+
+GTA V Voiceline Guesser may be recorded, streamed, reviewed, demonstrated, discussed, or otherwise featured in videos, livestreams, articles, screenshots, and similar content.
+
+When publishing such content, you are requested and permitted to credit the Project and provide a link to the Official Repository.
+
+A suitable credit is:
+
+GTA V Voiceline Guesser by Chris6ix
+https://github.com/Chris6ix/GTA-V-Voiceline-Guesser
+
+This permission applies only to material owned or controlled by Chris6ix. Third-party materials included in the game may be subject to separate terms.
+
+8. Third-Party Software and Assets
+
+This License applies only to material that is owned by Chris6ix and is expressly covered by this License.
+
+Third-party libraries, frameworks, APIs, tools, artwork, music, sounds, fonts, textures, models, code, trademarks, and other materials included with or used by the Project are not covered by this License unless explicitly stated otherwise.
+
+Such materials remain the property of their respective copyright holders and are governed by their own licenses, permissions, terms, and restrictions.
+
+Examples may include, but are not limited to, third-party software used by the Project such as SDL, Vulkan-related components, Dear ImGui, CMake-related materials, and any third-party game assets.
+
+Copies of applicable third-party licenses and notices may be provided in the /licenses directory, in the game's help/about menu, or elsewhere in the Project.
+
+You are responsible for complying with the applicable terms of those third-party materials when using them.
+
+Nothing in this License grants permission to use third-party materials beyond the rights granted by their respective rights holders.
+
+9. No Warranty
+
+THE PROJECT AND THE ORIGINAL MATERIALS COVERED BY THIS LICENSE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Chris6ix SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE PROJECT OR ITS USE.
+
+10. Reservation of Rights
+
+All rights not expressly granted by this License are reserved by Chris6ix.
+
+In particular, this License does not grant a general right to distribute the Project or the game.
+
+Copyright in the Project remains with its respective copyright holders.
+
+11. Future Versions
+
+This License applies to the version of the Project to which it is attached.
+
+Chris6ix may release future versions of the Project under this License, a later version of this License, or different licensing terms.
+
+A change in the license terms for a future version does not retroactively change the license applicable to versions of the Project that were previously released under this License.
+
+12. Termination
+
+Your rights under this License terminate automatically if you materially violate its terms.
+
+Rights granted to you for Contributions or other material that were already lawfully incorporated into the Official Project may be subject to separate agreements or applicable law.

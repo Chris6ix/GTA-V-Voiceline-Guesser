@@ -1,0 +1,201 @@
+-If Michael is not wearing a suit
+[Normal][Lester]:    Mike, I said look nice. Can you put a suit on, please? 
+[Normal][Lester]:    You're wasting my time. When you look decent, we can go. 
+[Normal][Lester]:    We're not casing a joint with you looking like that. 
+[Hard][Lester]:    You're boring me, Michael. Just go change. 
+[Normal][Lester]:    The sooner you change, the sooner we can find you a score.
+ 
+Michael enters the garment factory.
+[Extreme][Michael]:    The hell is this place?
+[Normal][Lester]:    A garment factory. I needed a job that didn't require me to do anything apart from, uh, paying taxes.
+[Easy][Lester]:    The Holy Grail - the Union Depository. Now, they say it cannot be hit. Hasn't been yet.
+[Easy][Michael]:    Look, I just owe some Mexican a couple of million bucks 'cause I wrecked his girlfriend's house. I don't need to go crazy here.
+[Extreme][Lester]:    Which Mexican?
+[Normal][Lester]:    He's not supposed to be very nice.
+[Normal][Michael]:    Oh, when I met him, he was charming.
+[Easy][Lester]:    Oh, erm, let's see, either we hit a bank in the sticks, or we do a store. Which do you like?
+[Easy][Michael]:    Well... a store's usually easier, but I gotta make a big take.
+[Easy][Lester]:    Well, gems it is, then. Let's go to Vangelico, buy ourselves an engagement ring.
+[Normal][Michael]:    Oh, we're gonna need a crew. I can round up some of the old guys?
+[Hard][Lester]:    There are no old guys. 
+[Normal][Lester]:    Moses, ironically, he found Jesus. All those Irish crazies, they mostly just disappeared, that crew from the south, they all went down. 
+[Normal][Lester]:    There was a... an Eastern European guy making moves in Liberty City, but... nah, he went quiet.
+ 
+Michael and Lester go outside and drive off.
+[Normal][Michael]:    Alright. Well, we're gonna need a crew. You got any contacts in LS or not?
+[Normal][Lester]:    I've been working with someone, but they're too unpredictable. I'll have to reach out to some other guys.
+[Normal][Lester]:    The shop's on Little Portola. Your FIB buddies, they, uh, know you're back in business?
+[Hard][Michael]:    FIB buddies? What are you talking about?
+  One line split into 2:
+[Hard][Lester]:    I checked out the WPP thing. It doesn't look like any WitSec program I'm aware of. 
+[Normal][Lester]:    Well, for starters, they don't put witnesses up in multimillion dollar mansions in Rockford Hills.
+[Hard][Michael]:    Oh, maybe they thought this would be the best cover.
+  One line split into 3:
+[Normal][Lester]:    And most witnesses don't transfer five-figure sums into a particular FIB agent's bank account every month. 
+[Hard][Lester]:    Of course, the money gets moved around and washed through a number of fronts, but the trail is there: deposits and withdrawals, the same sum every month. 
+[Normal][Lester]:    Agent Dave Norton. White middle-aged divorcee, unremarkable career except for one incident: the shooting of a notorious stick-up man, Michael Townley.
+[Hard][Michael]:    Yeah, yeah, yeah, yeah, alright. Lester, I'm very impressed.
+[Normal][Lester]:    Look, we can talk about this another time. Take these glasses.
+[Hard][Michael]:    My eyesight's fine.
+[Normal][Lester]:    They're fitted with a camera and a radio relay. I'm going to run the operation from the car, while you're in the store getting what we need.
+ 
+Michael goes to Vangelico.
+[Normal][Lester]:    Okay, we need shots of the security features - the alarm system, ventilation, cameras.
+[Normal][Lester]:    The alarm keypad is on the left when you come in, on the wall by the side door. Glasses are live, shoot away.
+ 
+-If the player leaves before the info is obtained
+[Hard][Lester]:    You've still got work to do in the jewel store.
+ 
+Michael takes pictures of the security systems.
+-If one feature in the shot
+[Normal][Lester]:    Ah, okay, that's their alarm. Now, can you get me an air vent and one of the cameras?
+[Normal][Lester]:    That's the ventilation. Go get a camera and the alarm.
+[Normal][Lester]:    Alright, I got an idea of their CCTV setup. Can you shoot an air vent and the alarm keypad.
+ 
+-If two features in the shot
+[Normal][Lester]:    So, uh, that's the cameras and the alarm. When you've got a shot of the vents, we're done.
+[Normal][Lester]:    What we got here? Surveillance and ventilation. Now all I'm after's the alarm.
+[Normal][Lester]:    Okay. That's the alarm and the vent. We still need a shot of the surveillance system.
+ 
+-If three features in the shot
+  One line split into 2:
+[Easy][Lester]:    Shot's come through. Camera: check. Alarms: check. Vents: check. 
+[Normal][Lester]:    Good work, now speak to the assistant and see if there's anything else we need to know.
+ 
+Michael approaches the store's cashier.
+[Easy][Michael]:    Hey, beautiful. I need to pick up a little something for the woman in my life, well, one of 'em.
+[Easy][Michael]:    Cheap, thank God. This ain't my wife we're talking about. I don't know...I don't want to spend too much, I'm thinking, maybe... ten grand?
+[Easy][Michael]:    Alright. So, these things built to last, or am I just paying for the Vangelico logo here?
+[Normal][Michael]:    Alright, I think you just made a sale. I'm gonna take a look around, think about it, come back to you, baby. Don't go anywhere.
+ 
+Michael heads back to the car and drives to the roof access.
+[Normal][Lester]:    Almost. I need to get eyes on the roof of the building, see where the ventilation comes out.
+[Hard][Lester]:    Drive us around the block. We gotta find a way up to the roof.
+[Extreme][Lester]:    Look, there. Some construction.
+[Hard][Michael]:    Ah, if they're gutting the place, I might be able to get to the roof.
+ 
+Michael heads to the rooftops.
+[Hard][Michael]:    So, you keep up with the old crew?
+[Normal][Lester]:    Well, after your death/disappearance, there wasn't much holding us together.
+[Hard][Michael]:    Yeah, you see him at all, after the incident?
+[Hard][Lester]:    I kept tabs on him for a while, needed to know that he didn't blame me.
+[Hard][Lester]:    North, south, east, west, wherever there were liquor stores to turn over and hitchhikers to disappear.
+[Extreme][Michael]:    Where did they bury him?
+[Extreme][Lester]:    They buried him? Not as far as I know.
+[Extreme][Michael]:    He's probably a John Doe then, right? What do you think? OD? Shootout? Maybe just a car crash, right?
+[Normal][Lester]:    I saw a ladder. Climb up and see if you can get to the roof.
+[Extreme][Michael]:    I'm on the roof.
+  One line split into 2:
+[Easy][Lester]:    Alright, use the glasses to get a shot of Vangelico's roof unit. It'll be right above the store. 
+[Hard][Lester]:    I've pulled up a satellite image. It looks like the highest point is on the north west side. Get a shot from there.
+[Normal][Lester]:    Right, you're well placed to take the photo of the system now. Okay, capture an image of the system and we're done.
+[Easy][Lester]:    We've got our shot of the Vangelico unit, looks good. Okay, that'll do. Now, come back to me before someone spots you up there.
+
+Michael goes back to the car and drives back to the garment factory.
+[Hard][Michael]:    Here, take your glasses back.
+[Normal][Lester]:    Let's go back to the garment factory, I called ahead and told them to start setting up the information.
+[Extreme][Lester]:    Nothing that'll cause undue complications.
+  One line split into 2:
+[Normal][Michael]:    Yeah, it looked like a simple set-up: cameras broadcasting to a remote server. We might be able to wipe 'em remotely. 
+[Hard][Michael]:    Security guard on the door: he won't want to die for rich assholes that rub his nose in it.
+[Normal][Lester]:    Good. The alarm system's linked to the door lock. We'll get a good window if someone talented hacks it.
+  One line split into 2:
+[Normal][Lester]:    Well, the, uhh, more valuable merchandise is in the cabinets in the center of the store by the register. so I'd start there. 
+[Easy][Lester]:    Umm... Glass in the cabinets wasn't bulletproof, means you can smash 'em easy enough, but the stones'll be in the safe at night.
+[Normal][Michael]:    So, we go in when it's open, then?
+[Normal][Lester]:    Right. Once we melt down the gold, re-cut the rocks, that's an okay score.
+[Normal][Michael]:    Yeah, shame we can't go in after hours, man. Those vents looked promising.
+[Extreme][Lester]:    Might be able to flip that another way.
+[Easy][Michael]:    There's this kid who's been helping me. Maybe we could cut him in.
+[Extreme][Lester]:    I don't work with amateurs.
+[Normal][Michael]:    He ain't an amateur. Or, if he is, he's a gifted amateur about to turn pro. He's a good kid, Lester.
+[Hard][Lester]:    You know what they say, it's your funeral, one of them, at least.
+ 
+Michael and Lester head into the office.
+[Hard][Lester]:    My workers have their uses. Okay, let me set this up.
+[Normal][Michael]:    Nice to see the methods haven't changed.
+  One line split into 2:
+[Normal][Lester]:    Well...we gotta figure out what we're doing somehow, all the crews, the roles, prep work.
+[Hard][Lester]:    Don't want to leave evidence behind on a hard drive. So, yeah, the er...methods don't change.
+[Extreme][Michael]:    Right, not for a pro.
+  One line split into 2:
+[Normal][Lester]:    Well, mapping out the options and showing you all the angles, that's my area of professional expertise.
+[Hard][Lester]:    But making decisions, that is your domain, my friend. Here.
+  One line split into 11:
+[Easy][Lester]:    There's two ways I see of doing this - we go in smart, or we go in loud and dumb.
+[Easy][Lester]:    Remember the vents? If we're gonna be smart, we pump a little knockout gas through the air system, then hit the cabinets while everyone's out.
+[Easy][Lester]:    You'll have to source the gas, of course, but crowd control won't slow you down, and that might improve the take.
+[Normal][Lester]:    The cover is pest control, so no one will look twice when you're wearing gas masks, that means getting a pest control van, though.
+[Normal][Lester]:    You go in dumb and you'll need your famous way with people and four carbine rifles.
+[Hard][Lester]:    We can't buy 'em and risk 'em getting traced. No no no, we gotta find some in circulation.
+[Normal][Lester]:    It's awkward, it's real awkward, but this is the gun favored by LSPD tactical teams, so one of their vans is probably a good place to look.
+[Easy][Lester]:    A hacker can disable the cameras, the length of time depends on their ability. The alarm will be operating on the same window.
+[Easy][Lester]:    The exit strategy is more or less the same for both options: the driver you pick will, of course, source some bikes.
+[Easy][Lester]:    You come out of the store, and make your way through the new subway tunnel they're digging off the Del Perro Freeway.
+[Easy][Lester]:    You lose the cops in there and meet a truck in the LS River.
+[Easy][Michael]:    Alright, I want my guy, Franklin, on the getaway. He can handle a bike.
+  One line split into 2:
+[Normal][Lester]:    Alright, if you vouch for him, I'll take the risk.
+[Easy][Lester]:    So, how do you wanna do this? Run in through the front door, or try to play it smart?
+
+-Loud approach
+[Normal][Lester]:    Ah, still a hothead? Some things never change. Select personnel with that in mind.
+
+-Smart arroach
+[Normal][Lester]:    Ah, you've grown wise and cautious in your age. Okay. Select personnel with that in mind.
+
+[Normal][Lester]:    As ever, the better they are, the bigger the cut. 
+[Normal][Lester]:    Now, the driver, they'll source the bikes, lead you out through the tunnels.
+
+-If Eddie Toh
+[Hard][Lester]:    Eddie Toh. Well, you can count on him to get you out of a spot.
+-If Karim Denz
+[Hard][Lester]:    Ah, okay. This one's new blood. I've seen him drive, but I haven't seen him under pressure.
+
+-Loud approach
+[Normal][Lester]:    Guns. It might be hot and heavy in there, this guy'll keep it from going bad.
+-Smart arroach
+[Normal][Lester]:    Guns. We're hoping to keep quiet, so this guy shouldn't make much difference.
+ 
+-If Gustavo Mota
+[Hard][Lester]:    Gus Mota. He's a pro, not much else to say.
+-If Norm Richards
+[Hard][Lester]:    Ah, Norm, came across as a bit of an idiot, but could be useful.
+-If Patrick McReary
+[Hard][Lester]:    McReary? He was part of a well-known Liberty City stick-up crew. Small world.
+
+[Normal][Lester]:    Hacker. Back office, but this is the person who will determine how long you'll get inside.
+
+-If Paige Harris
+[Hard][Lester]:    Harris. Good. Feminine touch. She'll be able to find any back doors they got.
+-If Christian Feltz
+[Hard][Lester]:    Feltz. Okay, he's not the best, but if you move fast, that won't matter.
+-If Rickie Lukens
+[Hard][Michael]:    This guy - Rickie. I met him at the Lifeinvader office. He may not be that good, but he's enthusiastic.
+[Extreme][Michael]:    Let's take a chance on him.
+ 
+Lester confirms the plans.
+[Hard][Lester]:    If you're happy, I'll start making the arrangements.
+[Hard][Lester]:    That look good to you? Are you sure?
+[Hard][Lester]:    If this is how you want to do it, I'll get moving.
+ 
+The player confirms their choices.
+[Normal][Lester]:    Great, I'll do some research on a pest control van and the knockout gas, and I'll be in touch.
+[Normal][Lester]:    Ah yes, good...good. I'll call you when everything's ready. You'll need to pitch it to the guys.
+[Normal][Michael]:    Whoa, what, my rep don't count for nothing no more?
+[Normal][Lester]:    You're a dead man, Michael. I'll call you.
+ 
+After the mission, Michael calls Franklin.
+  One line split into 2:
+[Normal][Michael]:    Listen...err...I gotta get hold of the money for that house we pulled down, so, well, I'm getting a crew together for...you can guess.
+[Hard][Michael]:    The pay'll be awful, and the risk'll be high, but you might learn something, if you're interested.
+[Hard][Franklin]:    Man, that's not exactly a great sales pitch, dog, but I guess I gotta start somewhere.
+  One line split into 2:
+[Hard][Michael]:    Thank you. Maybe one day you can put together your own deals, your own... jobs.
+[Normal][Michael]:    So, there's still some preparation I gotta do, sit tight for a while, my buddy Lester will get in touch with the details.
+ 
+-Franklin can call Lamar afterwards.
+[Extreme][Lamar]:    You calmed down since that recycling job, dude?
+[Extreme][Franklin]:    Yeah, I'm calm. Since I'm dealing with professionals instead of you clowns.
+[Extreme][Lamar]:    You's a professional pain in the ass. At least Stretch out now, and I ain't got to run with you suckers no more.
+[Extreme][Franklin]:    Well shit, good luck. You fools need it.

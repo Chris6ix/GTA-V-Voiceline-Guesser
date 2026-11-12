@@ -1,0 +1,7 @@
+[Easy][Michael]:    Alright, Lester, we got a pest control van.
+
+-If the player hasn't completed BZ Gas Grenades yet
+  One line split into 2:
+[Hard][Lester]:    Good. I've got a line on the knockout gas. 
+[Hard][Lester]:    It's made in some lab on the coast, but two shipments a day come through the city from the north east, taking it to the airport.
+[Extreme][Michael]:    Alright, I'll see if I can jump one.

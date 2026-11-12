@@ -1,0 +1,432 @@
+Smart Approach Beginning
+The crew is looking over the plan
+  One line split into 4:
+[Normal][Michael]:    Now, we all know why we're here. We've got a store to take. The plan is simple... elegant.
+[Hard][Michael]:    Listen to Lester, pay attention to the information he gives you and we'll all make a buck.
+[Hard][Michael]:    Things go bad, you know the drill. This wasn't organized, we don't know each other.
+[Hard][Michael]:    We got caught up in a robbery and acted in self-defense. But that's not going to be an issue, because everything's gonna go just fine.
+  One line split into 2:
+[Normal][Lester]:    The um... the err, alarm system is easy. Now if I didn't need to be running things I could have it offline myself no problem but uh, you should be able to get us a pretty decent window.
+[Normal][Lester]:    How decent depends on the job you do. Now, once it's down, you signal Michael, he makes the call.
+  One line split into 2:
+[Easy][Michael]:    If things look good, we should be able to drop a present right through the air vent on the roof.
+[Easy][Michael]:    Everybody goes to sleep, no problem, we take our time. If we run into trouble, we move quickly and with force. Any questions? No? Let's go.
+
+-Depending on the chosen crew
+[Hard][Michael]:    Frank, you're with me. Rickie, I hope you can manage the truck with the bikes.
+[Hard][Michael]:    Frank, you're with me. Christian, take the truck with the bikes.
+[Hard][Michael]:    Frank, you're with me. Paige, you're in the truck with the bikes.
+[Hard][Michael]:    Toh, McReary, take the van.
+[Hard][Michael]:    Eddie, Norm, you got the van.
+[Hard][Michael]:    Gus, Eddie, you're in the van, alright?
+[Hard][Michael]:    Packie and Karim - the van.
+[Hard][Michael]:    Norm and Karim - you've got the van with Bugstar on the side of it.
+[Hard][Michael]:    Gus, Karim, you got the van.
+
+The crew leaves the garment factory
+[Hard][Michael]:    See you on Little Portola, people. Initials only from here on out.
+[Normal][Michael]:    Because you use too much gas on these guys, you'll kill 'em.
+[Extreme][Franklin]:    Well, shit, don't blame me the way these canisters is mixed.
+[Hard][Michael]:    Listen, I've stuck my neck out for you here.
+[Hard][Franklin]:    Man, you don't need to tell me that shit again.
+[Normal][Michael]:    I got faith in you, F, but you're unproven.
+[Normal][Franklin]:    Unproven? For real? So I didn't prove myself when I jumped off the back of that yacht on the highway, huh?
+[Normal][Michael]:    Yeah, but these guys don't know you. They see some gangbanger with a happy trigger finger. They got money and their freedom on the line.
+[Hard][Franklin]:    I ain't gonna fuck this up, man.
+[Extreme][Michael]:    Good. I got enough shit to worry about.
+
+-If Eddie, Patrick, Gustavo, and Paige were chosen
+[Normal][Michael]:    I don't know. I ain't done any real work in years, you know, so I'm giving half the take to guys who're supposed to be the best in the business...
+[Hard][Franklin]:    Alright, then it's all taken care of. You on top of shit.
+[Easy][Michael]:    Yeah, do I need to give 12% to a gunman? 14% to a driver? 15 to a hacker? And that's on top of all the other outlays! I feel like a chump buying myself a score.
+[Hard][Franklin]:    Shit. I guess we'll find out if they worth it, right?
+
+-If Karim, Norm and Rickie/Christian were chosen
+[Hard][Franklin]:    Eh, uhh, so you made savings on the personnel, huh?
+[Hard][Michael]:    Yeah, well, I figure they're on Lester's list of potentials, they can't be that bad.
+[Extreme][Franklin]:    Sure, man, what could go wrong?
+[Hard][Michael]:    A cheap hacker, a cheap driver, a cheap gunman? Ugh, pretty much everything can go wrong.
+[Hard][Michael]:    Great. The novice is reassuring me. Oh, brother.
+
+-If Eddie, Norm and Rickie/Christian were chosen
+[Hard][Franklin]:    So you cut corners on the quality of the crew, huh?
+[Hard][Michael]:    I allocated the resources the way I saw fit, okay?
+[Hard][Michael]:    The driver's capable. The others - not so much.
+[Hard][Franklin]:    So, that's like, what? Gunman and hacker?
+[Hard][Michael]:    Yeah. The getaway should be fine, but we gotta hope these two hold it together during the robbery.
+ 
+-If Karim, Patrick/Gustavo and Paige were chosen
+[Hard][Franklin]:    What's fucking with you, man?
+[Hard][Michael]:    I'm going over things in my head, you know. I mean, I laid out for a gunman and a hacker, but the driver I chose ain't getting much of a share.
+[Hard][Franklin]:    Shit, if you worried about underpaying people, man, worry about underpaying me.
+[Hard][Michael]:    Hey, you got to work your way up to a decent cut, kid. These guys are being paid what they're worth, based on past performances, I guess.
+[Hard][Franklin]:    But the driver's performances weren't really that hot? Great.
+[Hard][Michael]:    Listen, he got us bikes today, and he'll be leading you out of the area, so I'm hoping he's undervalued.
+
+-If Eddie, Patrick/Gustavo and Rickie/Christian were chosen
+[Hard][Franklin]:    The crew? Man, they looked like serious people, homie.
+[Hard][Michael]:    I made a saving on the hacker, but that shouldn't matter if I do my job on the shop floor.
+[Hard][Franklin]:    But the rest of them are serious, right? The gunman and the driver?
+[Hard][Michael]:    Yeah, they're serious. They're taking a serious cut. They better be fucking worth it.
+
+-If Karim, Norm and Paige were chosen
+[Hard][Franklin]:    Look, man, if you're nervous about being back at work, you sure don't show it.
+[Hard][Michael]:    Not so much being back at work, but the people I'm back at work with... present company excepted.
+[Hard][Michael]:    Yeah, pretty low rent. I shelled out for a good hacker, so we should have some time inside the store...
+[Hard][Michael]:    But the guy I'm in there with ain't dependable, and the guy in charge of the getaway, he ain't either.
+
+-If Eddie, Norm and Paige were chosen
+[Hard][Franklin]:    Hey, Mike, you worried? Did you pick the wrong people to come along on this?
+  One line split into 2:
+[Hard][Michael]:    Remains to be seen. We'll have a good driver waiting outside with bikes, and they'll lead you out of there. 
+[Hard][Michael]:    The hacker should earn their pay check by getting us longer inside, but the gun, ehh, questionable.
+[Hard][Franklin]:    Well, everyone in the store's going to be out. You won't need no crowd control.
+[Hard][Michael]:    Maybe, but they're still part of the team. They cost us, I'll regret it.
+
+-If Karim, Patrick/Gustavo and Rickie/Christian were chosen
+[Hard][Franklin]:    So what kind of people we working with, man?
+[Hard][Michael]:    Don't worry about the crew, worry about yourself.
+[Hard][Franklin]:    Look, homie, Imma look after my shit, it's just I'm curious.
+[Hard][Michael]:    Well, the guy coming inside with me is tough. The driver and hacker, they ain't so good, but, you know, how much of Madrazo's money am I meant to give away, huh?
+[Hard][Michael]:    Yeah, we'll find out just how reasonable in a couple of hours...
+
+The 2 arrive at the construction site and Franklin gets to the roof
+[Normal][Michael]:    Alright, this is it up there. There's a way through the site up to the roof.
+[Hard][Franklin]:    Man we went over this. I'm cool.
+[Easy][Michael]:    Alright, when the gas is in the ventilation system, give us the word.
+[Hard][Franklin]:    Excuse me. Exterminator. Hey, there ain't no one around.
+[Hard][Michael]:    That suits us. Come on, get up to the roof.
+[Hard][Michael]:    We're in position, waiting on your signal.
+[Hard][Franklin]:    Just got to get where I can throw this.
+
+-If frag grenades are equipped
+[Hard][Michael]:    Hey, I saw you had some grenades on you. Don't throw them instead of the gas bombs.
+[Hard][Franklin]:    I think I can tell the difference.
+
+Frankling throws in the gas grenade.
+[Hard][Franklin]:    Get in there. That was it. They going out.
+
+Loud Approach Beginning
+The crew is looking over the plan
+  One line split into 3:
+[Easy][Michael]:    Alright, I want to say thanks for being a part of our little operation. We're all professionals, we all know the score. 
+[Normal][Michael]:    We're gonna execute the plan, we're gonna move quick, and we're gonna keep cool. 
+[Easy][Michael]:    Anybody gets pinched, this meeting never took place. We don't know each other, is that clear?
+  One line split into 2:
+[Hard][Lester]:    Now, we've, uh, looked very, very carefully at the plans. 
+[Normal][Lester]:    We considered something more complicated, but given the location, the weakness of staffing and the exit points, we believe that a more simple plan will work best.
+  One line split into 5:
+[Normal][Michael]:    We're gonna hack in, disable security, and waltz right in through the front door. 
+[Normal][Michael]:    Security guard should be to our left. We neutralize him, 15 seconds later, you come in. 
+[Easy][Michael]:    I want extreme pressure applied to the staff, the customers are to be calmly subdued. 
+[Easy][Michael]:    I want one guy on crowd control, while you and I empty out the merchandise from the cabinets. 
+[Easy][Michael]:    We're in and out in 90 seconds, guys. Franklin'll handle your getaway, I'm leaving on foot. Any questions?
+
+Everyone leaves the garment factory
+-Depending on the chosen crew.
+[Hard][Michael]:    Rickie, I hope you can manage the truck with the bikes. Other three, you're riding with me.
+[Hard][Michael]:    Christian, take the truck with the bikes. Rest of you, you're with me.
+[Hard][Michael]:    Paige, you're in the truck with the bikes. Everyone else with me.
+[Hard][Michael]:    Franklin's driving the van. Toh and McReary, you're in the back. I'm taking the passenger seat.
+[Hard][Michael]:    Alright, Frank's got the wheel. Eddie and Norm are in the back, I'm sitting up front.
+[Hard][Michael]:    Gus, Eddie, I need you in the back of the van. Franklin's driving, I'm in the passenger seat.
+[Hard][Michael]:    Packie, Karim - you're in the back of the van, Franklin'll be driving us, and I'll be riding shotgun.
+[Hard][Michael]:    Franklin - you're driving the van. Norm, Karim - you're in the back, I'm up front, alright?
+[Hard][Michael]:    Gus, Karim, you're riding in the back of the van, I'm passenger. Franklin, driving.
+
+The crew drives to the store
+  One line split into 6:
+[Easy][Michael]:    Alright, listen up. The four of us in this van - we're about to become accomplices in a major crime.
+[Normal][Michael]:    I gotta be able to trust you with my life, my liberty, my reputation. Same goes the other way.
+[Normal][Michael]:    A crew will only work - only work - when there's trust.
+[Normal][Michael]:    So, in the interest of fostering that type of relationship in the short time that we've got, let me introduce myself.
+[Easy][Michael]:    I'm Michael, I've done this type of thing before, more than a few times. And I've made good money doing it, enough to spend a long time not doing it.
+[Easy][Michael]:    I hope it goes without saying, I know a lot of people. Anyone yaps, about me or any of you, you'll be dealt with. Got it? Good. Now, Frank, over to you.
+  One line split into 3:
+[Easy][Franklin]:    Uhhh... yeah, man, I'm Franklin, dog, and, um, I'm new to these planned out detailed robberies.
+[Normal][Franklin]:    I done my share of small jobs, you know - liquor stores, warehouses, boosting cars.
+[Easy][Franklin]:    And then I met this dude right here, Michael, man, and he turned me onto this thing.
+  One line split into 5:
+[Easy][Packie]:    Packie McReary, from the fine borough of Dukes in God's own Liberty City. 
+[Hard][Packie]:    I came to LS seeking fame and fortune and I found boredom and idiots. 
+[Hard][Packie]:    If you wanna hear about my old life, well, you're the first people I met out here who do. 
+[Hard][Packie]:    Everyone talks about what they're gonna do, who they're gonna be, they don't talk about who they are, and they don't care about anyone else. 
+[Hard][Packie]:    It's a city full of cokeheads who ain't on coke. I swear, they put something in that kale juice.
+[Normal][Michael]:    Uh, Packie comes to us highly recommended.
+[Extreme][Packie]:    Damn straight I do. Let's clean these assholes out!
+[Hard][Norm]:    Michael De Santa - formerly Michael Townley, right? Can I just say, you're the reason I got in the game, man. You're my inspiration, the original outlaw.
+[Hard][Michael]:    I don't know what you're talking about, so stop talking.
+[Extreme][Norm]:    Uhh, be cool, man. Your secret's safe with me... us.
+  One line split into 2:
+[Easy][Gustavo]:    I'm Gustavo, Gus Mota, I'm from East Los, know what I'm saying? Used to bang for the Vagos, but hey, don't tell them I told you that, I'ma need them homies if I go away. 
+[Hard][Gustavo]:    I guess I found out pretty young I could pull a trigger... but it was a couple of years before I started doing it for bread, know what I'm saying? Instead of that reppin' where you from bullshit. And here we are.
+[Normal][Michael]:    Uhh, alright, and this is Eddie Toh. He'll be cleaning out the cabinets and handling the getaway. He's got you some bikes for that. All you need to know about him is he's good.
+[Normal][Michael]:    Uhh, so, yeah. this is Karim Denz. He's cleaning out the cabinets and taking charge of the getaway. I think it's fair to say you're kinda new to this, right? But I think he can handle it.
+
+They exit the van and storm into the store
+[Normal][Michael]:    Go get the bikes. Let's go. Ready?
+[Easy][Michael]:    Ladies and gentlemen, this is your moment! Please, don't make me ruin all the great work your plastic surgeons have been doing. On the floor, now!
+
+-Depending on the chosen driver
+[Hard][Eddie]:    I'll clean out these displays! I'm on the display cases!
+[Hard][Karim]:    I'm on the cases! I got these cases!
+
+-Depending on the chosen hacker
+[Hard][Rickie]:    Bros, I wouldn't stay in there too long, okay? This alarm is gonna go... at some point.
+[Normal][Michael]:    You gotta be kidding me! Why did I employ a hacker who can't run anti-virus software?
+[Hard][Rickie]:    Shit, ummmm, okay. The alarm hasn't gone off yet.
+[Hard][Christian]:    I've bought you some time. You've got just over a minute before the alarm's back online.
+[Normal][Michael]:    That's all I get for 10%? Bullshit.
+[Hard][Paige]:    I've been able to get you around a minute and a half before the alarm'll reset itself.
+[Normal][Michael]:    90 seconds? Alright, that's why we pay you what we do. Hey, we got more than enough time to clean these people out. Let's do it!
+
+-Depending on the chosen gunman
+[Hard][Packie]:    This one's done! The cleaner's coming in! Smash and grab, boys! Come on! Come on! Better not be the display model! I'm leaving 'em empty! Fuck yeah, come on! These guys got stock! We going big!
+[Hard][Norm]:    Screw this, man. This crap's slippery. Who made this shit so small? Get in there, shit! Screw these rich pricks. It don't matter if we lose some, right? These hands weren't built for delicate work. This is a classy joint!
+[Hard][Gustavo]:    How we doing, how we doing? How you doing over there? They got nice stones in this joint. Let's go! Let's go! This better not be paste.
+
+-Depending on the chosen crew
+[Normal][Michael]:    Quick hands, man, that's why you get your cut. Keep it up. Keep moving quick, you're doing great.
+[Normal][Michael]:    Hey, buddy, you keep handling the merch like that, you're gonna earn your 12%.
+[Normal][Michael]:    Hey, can you get your shit together and stop dropping loot?!
+
+-If Michael stops the guard from escaping
+[Extreme][Michael]:    Don't be a hero!
+[Hard][Michael]:    I know you ain't the best, N, but you gotta do better! Control 'em.
+[Hard][Michael]:    N, get your shit together, and be better than your quote tells me you are.
+
+-If Michael doesn't stop the guard from escaping
+[Hard][Michael]:    Ohh, you're supposed to be controlling the crowd.
+
+-If a good gunman was chosen
+[Hard][Packie]:    No, don't even try it! Get on the ground! Girl, where are you going? Get on the floor!
+[Hard][Gustavo]:    On the floor, lady! On the fucking floor! You, lady, get on the fucking floor!
+[Normal][Michael]:    Good crowd work, P! You were worth the outlay.
+[Normal][Michael]:    G, nice work on the crowd! You're worth whatever we're paying you, buddy.
+
+-If Norm was chosen
+[Hard][Michael]:    Lady! Stop or you're dead! Hey, lady, you wanna get killed?! Stop right there!
+
+-Depending on the chosen driver
+[Normal][Michael]:    Nice work, man. There's a reason you're paid what you're paid.
+[Hard][Michael]:    Hey! Can you get your shit together and stop dropping loot? Hey, asshole! Most of your cut is sittin' on the fucking floor!
+[Hard][Eddie]:    Quick hands! My wife would like it here!
+[Hard][Karim]:    This is tricky work! This ain't as easy as it looks! Someone pick that up! I'm paid to drive, not do this!
+
+From here on the same between loud and smart
+-If there's a low amount of time left. Depending on the chosen hacker
+[Hard][Rickie]:    I think you got maybe thirty seconds left.
+[Hard][Paige]:    Forty seconds.
+[Hard][Michael]:    Alright, we're running out of time. We got to step it up if we're gonna hit the target.
+[Hard][Michael]:    Keep it up, keep moving quick, you're doing great.
+[Hard][Michael]:    Time's running out. Take what you can!
+
+The required amount of jewels are taken
+[Normal][Michael]:    Hey! We hit our target! Let's see how high we can go! 
+[Normal][Michael]:    Alright, that's our target. Keep it up, see how much we can get! We're almost out of here!
+
+-If all jewels were taken
+[Normal][Michael]:    They're outta stones, let's hit the road!
+[Extreme][Michael]:    Ain't nothing left here for us! Let's get!
+[Extreme][Michael]:    Yeah, baby! We got it all. Let's go, let's go!
+
+-If the alarm hasn't gone off yet
+[Hard][Franklin]:    Coast is clear. If we move now, man, it'll be a clean getaway.
+
+-If not all jewels were taken and time runs out
+[Extreme][Michael]:    Time's up. We gotta go.
+
+-Depending on the chosen hacker
+[Hard][Rickie]:    Dudes, you gotta go, you gotta go! Get out of there, guys. I'm so not designed for a penitentiary. I hate cock!
+[Hard][Christian]:    The cops are on the way! You need to... ahh... get outta there!
+[Hard][Paige]:    The cops are coming. You've been warned.
+[Normal][Franklin]:    Eh, the cops are round the corner, man. Let's do this.
+[Normal][Franklin]:    Eh, I'm starting to hear cop noises. We got to get moving.
+
+Leaving the store
+[Extreme][Franklin]:    Man, get the fuck out my face!
+[Easy][Michael]:    You forget a thousand things every day, pal. Make sure this is one of 'em. I'll see you at the river. Go!
+
+-If Michael doesn't leave the store in time. Depending on the chosen hacker
+[Hard][Rickie]:    Shit, ummmm, get outta there!
+[Hard][Christian]:    Police have been dispatched. We're t-talking seconds here!
+[Hard][Paige]:    Get out of there now, or you will arrested and imprisoned. Go!
+
+-Depending on the chosen driver
+[Hard][Eddie]:    Stay close, stay safe, let's go! Stay on me, across here! Let's go!
+[Hard][Karim]:    Map says this way, boys, alright? Stick to me, people. Here we go!
+[Normal][Franklin]:    I could do with some directions, Karim! I'm driving blind back here! 
+[Hard][Franklin]:    I could do with some damn warnings before we turn! 
+[Hard][Franklin]:    If there's a turn coming up, you gotta tell us, man! 
+[Normal][Franklin]:    Karim, you're the driver, shit, where we going? 
+[Hard][Franklin]:    Hey, ain't the driver meant to be telling us where to go?!
+
+The 3 flee from the police on bikes
+[Hard][Eddie]:    Hard left here, going onto the big road, Dorset Drive.
+[Hard][Eddie]:    We're taking a right here, and dropping off a bridge onto the freeway.
+[Hard][Eddie]:    Now we duck to the right into these tunnels.
+[Extreme][Franklin]:    Headlights on now.
+[Extreme][Franklin]:    Put your headlights on, it's dark in here.
+
+-If Norm was chosen
+[Extreme][Norm]:    It's going out from under me!
+[Hard][Norm]:    My bike's spazzing out!
+[Normal][Franklin]:    G crashed his bike, man, that's what happens when you're workin' with fools.
+[Normal][Franklin]:    Damn cheap-ass crew crashed his self out.
+[Hard][Eddie]:    He was an amateur. Guy was a fool.
+[Hard][Karim]:    He was more experienced than me! I guess we're all learning on the job!
+
+-If Eddie was chosen
+[Hard][Eddie]:    We're going through this tunnel up ahead.
+[Hard][Eddie]:    We should be able to get into a tunnel just here.
+[Hard][Eddie]:    The tunnel splits. Both lead into the same place.
+[Hard][Eddie]:    The tunnel diverges, but it'll converge in a second.
+[Hard][Eddie]:    It gets muddy, just keep going.
+[Hard][Eddie]:    Keep going through the mud, bike should be able to handle it.
+[Hard][Eddie]:    If you know the route and you're not an idiot, these are the only bikes you'd choose.
+[Hard][Eddie]:    I studied the route and I'm not an idiot - these are the best bikes for the terrain.
+[Hard][Eddie]:    Don't go down the tunnels here. Take a left, go up by the escalators.
+[Hard][Eddie]:    Go across the metro tracks, take a left and go up the escalators.
+[Hard][Eddie]:    Down the corridor, we'll go into the sewer.
+[Hard][Eddie]:    This should take us into the sewer system.
+[Hard][Eddie]:    There's a drop here.
+[Hard][Eddie]:    Hitting a drop.
+[Hard][Eddie]:    Bear left here, and hard left when you're through the gate.
+[Hard][Eddie]:    There's a gate on the left, take a left once you're through it.
+[Hard][Eddie]:    We should start climbing toward the surface. This is the home straight.
+[Hard][Eddie]:    We're going to start ascending. This means we're nearly out of here.
+[Hard][Eddie]:    Daylight, here we go.
+[Hard][Eddie]:    I see light, we're out.
+
+-If Patrick was chosen
+[Hard][Packie]:    I didn't know why we had dirt bikes, now I see this dirt, I understand.
+[Hard][Packie]:    Good thing we got bikes that can handle the dirt.
+[Hard][Gus]:    Good call on the bikes! We need 'em on this ground.
+
+-If Karim was chosen
+[Hard][Karim]:    Okay, uhh, keep going through here.
+[Hard][Karim]:    Keep going, okay. Yeah.
+[Hard][Karim]:    Shit, man, there's a split, I dunno...
+[Hard][Karim]:    Uhh, I didn't know about this split up here.
+[Hard][Karim]:    If I'd known about the mud, I mighta chose a different bike.
+[Hard][Karim]:    What the fuck? My bike don't like this mud.
+[Normal][Franklin]:    Eh, Karim, these the wrong bikes to be using down here - couldn't you have got us some scramblers?
+[Normal][Franklin]:    Eh, these sports bikes ain't handling the mud - you shoulda got some scramblers, man.
+[Hard][Karim]:    You asked for bikes, I got fast bikes! No one said scramblers.
+[Hard][Karim]:    I picked these for speed - no one told me about the mud!
+[Hard][Karim]:    I don't know where the fuck we're going.
+[Hard][Karim]:    I hope I'm guessing right!
+[Hard][Karim]:    Oh, crap. What the fuck is this?
+[Hard][Karim]:    Through here - maybe!
+[Hard][Karim]:    I can't take much more of this! The truck better be here!
+[Hard][Karim]:    There's a way out - I don't know if it's the right way out!
+[Hard][Karim]:    I hope this is the exit we're after!
+
+-If Karim was chosen and gunman died
+[Hard][Karim]:    I don't know where to go... you gotta hold on. Hold on, I've lost my bearings...
+[Normal][Franklin]:    You're lost? Man, you kidding me?! Where'd Michael find you?
+[Normal][Franklin]:    You know you been employed as a driver? Man, you're supposed to know where you going.
+[Hard][Karim]:    Wait, it was... ummmmm...
+[Hard][Karim]:    Wait, I'll figure it out.
+[Hard][Karim]:    Screw it, we go this way.
+[Hard][Karim]:    Let's try this way!
+[Normal][Franklin]:    You better be right.
+ 
+-Depending on the chosen hacker
+[Hard][Rickie]:    Uhh, bros? Just to warn you, we're not the only people waiting for you in the LS River.
+[Hard][Rickie]:    Dudes, we're here, and it, ahh, looks like the cops might know where you're coming out the sewer.
+[Hard][Christian]:    L-look out, guys. The police know your exit point. They're right here in the river.
+[Hard][Christian]:    Word of warning - cops are waiting for you in the LS River. We'll try to help.
+[Hard][Paige]:    Bike team - the plan hasn't worked - cops are waiting for you in the LS River - we're here, but be ready.
+[Hard][Paige]:    The police know where you're coming out in the river - we're here to help, but get ready for a warm welcome.
+
+The crew meets in the LS river and continue the chase
+[Extreme][Michael]:    Hang in there, boys, I got this covered.
+[Easy][Michael]:    Keep driving - the bullbars on this truck should help us with the cops!
+[Easy][Michael]:    Hang in there, boys! I got bullbars on the truck -I'll make short work of these cops.
+[Normal][Michael]:    Keep going - I'll get to work on the cops with these bullbars.
+[Easy][Franklin]:    Look there, roadblock! Cut to the left bank of the river!
+[Easy][Franklin]:    Hey dude, the river's shallow! Cross over this side!
+[Easy][Franklin]:    Roadblocks up ahead, man. We should cut across the river!
+
+-Depending on the chosen hacker
+[Hard][Rickie]:    You mind if I video tape this? It is insane.
+[Hard][Rickie]:    This shizz be intense, yo.
+[Hard][Rickie]:    Hey, it wouldn't be a robbery without a car chase, bro.
+[Hard][Christian]:    I-I-I should have stayed at my machine!
+[Hard][Christian]:    I think I'm gonna hurl.
+[Hard][Christian]:    Are we gonna make it?
+[Hard][Paige]:    I should charge more for getting involved in police chases.
+[Hard][Paige]:    Typical men, can't organise anything without a big showdown with the law.
+[Hard][Paige]:    I can shoot if I have to, tell me if I'm needed.
+[Hard][Paige]:    If you need another gun, gimme the word.
+
+[Hard][Michael]:    Backup's here, watch your ass
+[Hard][Franklin]:    Serious, man, we can't take much more of this!
+[Hard][Franklin]:    Dude, we can't take any more of this, come on!
+[Easy][Franklin]:    M, dude, this is it. The bike's goin' give out!
+
+-Depending on the chosen driver
+[Hard][Eddie]:    Help me out here - I got a wife and kids!
+[Hard][Karim]:    You lose me, you lose the rocks!
+
+[Normal][Franklin]:    Back across the other side, right!
+
+-Depending on the chosen hacker and if a good gunner was chosen
+[Hard][Rickie]:    No more cherry tops, bro. We are clear.
+[Hard][Rickie]:    High fives, bro. We lost 'em.
+[Hard][Christian]:    I think we're clear of the cops.
+[Hard][Christian]:    I think that's all of them. Shit.
+[Hard][Paige]:    It looks good to me. Fine work, boss.
+[Hard][Paige]:    No cops in the area - I think we got a chance.
+
+[Easy][Michael]:    Alright, we're clear of the cops for right now. Let's stop at the end of the river, and we'll get the bikes into the truck.
+[Easy][Michael]:    Alright, we got a window. Let's stop at the end of the river, get the bikes in the truck.
+
+-If Norm was chosen
+[Normal][Michael]:    Two bikes?! What the hell happened?
+[Easy][Franklin]:    Man, dude crashed bike before he got in the tunnels.
+[Normal][Michael]:    Ah, shit, I shoulda paid for a better gunman. What happened to his part of the score?
+-Bag Retrieved
+[Normal][Franklin]:    I managed to pick it up.
+-Bag Not Retrieved
+[Normal][Franklin]:    It's with his crashed out bike.
+
+The crew loads the bikes into the truck and drives to Lester
+[Normal][Michael]:    F, come on, get in.
+[Easy][Michael]:    Lester's around the corner at the lockup.
+[Easy][Franklin]:    Aw, fuck, man. I thought I was goin' be stuck to that bike.
+[Easy][Michael]:    Yeah, I thought you were gonna get stuck under a cop car.
+[Normal][Franklin]:    There gotta be more dudes waiting round that way. We did not just get away with that shit, did we?
+[Normal][Michael]:    You know what? I think we did.
+[Normal][Michael]:    Oh yeah! We did it, baby! We did it!
+
+-Depending on the chosen gunman
+[Hard][Packie]:    It is good to be alive! I'm doing some rails tonight!
+[Hard][Gustavo]:    All in a day's work, homies.
+
+-Depending on the chosen driver
+[Hard][Eddie]:    Whoa, one step closer to retirement! Whoa, I might just be able to send my kids to college!
+[Hard][Karim]:    You guys gotta join my herd. Whoo, what kinda social media you guys on?
+
+-Depending on the chosen hacker
+[Hard][Rickie]:    Holla! I think I found my new calling, bros! When L.I. fired me, they said I was dangerous - they was right, yo!
+[Hard][Paige]:    I won't say it went off without a hitch, but it went off. It was a good takedown - here's to the first of many.
+
+Michael parks the truck
+[Easy][Michael]:    Call your gem guy, Lesty baby, 'cause we got merchandise!
+[Normal][Michael]:    Alright, people. We need to split up, they're gonna be looking for a crew.
+[Easy][Lester]:    I'll wire your cuts when the rocks have been sold.
+[Normal][Franklin]:    That shit was crazy, dog. So what now?
+[Normal][Lester]:    We get out of here, keep our heads down.
+[Easy][Michael]:    Hey, you did it good, kid. What'd I tell you, Lester, huh?
+  One line split into 2:
+[Easy][Michael]:    Alright, look, everybody take off. Hey, Franklin, listen, Lester and I got some things we gotta clean up. 
+[Normal][Michael]:    I want you to stop by the house a little later on, we'll celebrate, alright?
+[Normal][Michael]:    Oh man, we're back in action.
+ 
+Franklin receives a phone call from Tanisha
+[Normal][Tanisha]:    I don't care if you got money now. Don't you get it? That ain't what I was looking for - not then, not now, not ever.
+[Normal][Franklin]:    I know it ain't important, just let me take you somewhere nice, a'ight?
+[Normal][Tanisha]:    Where are you? A-are you in a strip club? Grow up, stop looking for the easy way!
+[Normal][Franklin]:    Tanisha, I got to go, a'ight? I'ma change, I promise, you won't even recognize me.
